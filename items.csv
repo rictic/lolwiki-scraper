@@ -1,0 +1,432 @@
+"name","effects","cost","combine_cost"
+"Amplifying Tome","+20 ability power","435",""
+"Blasting Wand","+40 ability power","860",""
+"Boots of Swiftness","Unique: Enhanced Movement 3","1000","650"
+"Brawler's Gloves","+8% critical strike chance","400",""
+"Chain Vest","+45 armor","700",""
+"Cloak of Agility","+18% critical strike chance","830",""
+"Dagger","+15% attack speed","420",""
+"Cloth Armor","+18 armor","300",""
+"Doran's Shield","+10 armor
++120 health
++8 health regeneration","475",""
+"Elixir of Brilliance","On use, grants 20–40 ability power, based on champion level, and 10% cooldown reduction for 4 minutes.
+Stacks
+3 per item slot.","250",""
+"Emblem of Valor","+17% life steal
+Aura
+Unique: Nearby allied champions gain +10 health regeneration.","800","100"
+"Faerie Charm","+3 mana regeneration","180",""
+"Fiendish Codex","+30 ability power
++7 mana regeneration
+Passive
+Unique: +10% cooldown reduction","1245","420"
+"Giant's Belt","+430 health","1110",""
+"Glacial Shroud","+45 armor
++425 mana
+Passive
+Unique: +15% cooldown reduction","1525","425"
+"Kindlegem","+200 health
+Passive
+Unique: +10% cooldown reduction","850","375"
+"Long Sword","+10 attack damage","415",""
+"Mana Manipulator","Unique: Nearby allied champions gain +7.2 mana regeneration.","475","115"
+"Mana Potion","Restores 100 mana over 15 seconds.
+Stacks
+9 per item slot.","40",""
+"Meki Pendant","+7 mana regeneration","390",""
+"Needlessly Large Rod","+80 ability power","1600",""
+"Negatron Cloak","+48 magic resistance","740",""
+"Null-Magic Mantle","+24 magic resistance","400",""
+"Oracle's Extract","Grants your champion stealth detection for 5 minutes or until they die.","250",""
+"Phage","+18 attack damage
++225 health
+Passive
+Unique: Your basic attacks have a 25% chance to slow your target's Movement Speed by 30% for 2.5 seconds.","1315","425"
+"Pickaxe","+25 attack damage","975",""
+"Prospector's Blade","+20 attack damage
++5% life steal
+Passive
+Unique: +200 health (does not stack with other Prospector items)","950",""
+"Prospector's Ring","+30 ability power
++7 mana regeneration
+Passive
+Unique: +200 health (does not stack with other Prospector items)","950",""
+"Recurve Bow","+40% attack speed","1050",""
+"Regrowth Pendant","+15 health regeneration","435",""
+"Rejuvenation Bead","+8 health regeneration","250",""
+"Ruby Crystal","+180 health","475",""
+"Sapphire Crystal","+200 mana","400",""
+"Sorcerer's Shoes","+20 magic penetration
+Passive
+Unique: Enhanced Movement 2","1100","750"
+"The Hex Core","Varies, based on augmentation
+Passive
++3 ability power per level","0",""
+"Vampiric Scepter","+12% life steal","450",""
+"Stinger","+40% attack speed
+Passive
+Unique: +10% cooldown reduction","1090","250"
+"Warden's Mail","+50 armor
++20 health regeneration
+Passive
+Unique: 20% chance on being hit by an autoattack to reduce attacker's movement speed and attack speed by 35% for 3 seconds.","1350","400"
+"Zeal","+20% attack speed
++10% critical strike chance
++8% movement speed","1195","375"
+"Avarice Blade","+12% critical strike chance
+Passive
+Unique: Gain +5 gold per 10 seconds.","750","350"
+"B. F. Sword","+45 attack damage","1650",""
+"Berserker's Greaves","+25% attack speed
+Passive
+Unique: Enhanced Movement 2","920","150"
+"Bilgewater Cutlass","+35 attack damage
++15% life steal
+Active
+Unique: Target champion suffers 150 magic damage and is slowed by 50% for 3 seconds. 60 second cooldown and 400 range.","1825","400"
+"Boots of Mobility","Unique: Enhanced Movement 2. When out of combat for 5 seconds the effect of these boots is increased to Enhanced Movement 5.","1000","650"
+"Boots of Speed","Unique: Enhanced Movement 1","350",""
+"Cloak and Dagger","+20% attack speed
++20% critical strike chance
++35 tenacity","1450","200"
+"Doran's Blade","+10 attack damage
++100 health
++3% life steal","475",""
+"Doran's Ring","+15 ability power
++100 health
++5 mana regeneration","475",""
+"Eleisa's Miracle","+25 health regeneration
++20 mana regeneration
++35 Tenacity","1300","500"
+"Elixir of Agility","On use, grants 12–22% attack speed, based on champion level, and 8% critical strike for 4 minutes.
+Stacks
+3 per item slot.","250",""
+"Elixir of Fortitude","On use, grants 140–235 health, based on champion level and 10 attack damage for 4 minutes.
+Stacks
+3 per item slot.","250",""
+"Entropy","+70 attack damage
++275 health
+Passive
+25% chance on hit to reduce your target's movement speed by 30% for 2.5 seconds.
+Active
+Unique: For 5 seconds, your attacks reduce your target's movement speed by 30% and deal 80 true damage over 2.5 seconds. 60 second cooldown.","3565","600"
+"Guardian Angel","+68 armor
++38 magic resistance
+Passive
+Unique: Revives your champion upon death, restoring 750 health and 375 mana. 5 minute cooldown.","2600","1200"
+"Guinsoo's Rageblade","+45 ability power
++35 attack damage
+Passive
+Unique: On cast or hit, you gain +6 ability power and +4% attack speed for 5 seconds (maximum 8 stacks).","2235","400"
+"Haunting Guise","+25 ability power
++200 health
+Passive
+Unique: +20 magic penetration","1485","575"
+"Health Potion","Restores 150 health over 15 seconds.
+Stacks
+9 per item slot.","35",""
+"Heart of Gold","+250 health
+Passive
+Unique: Gain +5 gold per 10 seconds.","825","350"
+"Hexdrinker","+35 attack damage
++30 magic resistance
+Passive
+Unique: If you would take magic damage which would leave you at less than 30% of your maximum health, You gain a shield which absorbs up to 300 magic damage for 4 seconds. 60 second cooldown.","1800","570"
+"Hextech Revolver","+40 ability power
+Passive
+Unique: +15% spell vamp","1200","330"
+"Hextech Sweeper","+40 ability power
++300 health
+Passive
+Unique: +10% cooldown reduction
+Unique: Your spell damage grants vision of your target for 4 seconds.
+Active
+Unique: Covers an area with stealth-detecting mist for 6 seconds, granting vision of units which pass through it for 6 seconds. 60 second cooldown. (1000 Range, 375 AOE estimate).","1870","150"
+"Infinity Edge","+80 attack damage
++25% critical strike chance
+Passive
+Unique: +50% critical strike damage","3830","375"
+"Ionic Spark","+50% attack speed
++250 health
+Passive
+Unique: Every fourth basic attack unleashes a chain lightning, dealing 110 magic damage to up to 4 targets. (400 Bounce Range)","2300","775"
+"Kage's Lucky Pick","+25 ability power
+Passive
+Unique: Gain +5 gold per 10 seconds.","765","330"
+"Catalyst the Protector","+290 health
++325 mana
+Passive
+Unique: Upon leveling up, restores 250 health and 200 mana over 8 seconds.","1325","450"
+"Kitae's Bloodrazor","+30 attack damage
++40% attack speed
+Passive
+Unique: Your basic attacks deal  magic damage equal to 2.5% of the target's maximum health.","2725","700"
+"Madred's Razors","+23 armor
++15 attack damage
+Passive
+Unique: On hit, 20% chance for target minion/monster to suffer 300 magic damage.","1000","285"
+"Mercury's Treads","+25 magic resistance
++35 tenacity
+Passive
+Unique: Enhanced Movement 2","1200","450"
+"Morello's Evil Tome","+75 ability power
++12 mana regeneration
+Passive
+Unique: +20% cooldown reduction","2350","245"
+"Nashor's Tooth","+65 ability power
++50% attack speed
++10 mana regeneration
+Passive
+Unique: +25% cooldown reduction","2735","400"
+"Odyn's Veil","+350 health
++50 magic resistance
++350 mana
+Passive
+Unique: Reduces and stores 10% of the magic damage dealt to your champion.
+Active
+Unique: Deals 200 + (stored magic) [max: 400] to nearby enemy units. 90 second cooldown. (525 Range estimate)","2715","650"
+"Oracle's Elixir","Grants 750 radius stealth detection to champion until death.
+Stacks
+1 per item slot.","400",""
+"Philosopher's Stone","+18 health regeneration
++8 mana regeneration
+Passive
+Unique: Gain +5 gold per 10 seconds.","800","185"
+"Sanguine Blade","+60 attack damage
++15% life steal
+Passive
+Your basic attacks grant +5 attack damage and +1% life steal for 4 seconds (maximum 7 stacks).","2900","800"
+"Sheen","+25 ability power
++250 mana
+Passive
+Unique: On cast, for 10 seconds, your next standard attack deals additional physical damage equal to 100% of your base attack damage. 2 second cooldown.","1260","425"
+"Shurelya's Reverie","+330 health
++30 health regeneration
++15 mana regeneration
+Passive
+Unique: +15% cooldown reduction
+Active
+Unique: Nearby champions gain 40% movement speed for 3 seconds (60 second cooldown).","2200","550"
+"Sight Ward","Places an invisible ward with 1100 range. Lasts 3 minutes.
+Stacks
+5 per item slot.","75",""
+"Soul Shroud","+520 health
+Aura
+Unique: Nearby champions gain +10% cooldown reduction and +12 mana regeneration.","2285","485"
+"The Black Cleaver","+55 attack damage
++30% attack speed
+Passive
+Unique: Your basic attacks reduce your target's armor by 15 for 5 seconds (maximum 3 stacks).","2865","795"
+"The Brutalizer","+25 attack damage
+Passive
+Unique: +10% cooldown reduction
+Unique: +15 armor penetration","1337","507"
+"Vision Ward","Places an invisible ward with 1000 range Magical Sight (can see invisible units). Lasts 3 minutes.
+Stacks
+5 per item slot.","125",""
+"Void Staff","+70 ability power
+Passive
+Unique: +40% magic penetration","2295","1000"
+"The Lightbringer","+50% attack speed
++20 attack damage
+Passive
+Your basic attacks grant vision of your target for 5 seconds.","1750","285"
+"Abyssal Scepter","+70 ability power
++57 magic resistance
+Aura
+Unique: Nearby enemy champions suffer -20 magic resistance. (1000 range)","2650","1050"
+"Aegis of the Legion","+18 armor
++270 health
++24 magic resistance
+Aura
+Unique: Nearby allied champions gain +12 armor, +15 magic resist, and +8 attack damage. (1200 range)","1925","750"
+"Archangel's Staff","+400 mana
++25 mana regen per 5 seconds
++45 ability power
+Passive
+Grants ability power equal to 3% of your maximum mana.
+UNIQUE: Every time you use an ability, your maximum mana increases by 4 (3 second cooldown). Bonus caps at 1000 mana. Does not stack with  Tear of the Goddess or  Manamune.","2855","1000"
+"Atma's Impaler","+45 armor
++18% critical strike chance
+Passive
+Unique: You gain attack damage equal to 2% of your maximum health.","2355","825"
+"Banshee's Veil","+375 health
++50 magic resistance
++375 mana
+Passive
+Unique: Blocks one negative spell every 45 seconds.","2715","650"
+"Chalice of Harmony","+7.5 mana regeneration
++30 magic resistance
+Passive
+Unique: Increases your mana regeneration by 1% per 1% mana you are missing.","890","100"
+"Deathfire Grasp","+60 ability power
++10 mana regeneration
+Passive
+Unique: +15% cooldown reduction
+Active
+Unique: Deals magic damage to target champion equal to 30% of their current health (+3.5% per 100 ability power) with a minimum of 200 damage. 1 minute cooldown. (650 range)","2610","600"
+"Executioner's Calling","+15% critical strike chance
++18% life steal
+Passive
+Unique: On-hit, you cause 4 damage per second for 8 seconds.
+Active
+Unique: Inflicts target enemy champion with Grievous Wound, causing 50% reduced healing and regeneration for 8 seconds (20 second cooldown).","1350","500"
+"Force of Nature","+40 health regeneration
++76 magic resistance
++8% movement speed
+Passive
+Unique: Restores 0.35% of your champion's maximum health every second.","2610","1000"
+"Frozen Mallet","+20 attack damage
++700 health
+Passive
+Unique: Your basic attacks slow your target's Movement Speed by 40% for 2.5 seconds. (30% for ranged attacks)","3250","825"
+"Frozen Heart","+99 armor
++500 mana
+Passive
+Unique: +20% cooldown reduction
+Unique: Nearby enemies suffer -20% attack speed. (1000 range)","2775","650"
+"Ionian Boots of Lucidity","Unique: +15% cooldown reduction
+Unique: Enhanced Movement 2","1050","700"
+"Hextech Gunblade","+70 ability power
++40 attack damage
++15% life steal
+Passive
+Unique: +20% spell vamp
+Active
+Unique: Deals 300 magic damage and slows the target champion by 50% for 3 seconds (700 range). 60 second cooldown.","3625","600"
+"Last Whisper","+40 attack damage
+Passive
+Unique: +40% armor penetration","2290","900"
+"Leviathan","+180 health
+Passive
+Unique: Your champion gains 32 health per stack, receiving 2 stacks for a kill and 1 stack for an assist. This effect can stack 20 times; you lose a third of your stacks if you die. At 20 stacks, your champion takes 15% less damage.","1275","800"
+"Lich Bane","+80 ability power
++30 magic resistance
++350 mana
++7% movement speed
+Passive
+Unique: On cast, your next autoattack will deal additional physical damage equal to 100% of your ability power. 2 second cooldown.","3470","950"
+"Madred's Bloodrazor","+25 armor
++30 attack damage
++40% attack speed
+Passive
+Unique: Your basic attacks deal bonus magic damage equal to 4% of the target's maximum health (maximum 120 versus monsters).","3800","775"
+"Malady","+25 ability power
++50% attack speed
+Passive
+Unique: Your basic attacks deal 20 bonus magic damage and reduce magic resistance by 6 for 8 seconds (maximum 4 stacks).","1825","550"
+"Manamune","+20 attack damage
++350 mana
++7 mana regeneration
+Passive
+Unique: 2% of your maximum mana is converted to attack damage.
+Unique: On hit, you gain +1 maximum mana (maximum +1000 maximum mana). 3 second cooldown.
+Unique: On cast, you gain +4 maximum mana (contributes to same maximum). 3 second cooldown.","2110","700"
+"Mejai's Soulstealer","+20 ability power
+Passive
+Unique: Your champion gains 8 ability power per stack, receiving 2 stacks for a kill or 1 stack for an assist. This effect can stack 20 times; you lose a third of your stacks if you die. At 20 stacks, your champion gains 15% cooldown reduction.","1235","800"
+"Moonflair Spellblade","+50 ability power
++35 tenacity","1200","340"
+"Ninja Tabi","+25 armor
+Passive
+Unique: Enhanced Movement 2
+Unique: Reduces the damage taken from non-turret autoattacks by 10%.","850","200"
+"Phantom Dancer","+55% attack speed
++30% critical strike chance
++15% movement speed","2845","400"
+"Quicksilver Sash","+56 magic resistance
+Active
+Unique: Removes all debuffs from your champion. 90 second cooldown.","1440","700"
+"Rabadon's Deathcap","+140 ability power
+Passive
+Unique: +30% ability power","3600","1140"
+"Randuin's Omen","+75 armor
++350 health
++25 health regeneration
+Passive
+Unique: +5% cooldown reduction
+Unique: 20% chance on being hit by an auto attack to slow the attacker's movement and attack speed by 35% for 3 seconds.
+Active
+Unique: Slows movement speed and attack speed of surrounding units by 35% for 2 seconds + 0.5 seconds for every 100 armor and magic resistance. 60 second cooldown. (500 Range)","3075","600"
+"Rod of Ages","+60 ability power
++450 health
++525 mana
+Passive
+Your champion gains 18 health, 20 mana, and 2 ability power every minute. Bonuses cap at +180 Health, +200 Mana, and +20 Ability Power.
+Unique: Upon leveling up, restores 250 health and 200 mana over 8 seconds.","3035","850"
+"Rylai's Crystal Scepter","+80 ability power
++500 health
+Passive
+Unique: Your spell damage will slow the target by 35% for 1.5 seconds (15% for multi-target spells, damage-over-time spells and spells with a cooldown time below 3 seconds).","3105","700"
+"Spirit Visage","+250 health
++30 magic resistance
+Passive
+Unique: +10% cooldown reduction
+Unique: Increases health gained yourself by healing, regeneration, life steal and spell vamp by 15%.","1550","300"
+"Stark's Fervor","+20% attack speed
+Aura
+Unique: Nearby allied champions gain +20 attack speed, +30 health regeneration, and +20% life steal.
+Unique: Nearby enemy champions suffer -20 armor. (1200 range [1])","2550","700"
+"Sunfire Cape","+45 armor
++450 health
+Passive
+Unique: Deals 35 magic damage per second to nearby enemies. (400 Range).","2610","800"
+"Tear of the Goddess","+350 Mana
++7 Mana Regen per 5 seconds
+Passive
+UNIQUE:  Each time you use an ability, your maximum Mana increases by 4 (3 second cooldown). Bonus caps at +1000 Mana. Does not stack with  Archangel's Staff or  Manamune.","995","205"
+"Sword of the Occult","+10 attack damage
+Passive
+Unique: Your champion gains +5 damage per stack, receiving 2 stacks for a kill or 1 stack for an assist. This effect can stack 20 times; you lose a third of your stacks if you die. At 20 stacks, your champion gains +15% movement speed.","1369","954"
+"The Bloodthirster","+60 attack damage
++15% life steal
+Passive
+Gain +1 attack damage and +0.25% life steal per kill (maximum +40 attack damage and +10% life steal). Bonuses are lost upon death.","3000","900"
+"Tiamat","+50 attack damage
++15 health regeneration
++5 mana regeneration
+Passive
+Your basic attacks splash, dealing 50% physical damage around the target (35% for ranged attacks).","2070","250"
+"Trinity Force","+30 ability power
++30 attack damage
++30% attack speed
++15% critical strike chance
++250 health
++250 mana
++12% movement speed
+Passive
+Unique: Your basic attacks have a 25% chance to slow your target's Movement Speed by 35% for 2.5 seconds. 
+Unique: After using an ability, your next basic attack deals bonus physical damage equal to 150% of your base Attack Damage. 2 second cooldown. Does not stack with Sheen or Lich Bane.","4070","300"
+"Warmog's Armor","+920 health
++30 health regeneration
+Passive
+Gain +3.5 health and +0.1 health regeneration per minion kill. Champion kills and assists grant +35 health and +1 health regeneration. Bonuses cap at +350 health and +10 health regeneration.","3000","980"
+"Wriggle's Lantern","+30 armor
++23 attack damage
++15% life steal
+Passive
+Unique: On hit, 20% chance for target minion/monster to suffer 425 magic damage.
+Active
+Unique: Places a  Sight Ward at target location. 3 minute cooldown. (600 cast range).","1600","150"
+"Will of the Ancients","+50 ability power
+Aura
+Unique: Nearby allied champions gain +30 ability power and +25% spell vamp. (1200 range)","2100","465"
+"Youmuu's Ghostblade","+30 attack damage
++15% critical strike chance
+Passive
+Unique: +15% cooldown reduction
+Unique: +20 armor penetration
+Active
+Unique: Gain +50% attack speed and +20% movement speed for 4 seconds. Attacking enemies with melee basic attacks increases the duration by 2 seconds to a maximum of 8 seconds. 60 second cooldown.","2687","600"
+"Thornmail","+100 armor
+Passive
+Unique: On being hit, returns 30% of damage, before any reductions such as armor, as magic damage. At least 15 damage must be received.","2000","1000"
+"Zhonya's Hourglass","+100 ability power
++50 armor
+Active
+Unique: Places your champion into stasis for 2 seconds, rendering you invulnerable and untargetable but unable to take any actions. 90 second cooldown.","3100","800"
+"Wit's End","+40% attack speed
++30 magic resistance
+Passive
+Unique: Your basic attacks deal 42 bonus magic damage and you gain +5 magic resistance for 5 seconds (maximum 4 stacks).","2000","550"
