@@ -1,0 +1,3 @@
+This is where the cached data goes. Making this README file ensures that the cache dir also exists.
+
+(yes I should be doing this in code, but this is a hacky project)
