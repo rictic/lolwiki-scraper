@@ -43,7 +43,7 @@ champion_url_list.forEach(function(champion_url) {
 	var passive = abilityTable.match(/\<tr class="ability innate_ability"\>[^]*?\<\/tr\>/g)[0];
 	var passiveName = passive.match(/\<td id="(.*?)"/)[0];
 	var passiveInfo = passive.match(/\<td class="abilityinfo"[^]*?\<\/tr\>/)[0];
-	abilitiesMap[passiveName] = passiveInfo;
+	champion["passive"] = passiveName + " -- " + passiveInfo;
 	
 	var abilities = abilityTable.match(/\<tr class="ability (basic|ultimate)_ability"\>[^]*?\<\/tr\>/g);
 	var abilityNames = abilityTable.match(/\<td id="(.*?)"/g);
@@ -74,28 +74,29 @@ champion_url_list.forEach(function(champion_url) {
 		var range2 = abilityLevels.match(/\<b\>Range:\<\/b\>[^]*?\<\/p\>/);
 		console.log("Ability range: " + range2);
 		
+		champion["ability " + i] = name;
+		
 		if (cost1 != null) {
-			abilitiesMap[name] = cost1;
+			champion["ability " + i + " cost"] = cost1;
 		} else {
-			abilitiesMap[name] = cost2;
+			champion["ability " + i + " cost"] = cost2;
 		}
 		
 		if (cooldown1 != null) {
-			abilitiesMap[name] = cooldown1;
+			champion["ability " + i + " cooldown"] = cooldown1;
 		} else {
-			abilitiesMap[name] = cooldown2;
+			champion["ability " + i + " cooldown"] = cooldown2;
 		}
 		
 		if (range1 != null) {
-			abilitiesMap[name] = range1;
+			champion["ability " + i + " range"] = range1;
 		} else {
-			abilitiesMap[name] = range2;
+			champion["ability " + i + " range"] = range2;
 		}
 	}
-	champion.abilities = abilitiesMap;
 
     champions.push(champion);
-//     console.log(champion);
+    console.log(champion);
   });
 });
 
@@ -106,6 +107,7 @@ var columns = ["Name"];
   columns.push(st + " Per Level");
 })
 columns = columns.concat(["Mov. speed", "Range", "Energy", "Energy regen."]);
+columns = columns.concat(["passive", "ability 0", "ability 1", "ability 2", "ability 3"]);
 setTimeout(function() {
   lib.writeToTsvFile("champions.tsv", columns, champions);
 }, 5000)
