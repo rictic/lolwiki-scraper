@@ -1,0 +1,2797 @@
+"Name"	"Champion"	"Kind"	"Effect Text"
+"Focus"	"Ashe"	"Champion Passive"	"(Innate): While not autoattacking, Ashe's critical strike chance increases by 3 /  6 /  9 /  12 /  15 /  18 % every 3 seconds. This bonus critical strike chance is removed after Ashe's next autoattack."
+"Frost Shot"	"Ashe"	""	"(Toggle): While toggled on, each of Ashe's autoattacks will slow her target for 2 seconds.
+Cost: 8 mana per attack
+
+
+Slow: 15 / 20 / 25 / 30 / 35 %"
+"Volley"	"Ashe"	""	"(Active): Ashe fires 7 arrows in a cone, dealing physical damage to each target hit. Each arrow will only hit one enemy, and each enemy will only be hit by one arrow. It also applies a slow equal to the one in the current rank of Frost Shot even if it is not toggled on.
+Cost: 60 mana
+Range: 1200
+Cone Width: 57.5º
+
+
+Cooldown: 20 / 16 / 12 / 8 / 4 seconds
+Physical Damage Per Arrow: 40 / 50 / 60 / 70 / 80 (+1.0 per attack damage)"
+"Hawkshot"	"Ashe"	""	"(Passive): Ashe gains bonus gold each time she kills a unit or destroys a structure.
+Bonus Gold: 1 / 2 / 3 / 4 / 5"
+"Enchanted Crystal Arrow"	"Ashe"	""	"(Active): Ashe fires a missile of ice in a straight line that will pass over all other units and terrain, until it collides with an enemy Champion, or until it leaves the map. If the arrow collides with an enemy Champion, it will deal magic damage and stun the target. Additionally, it will deal half damage, and slow all other units in a small radius of the target, including the target itself by 50% for 3 seconds. The duration of the stun increases the farther the arrow travels before impact and caps at 3.5 seconds.
+Cost: 150 mana
+Explosion Radius: 250
+
+
+Cooldown: 100 / 90 / 80 seconds
+Magic Damage: 250 / 425 / 600 (+1.0 per ability power)"
+"Techmaturgical Repair Bots"	"Heimerdinger"	"Champion Passive"	"(Innate): Heimerdinger gives himself and nearby allied structures and units 10 /  15 /  20 /  25 health regeneration per 5 seconds.
+Radius: 800"
+"H-28G Evolution Turret"	"Heimerdinger"	""	"(Active): Heimerdinger constructs a Turret with 260 + (15 &times; level) health that fires at nearby enemies, dealing magic damage (half damage to towers and inhibitors). Heimerdinger stores enough parts for a new turret every 25 seconds (affected by cooldown reduction). Turrets attack 50% faster for the first 6 seconds after placement. Turrets disappear automatically when Heimerdinger dies. Turrets receive upgrades and transform with every ability rank.
+Cooldown: 1 second
+Range: 250
+Turret range: 525
+Turret attack speed: 1.25
+Sight Radius: 625
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Magic Damage: 30 / 38 / 46 / 54 / 62 (+0.2 per ability power) 
+Rank 1: Yellow turret.
+Rank 2: Green turret: reduces armor &amp; magic resist by 1 for two seconds every hit (max. 50).
+Rank 3: Green turrets: max turrets increased to 2.
+Rank 4: Green turrets: gain an additional 125 health.
+Rank 5: Red turrets: now apply 50% splash damage."
+"Hextech Micro-Rockets"	"Heimerdinger"	""	"(Active): Heimerdinger fires 3 long range rockets that hit the enemies closest to him.
+Cooldown: 10 seconds
+Range: 1,000
+
+
+Cost: 65 / 85 / 105 / 125 / 145 mana
+Magic Damage: 85 / 135 / 185 / 235 / 285 (+0.55 per ability power)"
+"CH-1 Concussion Grenade"	"Heimerdinger"	""	"(Active): Heimerdinger lobs a grenade at a targeted location, dealing magic damage to enemy units and blinding them. Enemies who are directly hit are stunned for 1.5 seconds.
+Range: 925
+Radius: 250 (estimate)
+Stun radius: 100 (estimate)
+Projectile speed: 750
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Cooldown: 13 / 12 / 11 / 10 / 9 seconds
+Magic Damage: 80 / 135 / 190 / 245 / 300 (+0.6 per ability power)
+Blind Duration: 1 / 1.5 / 2 / 2.5 / 3 seconds"
+"UPGRADE!!!"	"Heimerdinger"	""	"(Passive): Heimerdinger gains cooldown reduction.
+Cooldown Reduction: 10 / 15 / 20 %"
+"True Grit"	"Graves"	"Champion Passive"	"(Innate):  Graves gains 1 /  2 /  3 bonus armor and magic resistance every second he remains in combat. This bonus stacks up to 10 times. Graves is considered in combat if he has dealt or received damage in the last 3 seconds."
+"Buckshot"	"Graves"	""	"(Active): Graves fires three bullets in a cone, dealing physical damage to all enemies in their path. Enemies at close range can be hit by multiple projectiles, but each bullet beyond the first will deal only 25% damage.
+Range: 750
+
+
+Cost: 60 / 70 / 80 / 90 / 100 mana
+Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+Physical Damage: 60 / 105 / 150 / 195 / 240 (+0.8 per bonus attack damage) 
+Max Physical Damage: 90 / 157.5 / 225 / 292.5 / 360 (+1.2 per bonus attack damage)"
+"Smokescreen"	"Graves"	""	"(Active): Graves fires a smoke canister at the target area, dealing magic damage upon landing and creating a cloud of smoke for 5 seconds. Enemies inside the smoke cloud will be slowed and will have their vision reduced to only what is inside the smoke cloud and enemies attacking them; everything else will look like it is in the Fog of War.
+Range: 700
+Area of effect radius: 250(?)
+
+
+Cost: 70 / 75 / 80 / 85 / 90 mana
+Cooldown: 20 / 19 / 18 / 17 / 16 seconds
+Magic Damage: 60 / 110 / 160 / 210 / 260 (+0.6 per ability power)
+Slow: 15 / 20 / 25 / 30 / 35 %"
+"Quickdraw"	"Graves"	""	"(Active): Graves dashes forward, gaining an attack speed boost for 4 seconds. Using autoattacks on enemy units, but not structures, lowers the cooldown of Quickdraw by 1 second each autoattack.
+Cost: 50 mana
+Range: 425
+
+
+Cooldown: 22 / 20 / 18 / 16 / 14 seconds
+Attack Speed: 40 / 50 / 60 / 70 / 80 %"
+"Collateral Damage"	"Graves"	""	"(Active): Graves fires an explosive shell in a straight line, dealing heavy physical damage to the first champion it hits (also damages non-champion enemies whilst in flight). After hitting a champion or reaching the end of its range, the shell explodes dealing physical damage in a cone behind the target.
+Cost: 100 mana
+Range: 1000
+
+
+Cooldown: 100 / 90 / 80 seconds
+Initial Physical Damage: 250 / 350 / 450 (+1.4 per bonus attack damage)
+Explosion Physical Damage: 140 / 250 / 360 (+1.2 per bonus attack damage)"
+"Runic Blade"	"Riven"	"Champion Passive"	"(Innate): Riven's abilities charge her blade, causing her to do 5 /  7 /  9 /  11 /  13 /  15 (+0.5 per bonus attack damage) bonus physical damage on her next autoattack. Riven can store up to 3 charges, and will only expend one at a time."
+"Broken Wings"	"Riven"	""	"(Active): Riven steps forward and lashes out in a series of powerful sword slashes that will damage all enemies nearby. This ability can be activated a second time within 4 seconds, and a third time within 4 seconds of that. On the third activation she will also knock nearby enemies back and have a larger radius of damage. All three strikes will deal the same amount of damage.
+No cost
+Cooldown: 13 seconds
+Range of dash: 260
+Radius of damaging AoE: 225 (estimate)
+Radius of third strike's damaging AoE: 300 (estimate)
+Knockback: 225
+
+
+Physical Damage Per Strike: 30 / 55 / 80 / 105 / 130 (+0.7 per bonus attack damage)"
+"Ki Burst"	"Riven"	""	"(Active): Riven deals physical damage and stuns nearby enemies for 0.75 seconds.
+No cost
+Radius of AoE: 250
+
+
+Cooldown: 11 / 10 / 9 / 8 / 7 seconds
+Physical Damage: 50 / 80 / 110 / 140 / 170 (+1.0 per bonus attack damage)"
+"Valor"	"Riven"	""	"(Active): Riven dashes towards the cursor and gains a shield for up to 2.5 seconds.
+No cost
+Range of dash: 325
+
+
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Shield Strength: 60 / 90 / 120 / 150 / 180 (+1.0 per bonus attack damage)"
+"Blade of the Exile"	"Riven"	""	"(Active): Riven's sword reforms, gaining 20% bonus attack damage, extended range on her damaging abilities and autoattacks for 15 seconds. She is also granted the ability to use Wind Slash once for the duration.
+Cooldown: 75 / 60 / 45 seconds"
+"Power Chord"	"Sona"	"Champion Passive"	"(Innate): After casting 3 spells, Sona's next attack deals extra 14 + (9 x level) magic damage. This enhanced attack has an additional effect depending on which spell was cast last."
+"Hymn of Valor"	"Sona"	""	"(Stance) - Persistent Aura: Sona plays the Hymn of Valor, granting nearby allied champions bonus attack damage and ability power until she changes stances.
+Radius:
+
+
+Attack Damage &amp; Ability Power: 8 / 11 / 14 / 17 / 20"
+"Aria of Perseverance"	"Sona"	""	"(Stance) - Persistent Aura: Sona plays the Aria of Perseverance, granting nearby allied champions bonus armor and magic resistance until she changes stances.
+Radius:
+
+
+Armor &amp; Magic Resist: 7 / 9 / 11 / 13 / 15"
+"Song of Celerity"	"Sona"	""	"(Stance) - Persistent Aura: Sona plays the Song of Celerity, granting nearby allied champions bonus flat movement speed until she changes stances.
+Radius:
+
+
+Movement Speed: 8 / 11 / 14 / 17 / 20"
+"Crescendo"	"Sona"	""	"(Active): Sona plays her ultimate chord in a broad line in front of her, forcing enemy champions caught to dance stunned for 1.5 seconds and take magic damage over the duration.
+Range: 1000
+
+
+Cost: 100 / 150 / 200 mana
+Cooldown: 140 / 120 / 100 seconds
+Magic Damage: 150 / 250 / 350 (+0.8 per ability power)"
+"Essence Theft"	"Ahri"	"Champion Passive"	"(Innate): Ahri gains a charge of Essence Theft whenever one of her spells hits an enemy. This caps at 3 charges per spell cast. Upon reaching 9 charges, Ahri's next spell will have 35% bonus spell vamp."
+"Orb of Deception"	"Ahri"	""	"(Active): Ahri sends out an orb in a line in front of her and then pulls it back, dealing magic damage on the way out and true damage on the way back.
+Cooldown: 7 seconds
+Range: 880
+
+
+Cost: 70 / 75 / 80 / 85 / 90 mana
+Magic Damage: 40 / 65 / 90 / 115 / 140 (+0.33 per ability power)
+True Damage: 40 / 65 / 90 / 115 / 140 (+0.33 per ability power)"
+"Fox-Fire"	"Ahri"	""	"(Active): Ahri releases three fox-fires to surround her for up to 5 seconds.  After a short delay after cast, they will target nearby enemies, always prioritizing champions, to deal magic damage to them. Additional fox-fires that hit the same target will only deal 50% damage.
+Cost: 60 mana
+Range: 800
+
+
+Cooldown: 9 / 8 / 7 / 6 / 5 seconds
+Magic Damage Per Fox-Fire: 40 / 70 / 100 / 130 / 160 (+0.38 per ability power)
+Maximum Damage to the Same Target Per Cast: 80 / 140 / 200 / 260 / 320 (+0.76 per ability power)"
+"Charm"	"Ahri"	""	"(Active): Ahri will blow a kiss that travels in a line in front of her. It will deal magic damage and charm the first enemy it encounters, forcing them to walk harmlessly towards her, while being slowed by 50% for the duration.
+Cooldown: 12 seconds
+Range: 975
+
+
+Cost: 50 / 65 / 80 / 95 / 110 mana
+Magic Damage: 60 / 90 / 120 / 150 / 180 (+0.35 per ability power)
+Charm Duration: 1 / 1.25 / 1.5 / 1.75 / 2 seconds"
+"Spirit Rush"	"Ahri"	""	"(Active): Ahri dashes towards the cursor and fires essence bolts, dealing magic damage to up to 3 nearby enemies, prioritizing champions. In the next 10 seconds, Spirit Rush can be cast two additional times before going on cooldown. Each enemy can only be hit once per dash.
+Cost: 100 mana
+Range: 450
+
+
+Cooldown: 90 / 80 / 70 seconds
+Magic Damage Per Bolt: 100 / 140 / 180 (+0.3 per ability power)
+Max Magic Damage to the Same Target: 300 / 420 / 540 (+0.9 per ability power)Max Magic Damage: 900 / 1260 / 1620 (+2.7 per ability power)"
+"Twin Disciplines"	"Akali"	"Champion Passive"	"(Innate): Discipline of Force - Upon obtaining 20 ability power, Akali's autoattacks deal 8% bonus magic damage, increasing by 1% for every 6 ability power gained thereafter. The bonus magic damage doesn't affect towers, but it affects other structures.
+Discipline of Might - Upon obtaining 10 bonus attack damage, Akali gains 8% spell vamp, increasing by an additional 1% for every 6 bonus attack damage gained thereafter."
+"Mark of the Assassin"	"Akali"	""	"(Active): Akali throws her kama at a target enemy, dealing magic damage and marking the target for 6 seconds. Akali's melee attacks against a marked target will consume the mark dealing the same magic damage again and restoring energy.
+Cost: 60 energy
+Range: 600
+
+
+Cooldown: 6 / 5.5 / 5 / 4.5 / 4 seconds
+Magic Damage: 45 / 70 / 95 / 120 / 145 (+0.4 per ability power) 
+Energy restored: 20 / 25 / 30 / 35 / 40"
+"Twilight Shroud"	"Akali"	""	"(Active): Akali throws down a circular cover of smoke that lasts for 8 seconds. While inside the area, Akali gains armor and magic resistance and becomes stealthed. Attacking or using abilities will briefly reveal her for 0.5 seconds. Enemies are slowed while inside the smoke.
+Cooldown: 20 seconds
+Range to center of AoE: 700
+Radius of AoE: 300
+
+
+Cost: 80 / 75 / 70 / 65 / 60 energy
+Armor and Magic Resistance Bonus: 10 / 20 / 30 / 40 / 50
+Slow: 14 / 18 / 22 / 26 / 30 %"
+"Crescent Slash"	"Akali"	""	"(Active): Akali flourishes her kamas, hitting nearby units for physical damage.
+Cost: 60 energy
+Radius of AoE: 325
+
+
+Cooldown: 7 / 6 / 5 / 4 / 3 seconds
+Physical Damage: 30 / 55 / 80 / 105 / 130 (+0.6 per attack damage) (+0.3 per ability power)"
+"Shadow Dance"	"Akali"	""	"(Active): Akali moves through the shadows to quickly deal magic damage to the target and appear next to it. Akali gains an Essence of Shadow once every few seconds up to a total of 3, affected by cooldown reduction. The time to gain a charge doesn't count when at maximum charges. Additionally, Akali gains an Essence of Shadow for a kill or an assist.
+Cost: 1 Essence of Shadow
+Range: 800
+
+
+Cooldown: 2 / 1.5 / 1 seconds
+New Essence of Shadow: 25 / 20 / 15 seconds
+Magic Damage: 100 / 175 / 250 (+0.5 per ability power)"
+"Trample"	"Alistar"	"Champion Passive"	"(Innate): Each time Alistar casts a spell, he gains the ability to move through units and will deal 9 + (1 x level) + (0.1 per ability power) magic damage per second to nearby enemy units and structures for 3 seconds. It deals double damage to minions and monsters."
+"Pulverize"	"Alistar"	""	"(Active): Alistar smashes the ground where he is standing, dealing magic damage to all enemies in the area and knocking them up for 1 second and stunning them upon landing for 0.5 seconds.
+Radius of AoE: 365
+
+
+Cost: 70 / 85 / 100 / 115 / 130 mana
+Cooldown: 17 / 16 / 15 / 14 / 13 seconds
+Magic Damage: 60 / 105 / 150 / 195 / 240 (+0.5 per ability power)"
+"Headbutt"	"Alistar"	""	"(Active): Alistar dashes to an enemy, taking its position, and rams them, dealing magic damage and knocking them back a set distance.
+Range: 650
+Knockback Distance: 650
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Cooldown: 14 / 13 / 12 / 11 / 10 seconds
+Magic Damage: 85 / 130 / 175 / 220 / 265 (+0.7 per ability power)"
+"Triumphant Roar"	"Alistar"	""	"(Active): Alistar instantly restores health to himself, healing nearby friendly units for half of that amount. The cooldown is reduced by 2 seconds each time a nearby enemy unit dies.
+Cooldown: 12 seconds
+Radius of AoE: 275
+
+
+Cost: 20 / 30 / 40 / 50 / 60 mana
+Self Heal: 60 / 90 / 120 / 150 / 180 (+0.2 per ability power)"
+"Unbreakable Will"	"Alistar"	""	"(Active): Alistar instantly removes all crowd control effects from himself. He also gains bonus attack damage and takes reduced physical and magic damage for 7 seconds.
+Cost: 150 mana
+
+
+Cooldown: 120 / 100 / 80 seconds
+Bonus Attack Damage: 60 / 75 / 90
+Damage Reduction: 50 / 60 / 70 %"
+"Cursed Touch"	"Amumu"	"Champion Passive"	"(Innate): Amumu's autoattacks reduce the target's magic resistance by 15 /  25 /  35 for 4 seconds. The debuff doesn't stack but it refreshes with every autoattack."
+"Bandage Toss"	"Amumu"	""	"(Active): Amumu tosses a sticky bandage in a straight line. If it contacts an enemy, Amumu will pull himself to it, dealing magic damage and stunning the target for 1 second.
+Range: 1,100
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Cooldown: 16 / 14 / 12 / 10 / 8 seconds
+Magic Damage: 80 / 140 / 200 / 260 / 320 (+1.0 per ability power)"
+"Despair"	"Amumu"	""	"(Toggle): While toggled on, Amumu will be surrounded by a small damaging area of tears. Enemies in the area will be dealt a percentage of their maximum health plus a base amount as magic damage each second.
+Cost: 8 mana per second
+Cooldown: 1 second
+Radius of AoE: 300
+
+
+Base Magic Damage: 8 / 12 / 16 / 20 / 24
+Max Health to Damage Ratio: 1.5 / 1.8 / 2.1 / 2.4 / 2.7% (+0.005% per ability power)"
+"Tantrum"	"Amumu"	""	"(Passive): Amumu takes reduced physical damage from autoattacks and abilities.
+Physical Damage Reduction: 2 / 4 / 6 / 8 / 10"
+"Curse of the Sad Mummy"	"Amumu"	""	"(Active): Amumu entangles surrounding enemy units, dealing magic damage and rendering them unable to move or use autoattack for 2 seconds.
+Radius of AoE: 600
+
+
+Cost: 100 / 150 / 200 mana
+Cooldown: 170 / 150 / 130 seconds
+Magic Damage: 150 / 250 / 350 (+1.0 per ability power)"
+"Rebirth"	"Anivia"	"Champion Passive"	"(Innate): Upon dying, Anivia will revert into an egg and will get an armor and magic resistance modifier of -40 /  -25 /  -10 /  +5 /  +20. If the egg can survive for six seconds, she is reborn with the same percentage of health that her egg had left. This can only happen once every four minutes regardless of cooldown reduction."
+"Flash Frost"	"Anivia"	""	"(Active): Anivia summons a shard of ice that flies on a line. The shard will deal magic damage and slow by 20% for 3 seconds to anyone in its path. The shard will detonate when reaching its max range or if the ability is activated again. When the shard explodes it will deal magic damage to all enemies nearby, stunning them for 1 second. The magic damage done by both the shard and the detonation is the same, and both will apply the ""chilled"" debuff on enemies hit for 3 seconds.
+Skillshot Range: 1100
+Detonation's Radius of AoE: 150
+
+
+Cost: 80 / 100 / 120 / 140 / 160 mana
+Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+Magic Damage: 60 / 90 / 120 / 150 / 180 (+0.5 per ability power)"
+"Crystallize"	"Anivia"	""	"(Active): Anivia condenses the moisture in the air into an impenetrable wall of ice to block the movement of all units. The wall lasts 5 seconds before it melts.
+Cooldown: 20 seconds
+Range to Center of Wall: 1000
+
+
+Cost: 70 / 90 / 110 / 130 / 150 mana
+Wall Length: 400 / 500 / 600 / 700 / 800"
+"Frostbite"	"Anivia"	""	"(Active): Anivia blasts her target with a freezing wind, dealing magic damage. If the target has been ""chilled"" by Anivia's other abilities, they will take double damage.
+Cooldown: 5 seconds
+Range: 650
+
+
+Cost: 50 / 60 / 70 / 80 / 90 mana
+Magic Damage: 55 / 85 / 115 / 145 / 175 (+0.5 per ability power)
+Chilled Magic Damage: 110 / 170 / 230 / 290 / 350 (+1.0 per ability power)"
+"Glacial Storm"	"Anivia"	""	"(Toggle): Anivia summons a driving rain of ice and hail on a nearby target area to continuously deal magic damage to enemies on it, slowing their movement and attack speed by 20% for 1 second, and ""chilling"" them.
+Initial Cost: 75 mana
+Cooldown upon Toggle Off: 6 seconds
+Range to Center of AoE: 625
+Radius of AoE: 300
+
+
+Upkeep Cost: 40 / 50 / 60 mana per second
+Magic Damage Per Second: 80 / 120 / 160 (+0.25 per ability power)"
+"Pyromania"	"Annie"	"Champion Passive"	"(Innate): After every 5 spell casts, Annie's next offensive spell will stun its target for 1.75 seconds."
+"Disintegrate"	"Annie"	""	"(Active): Annie shoots a mana infused fireball, dealing magic damage to her target. The mana cost is refunded if it kills the target.
+Cooldown: 4 seconds
+Range: 625
+
+
+Cost: 60 / 70 / 80 / 90 / 100 mana
+Magic Damage: 85 / 125 / 165 / 205 / 245 (+0.7 per ability power)"
+"Incinerate"	"Annie"	""	"(Active): Annie casts a cone of fire in front of her, dealing magic damage to all enemies in the area.
+Cooldown: 8 seconds.
+Range: 625
+Cone Width: ~45º
+
+
+Cost: 80 / 95 / 110 / 125 / 140 mana
+Magic Damage: 80 / 130 / 180 / 230 / 280 (+0.75 per ability power)"
+"Molten Shield"	"Annie"	""	"(Active): Places a shield around Annie for 15 seconds that increases her armor and magic resistance. Additionally, enemies will be dealt magic damage whenever they use autoattacks on her while the shield is active.
+Cost: 25 mana
+Cooldown: 30 seconds
+
+
+Armor &amp; Magic Resistance: 10 / 20 / 30 / 40 / 50
+Magic Damage: 20 / 30 / 40 / 50 / 60 (+0.2 per ability power)"
+"Summon Tibbers"	"Annie"	""	"(Active): Annie releases her bear Tibbers from his toy prison, dealing magic damage to enemy units in the summon area. For a limited time of 45 seconds, Tibbers can move and attack at Annie's will, while continually dealing magic damage to surrounding enemies.
+Cooldown: 120 seconds.
+Range to center of Summon's AoE: 600 (estimate)
+Radius of Summon's AoE: 150
+Radius of Tibbers' Aura AoE: 200
+Continual Magic Damage: 35 (+0.2 per ability power)
+
+
+Cost: 125 / 175 / 225 mana
+Summon Magic Damage: 200 / 325 / 450 (+0.7 per ability power)
+Tibbers' Attack Damage: 80 / 105 / 130
+Tibbers' Health: 1200 / 1600 / 2000
+Tibbers' Armor: 30 / 50 / 70
+Tibbers' Magic Resist: 25 / 45 / 65"
+"Blaze"	"Brand"	"Champion Passive"	"(Innate): Brand's spells light his targets ablaze, dealing 2% of their maximum health as magic damage per second for 4 seconds.(Max: 80 damage [per second] vs. Monsters)"
+"Sear"	"Brand"	""	"(Active): Brand launches a fireball forward that deals magic damage to the first enemy it hits. If the target is ablaze, the target will be stunned for 2 seconds.
+Cost: 50 mana
+Range: 900
+
+
+Cooldown: 8 / 7.5 / 7 / 6.5 / 6 seconds
+Magic Damage: 80 / 120 / 160 / 200 / 240 (+0.65 per ability power)"
+"Pillar of Flame"	"Brand"	""	"(Active): After a short delay, Brand blasts a target area, dealing magic damage to enemy units within the area. Units that are ablaze take an additional 25% damage.
+Cooldown: 10 seconds.
+Range to Center of AoE: 900
+Radius of AoE: 175
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Magic Damage: 75 / 120 / 165 / 210 / 255 (+0.6 per ability power)
+Ablazed Magic Damage: 94 / 150 / 206 / 263 / 319 (+0.75 per ability power)"
+"Conflagration"	"Brand"	""	"(Active): Brand conjures an instant blast at his target, dealing magic damage to it. If the target is ablaze, the conflagration will also spread to nearby enemies.
+Range: 625
+Spread Radius: 200
+
+
+Cost: 60 / 65 / 70 / 75 / 80 mana
+Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+Magic Damage: 70 / 105 / 140 / 175 / 210 (+0.55 per ability power)"
+"Pyroclasm"	"Brand"	""	"(Active): Brand unleashes a devastating torrent of fire to a target that will bounce between enemies, dealing damage each time it bounces. If a target is ablaze, Pyroclasm's missile speed increases. It will bounce up to four times for a total of five hits, and can hit the same enemy up to three times.
+Range: 750
+Bounce Range:
+
+
+Cost: 100 / 150 / 200 mana
+Cooldown: 105 / 90 / 75 seconds
+Magic Damage: 150 / 250 / 350 (+0.5 per ability power)
+Max Magic Damage to the Same Target: 450 / 750 / 1050 (+1.5 per ability power)
+Max Magic Damage: 750 / 1250 / 1750 (+2.5 per ability power)"
+"Headshot"	"Caitlyn"	"Champion Passive"	"(Innate):After every 8 /  7 /  6 autoattacks,  Caitlyn's next autoattack will be enhanced to be a headshot, dealing 150% damage to a champion or 250% damage to a minion or monster. Attacks from brush grant  two charges instead of one."
+"Piltover Peacemaker"	"Caitlyn"	""	"(Active): Caitlyn revs up her rifle for 1 second to unleash a penetrating shot in a line which will deal physical damage to all targets hits. It will deal 15% less damage for each subsequent target hit, down to a minimum of 40% damage dealt.
+Range: 1300
+
+
+Cost: 50 / 60 / 70 / 80 / 90 mana
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Physical Damage: 20 / 60 / 100 / 140 / 180 (+1.3 per attack damage)
+Minimum Physical Damage: 8 / 24 / 40 / 56 / 72 (+.52 per attack damage)"
+"Yordle Snap Trap"	"Caitlyn"	""	"(Active): Caitlyn sets a trap at the target nearby location. The trap triggers when a champion walks over it. This trap is visible to both allies and enemies. When sprung, the trap immobilizes the champion for 1.5 seconds, dealing magic damage over the duration and additionally revealing the target for 9 seconds. Caitlyn can set up to 3 traps and they last 4 minutes. When she sets a trap once the cap has been reached, the oldest trap will deactivate itself.
+Cost: 50 mana
+Placement Range: 800
+Activation Range: 135
+
+
+Cooldown: 20 / 17 / 14 / 11 / 8 seconds
+Magical Damage: 80 / 130 / 180 / 230 / 280 (+0.6 per ability power)"
+"90 Caliber Net"	"Caitlyn"	""	"(Active): Caitlyn fires a heavy net in front of her, knocking herself back in the opposite direction. The net will slow down the first target hit by 50% and will deal magic damage to it.
+Cost: 75 mana
+Range: 1000
+Knockback Distance: 400
+
+
+Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+Total Magic Damage: 80 / 130 / 180 / 230 / 280 (+0.8 per ability power)
+Slow Duration: 1 / 1.25 / 1.5 / 1.75 / 2 seconds"
+"Ace in the Hole"	"Caitlyn"	""	"(Active): Caitlyn marks an enemy champion at a huge range and channels for 2 seconds to line up the perfect shot, providing vision of the target for the duration. She then fires the projectile to deal massive physical damage. Enemy champions can intercept the bullet for their ally.
+Cost: 100 mana
+Projectile Speed: 3200
+
+
+Cooldown: 90 / 75 / 60 seconds
+Range: 1900 / 2050 / 2200
+Physical Damage: 250 / 475 / 700 (+2.0 per bonus attack damage)"
+"Deadly Cadence"	"Cassiopeia"	"Champion Passive"	"(Innate): After casting a spell, any subsequent spellcasts will cost 10% less for 5 seconds. This ability stacks up to 5 times."
+"Noxious Blast"	"Cassiopeia"	""	"(Active): After a brief delay, Cassiopeia blasts a small target area with an explosion of poison. All targets hit are poisoned and dealt magic damage over 3 seconds. Cassiopeia is granted a movement speed boost for 3 seconds if she hits a champion with the spell.
+Cooldown: 3 seconds
+Delay: 0.6 seconds
+Range: 850
+Radius of AoE: 75
+
+
+Cost: 35 / 45 / 55 / 65 / 75 mana
+Total Magic Damage: 75 / 115 / 155 / 195 / 235 (+0.9 per ability power)
+Magic Damage Per Second: 25 / 38 / 52 / 65 / 78 (+0.3 per ability power)
+Movement Speed Boost: 15 / 17.5 / 20 / 22.5 / 25 %"
+"Miasma"	"Cassiopeia"	""	"(Active): Cassiopeia throws a growing cloud of poison to a target location. The area lasts for 7 seconds and provides vision over it for the duration. Any enemy that passes through it is poisoned for 2 seconds that is renewed by continual exposure. Poisoned enemies receive magic damage each second and are slowed.
+Cooldown: 9 seconds
+Range to Center of AoE: 850
+Radius of Aoe: 100-175
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Magic Damage Per Second: 25 / 35 / 45 / 55 / 65 (+0.15 per ability power)
+Slow: 15 / 20 / 25 / 30 / 35 %"
+"Twin Fang"	"Cassiopeia"	""	"(Active): Cassiopeia deals magic damage to her target. If the target is poisoned when hit then Twin Fang's cooldown is reduced to 0.5 seconds.
+Cooldown: 5 seconds
+Range: 700
+
+
+Cost: 50 / 60 / 70 / 80 / 90 mana
+Magic Damage: 60 / 95 / 130 / 165 / 200 (+0.55 per ability power)"
+"Petrifying Gaze"	"Cassiopeia"	""	"(Active): Cassiopeia deals magic damage to all enemies in a cone in front of her. Enemies facing her when damaged are stunned for 2 seconds, while enemies facing away are slowed by 60% for the same duration.
+Range: 850
+Cone Angle: ~83º
+
+
+Cost: 120 / 160 / 200 mana
+Cooldown: 130 / 120 / 110 seconds
+Magic Damage: 200 / 325 / 450 (+0.6 per ability power)"
+"Hextech Shrapnel Shells"	"Corki"	"Champion Passive"	"(Innate): Corki's autoattacks deal 10% of his total physical damage before armor adjustment, as additional true damage to minions, monsters, and champions."
+"Phosphorus Bomb"	"Corki"	""	"(Active): Corki blasts a target area, revealing it for 6 seconds and dealing magic damage to all enemies hit. Any champions hit will also be revealed for 6 seconds.
+Cooldown: 8 seconds.
+Range to Center of AoE: 600
+Radius of AoE: 150
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Magic Damage: 80 / 130 / 180 / 230 / 280 (+0.5 per ability power)"
+"Valkyrie"	"Corki"	""	"(Active): Corki surges to target location with a speed of 650, dropping bombs on its path that create a trail of fiery destruction for 2.5 seconds. Opponents take damage each half second they stay in the trail.
+Cost: 100 mana
+Range: 800
+
+
+Cooldown: 20 / 18 / 16 / 14 / 12 seconds
+Magic Damage Per Second: 60 / 90 / 120 / 150 / 180 (+0.4 per ability power)"
+"Gatling Gun"	"Corki"	""	"(Active): Corki's gatling gun begins firing at enemies in front of him automatically every half second for 4 seconds, dealing physical damage and shredding the armor of enemies who are under continuous fire. Armor reduction stacks and lasts 2 seconds. Corki can keep attacking and using other abilities while Gatling Gun is in effect.
+Cooldown: 16 seconds
+Range: 600
+
+
+Cost: 60 / 70 / 80 / 90 / 100 mana
+Physical Damage Per Second: 20 / 32 / 44 / 56 / 68 (+0.4 per bonus attack damage)
+Armor Reduction: 1 / 2 / 3 / 4 / 5"
+"Missile Barrage"	"Corki"	""	"(Active): Corki fires a missile in a line that will explode and deal magic damage in an area upon colliding with the first enemy it hits.
+Corki can only fire a missile if he has missiles stored, and can store up to 7 missiles. Corki stores one missile every 10 seconds, the time to respawn a missile is affected by cooldown reduction and does not progress while having maximum missiles. Every fourth missile fired will be marked as a Big One, dealing 50% more damage than normal missiles and the explosion has a broader radius. After dying, Corki will respawn with 4 missiles.
+
+Cooldown: 1.2 seconds
+Range: 1,200
+Radius of AoE: Regular (150); Big ones (300)
+
+
+Cost: 30 / 35 / 40 mana
+Magic Damage: 120 / 190 / 260   (+0.3 per ability power) (+0.2 per attack damage)"
+"Adrenaline Rush"	"Dr. Mundo"	"Champion Passive"	"(Innate): Dr. Mundo is granted 0.3% of his maximum health as bonus health regeneration per second."
+"Infected Cleaver"	"Dr. Mundo"	""	"(Active): Dr. Mundo hurls his cleaver in a line to damage the first enemy it hits, dealing magic damage equal to a portion of the enemy's current health and slowing them by 40% for 2 seconds, it has a minimum damage threshold. If Infected Cleaver hits a target, it refunds 50% of the cost.
+Cooldown: 4 seconds
+Range: 1000
+
+
+Cost: 50 / 60 / 70 / 80 / 90 health
+Magic Damage: 15 / 18 / 21 / 23 / 25 % of target's current health
+Minimum Damage: 80 / 130 / 180 / 230 / 280"
+"Burning Agony"	"Dr. Mundo"	""	"(Toggle): While active, Dr. Mundo will deal continual magic damage per second to nearby enemies and reduces the duration of crowd control effects used on Dr. Mundo.
+Cooldown: 4 seconds
+Radius of AoE: 175
+
+
+Cost: 10 / 15 / 20 / 25 / 30 health per second
+Magic Damage: 40 / 55 / 70 / 85 / 100 (+0.2 per ability power)
+Duration Reduction: 15 / 20 / 25 / 30 / 35 %"
+"Masochism"	"Dr. Mundo"	""	"(Active): Increases Dr. Mundo's physical damage by a flat amount for 5 seconds. In addition, Dr. Mundo also gains additional damage for each percent of health he is missing for the duration.
+Cooldown: 7 seconds.
+
+
+Cost: 25 / 35 / 45 / 55 / 65 health
+Flat Attack Damage Bonus: 40 / 55 / 70 / 85 / 100
+Extra Attack Damage Bonus: 0.4 / 0.55 / 0.7 / 0.85 / 1 per 1% of health missing"
+"Sadism"	"Dr. Mundo"	""	"(Active): Dr. Mundo regenerates a portion of his maximum health over 12 seconds. Additionally, he gains extra movement speed for the duration.
+Cost: 20% of current health
+Cooldown: 65 seconds
+
+
+Heal: 40 / 55 / 70 % of max health
+Movement Speed: 15 / 25 / 35 %"
+"Carnivore"	"Cho'Gath"	"Champion Passive"	"(Innate): Whenever Cho'Gath kills a unit, he restores 32 + (2 x level) health and 3.25 + (0.25 x level) mana."
+"Rupture"	"Cho'Gath"	""	"(Active): Cho'Gath Ruptures the ground, creating a thin cloud of grey smoke at a target location. After 0.75 seconds, spikes will errupt from the ground, dealing magic damage to all enemies in the area. Additionally, they will be knocked into the air for 1 second, and is slowed by 60% for another 3 seconds, when they land.
+Cost: 90 mana
+Cooldown: 9 seconds
+Range: 950
+Radius: 175
+
+
+Magic Damage: 80 / 135 / 190 / 245 / 305 (+1.0 per ability power)"
+"Feral Scream"	"Cho'Gath"	""	"(Active): Cho'Gath screams in a cone in front of him, dealing magic damage to all enemies in the cone, and silencing them for a few seconds.
+Cooldown: 13 seconds
+Range: 700
+Cone Width: ~60º
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Magic Damage: 75 / 125 / 175 / 225 / 275 (+0.7 per ability power)
+Silence Duration: 2 / 2.25 / 2.5 / 2.75 / 3 seconds"
+"Vorpal Spikes"	"Cho'Gath"	""	"(Toggle): Whenever Cho'gath basic attacks, he will launch spikes which deal magic damage to all enemies in a line in front of him.
+No cost
+Range: 500
+
+
+Magic Damage: 20 / 35 / 50 / 65 / 80 (+0.3 per ability power)"
+"Feast"	"Cho'Gath"	""	"(Active): Devours a target nearby enemy unit dealing true damage. Feast always deals 1000 (+0.7 per ability power) true damage to minions and monsters. If the target is killed, Cho'Gath grows and gains extra health. This effect stacks up to 6 times and Cho'Gath loses half his stacks rounded up upon death.
+Cost: 100 mana
+Cooldown: 60 seconds
+Range: 100
+
+
+True Damage to Champions: 300 / 475 / 650 (+0.7 per ability power)
+Health Increase: 90 / 120 / 150 per stack
+Max Health Increase: 540 / 720 / 900"
+"Dread"	"Fiddlesticks"	"Champion Passive"	"(Innate): Nearby enemy units have their magic resistance reduced by 10. (1000 range)"
+"Terrify"	"Fiddlesticks"	""	"(Active): Strikes a target unit with fear, preventing it from taking any actions, and causing it to run around aimlessly in fear, while being slowed, for the duration of the spell.
+Range: 575
+
+
+Cost: 65 / 75 / 85 / 95 / 105 mana
+Cooldown: 15 / 14 / 13 / 12 / 11 seconds
+Duration: 1 / 1.5 / 2 / 2.5 / 3 seconds"
+"Drain"	"Fiddlesticks"	""	"(Active): Fiddlesticks channels and leashes to a target for 5 seconds, dealing magic damage each second and healing himself for a percentage of the damage done. If the target leaves the range of Fiddlesticks' leash, he will stop channeling.
+Cast Range: 475
+Leash Range: 750
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Magic Damage Per Second: 60 / 90 / 120 / 150 / 180 (+0.45 per ability power)
+Maximum Magic Damage: 300 / 450 / 600 / 750 / 900 (+2.25 per ability power)
+Heal From Damage Ratio: 60 / 65 / 70 / 75 / 80 %"
+"Dark Wind"	"Fiddlesticks"	""	"(Active): Fiddlesticks throws a crow that strikes an enemy target then continues to bounce from that enemy unit to another nearby enemy unit 5 times dealing magic damage and silencing for 1.2 seconds each strike. Dark Wind may strike the same target multiple times.
+Range: 750
+Bounce Range: 450
+
+
+Cost: 50 / 70 / 90 / 110 / 130 mana
+Cooldown: 15 / 14 / 13 / 12 / 11 seconds
+Magic Damage Per Bounce: 65 / 85 / 105 / 125 / 145 (+0.45 per ability power)"
+"Crowstorm"	"Fiddlesticks"	""	"(Active): After channeling for 1.5 seconds, Fiddlesticks teleports to nearby target location with a murder of crows flying wildly around him for 5 seconds, dealing magic damage to all enemy units in the area each second.
+Teleport Range: 800
+Radius of AoE: 600
+
+
+Cost: 150 / 200 / 250 mana
+Cooldown: 150 / 140 / 130 seconds
+Magic Damage Per Second: 125 / 225 / 325 (+0.45 per ability power)
+Maximum Magic Damage: 625 / 1125 / 1625 (+2.25 per ability power)"
+"Nimble Fighter"	"Fizz"	"Champion Passive"	"(Innate): Fizz's dexterity allows him to perpetually ignore unit collision and take 4 /  6 /  8 /  10 /  12 /  14 reduced physical damage from autoattacks."
+"Urchin Strike"	"Fizz"	""	"(Active): Fizz dashes a fixed distance in the direction of his target, dealing his total attack damage as physical damage plus additional magic damage to it. The ability will also apply on-hit effects.
+Range: 550
+
+
+Cost: 50 / 55 / 60 / 65 / 70 mana
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Additional Magic Damage: 10 / 40 / 70 / 100 / 130 (+0.6 per ability power)"
+"Seastone Trident"	"Fizz"	""	"(Passive): Fizz's autoattacks rend his target, dealing magic damage over 3 seconds that strengthens if the opponent is low on life. Multiple autoattacks will only refresh the duration. The total damage caps at 270 against minions and monsters.
+Passive Total Magic Damage: 30 / 40 / 50 / 60 / 70 (+0.35 per ability power)+ 4 / 5 / 6 / 7 / 8 % of target missing health"
+"Playful"	"Fizz"	""	"(Active): Fizz hops onto his trident in a nearby location, becoming untargetable for 0.75 seconds and gaining the ability to use Trickster before the effect ends.
+If Fizz does not use it, he will slam the ground below him, dealing magic damage and slowing nearby enemies for 2 seconds.
+
+
+Cost: 90 / 100 / 110 / 120 / 130 mana
+Cooldown: 16 / 14 / 12 / 10 / 8 seconds
+Slow: 40 / 45 / 50 / 55 / 60 %
+Magic Damage: 70 / 120 / 170 / 220 / 270 (+0.75 per ability power)"
+"Chum the Waters"	"Fizz"	""	"(Active): Fizz throws a fish in a line that will bind itself onto the first enemy champion it hits. If it doesn't hit an enemy champion it will stay on an area, and it will stick to the first enemy champion that walks into the area. The champion that has the fish attached will be slowed by 50%.
+Regardless of position, after 1.5 seconds, a Shark will emerge from the earth to eat the fish, dealing magic damage, knocking up the target, knocking back all other enemies within the area from the center and slowing all enemies in the area for 1.5 seconds.
+
+Cost: 150 mana
+Range: 1275
+
+
+Cooldown: 100 / 85 / 70 seconds
+Magic Damage: 200 / 325 / 450 (+1.0 per ability power)
+Slow: 50 / 60 / 70 %"
+"Runic Skin"	"Galio"	"Champion Passive"	"(Innate): Galio receives 50% of his total magic resistance as additional ability power."
+"Resolute Smite"	"Galio"	""	"(Active): Galio fires a concussive blast from his eyes to a target location, dealing magic damage to all enemies hit and reducing their movement speed for 2.5 seconds.
+Cooldown: 7 seconds
+Range to Center of AoE: 900
+Radius of AoE: 175
+Projectile Speed: 1300
+
+
+Cost: 60 / 65 / 70 / 75 / 80 mana
+Magic Damage: 80 / 135 / 190 / 245 / 300 (+0.7 per ability power)
+Slow: 24 / 28 / 32 / 36 / 40 %"
+"Bulwark"	"Galio"	""	"(Active): Galio shields an allied champion for 4 seconds, increasing their armor and magic resistance. Each time that unit takes damage, Galio is healed. The heal is 20% weaker than the last for each consecutive hit.
+Cost: 60 mana
+Cooldown: 13 seconds
+Range: 800
+
+
+Bonus Armor &amp; Magic Resistance: 30 / 45 / 60 / 75 / 90
+Heal: 25 / 40 / 55 / 70 / 85 (+0.3 per ability power)"
+"Righteous Gust"	"Galio"	""	"(Active): Galio unleashes a gust of magical wind that deals magic damage to all enemies in its path. A directional draft remains for 5 seconds, increasing the movement speed of allies passing through it.
+Cooldown: 12 seconds
+Range: 1000
+
+
+Cost: 70 / 75 / 80 / 85 / 90 mana
+Magic Damage: 60 / 105 / 150 / 195 / 240 (+0.5 per ability power)
+Movement Speed Bonus: 20 / 28 / 36 / 44 / 52 %."
+"Idol Of Durand"	"Galio"	""	"(Active): Galio channels for 2 seconds, taunting nearby foes and reducing 50% of incoming damage.
+After channeling, Galio deals magic damage to surrounding enemies, plus an additional 5% damage for each attack suffered while channeling and capping at 40% bonus damage. It can be cancelled early and will deal full damage.
+
+Radius of AoE: 550
+
+
+Cost: 100 / 150 / 200 mana
+Cooldown: 170 / 150 / 130 seconds
+Base Magic Damage: 220 / 330 / 440 (+0.6 per ability power)"
+"Grog Soaked Blade"	"Gangplank"	"Champion Passive"	"(Innate): Gangplank's basic attacks apply a poison debuff for 3 seconds that can stack up to 3 times. Each stack deals 3 + (1 &times; level) magic damage per second and slows the target by 7%."
+"Parrrley"	"Gangplank"	""	"(Active): Gangplank shoots a target enemy with his pistol, dealing physical damage. If it kills it, he gains extra gold. This ability can critically strike and applies on-hit effects, including his passive.
+Cooldown: 5 seconds
+Range: 625
+
+
+Cost: 40 / 45 / 50 / 55 / 60 mana
+Physical Damage: 20 / 45 / 70 / 95 / 120 (+1.0 per attack damage)
+Extra Gold: 4 / 5 / 6 / 7 / 8"
+"Remove Scurvy"	"Gangplank"	""	"(Active): Gangplank instantly removes all crowd control effects on him, as well as healing himself.
+Cost: 65 mana
+
+
+Cooldown: 22 / 21 / 20 / 19 / 18 seconds
+Heal: 80 / 150 / 220 / 290 / 360 (+1.0 per ability power)"
+"Raise Morale"	"Gangplank"	""	"(Passive): Gangplank's attack damage and movement speed are increased permanently.
+Passive Attack Damage Bonus: 8 / 10 / 12 / 14 / 16
+Passive Movement Speed Bonus: 3 / 4 / 5 / 6 / 7 %"
+"Cannon Barrage"	"Gangplank"	""	"(Active): Gangplank signals his ship to fire cannonballs upon target area for 7 seconds. 25 cannonballs will drop over the duration and each will deal magic damage to all enemies hit. Enemies in the area of this ability are slowed by 25% for 1.25 seconds with the duration refreshing if one stays in the area.
+Cost: 100 mana
+Range: Global
+Radius of Target AoE: 575
+Radius of Cannonball AoE: 275
+Sight Radius: 600 (estimate)
+
+
+Magic Damage Per Cannonball: 75 / 120 / 165 (+0.2 per ability power)
+Cooldown: 120 / 115 / 110 seconds"
+"Perseverance"	"Garen"	"Champion Passive"	"(Innate): Garen will  regenerate 0.5% of his maximum health per second after not receiving damage for 7 seconds. The regenerative state will stop if Garen receives damage."
+"Decisive Strike"	"Garen"	""	"(Active): Garen gains bonus movement speed for 4 seconds, in addition his next melee attack within 6 seconds will deal physical damage and silence its target for 2.5 seconds.
+ No cost
+
+
+Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+Total Physical Damage: 30 / 45 / 60 / 75 / 90 (+1.4 per attack damage)
+Bonus Movement Speed: 15 / 20 / 25 / 30 / 35 %"
+"Courage"	"Garen"	""	"(Passive): Garen's armor and magic resistance are permanently increased by 0.5 every time he kills an enemy unit. Garen can gain a maximum of 25 armor and magic resistance."
+"Judgment"	"Garen"	""	"(Active): Garen rapidly spins his sword around his body for 3 seconds, removing all existing slows and reducing the duration of new slows by 50%, plus dealing physical damage to nearby enemies every half second. Minions and neutral monsters only take half damage from this ability. Garen can deactivate Judgment early by activating the ability again after 0.5 seconds. Garen cannot use Decisive Strike or Demacian Justice while Judgment is in effect. Judgment's damage can critically strike, in which case, only the bonus damage will be multiplied.
+ No cost
+Radius of AoE: 330
+
+
+Cooldown: 13 / 12 / 11 / 10 / 9 seconds
+Physical Damage Per Second: 50 / 90 / 130 / 170 / 210 (+1.4 per bonus attack damage)"
+"Demacian Justice"	"Garen"	""	"(Active): Garen brings down Demacian Justice on his opponent, dealing magic damage, plus additional magic damage per amount of health his opponent has already lost.
+ No cost
+Range: 400
+
+
+Cooldown: 140 / 120 / 100 seconds
+Magic Damage: 175 / 350 / 525
+Additional Damage: 1 per 3.5 / 3 / 2.5 health missing"
+"Relentless Assault"	"Jax"	"Champion Passive"	"(Innate): Every time Jax attacks an enemy, he gains 4 /  6 /  8 /  10 /  12 /  14 % attack speed for 2.5 seconds (stacks up to 6 times)."
+"Leap Strike"	"Jax"	""	"(Active): Jax leaps towards a target. If it's an enemy, he strikes it, dealing physical damage.
+Cost: 65 mana
+Range: 700
+
+
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Physical Damage: 70 / 110 / 150 / 190 / 230 (+0.6 per ability power) (+1.0 per bonus attack damage)"
+"Empower"	"Jax"	""	"(Active): Jax charges his weapon with energy, causing his next autoattack or Leap Strike to deal additional magic damage. This ability resets the autoattack timer.
+Cost: 30 mana
+
+
+Cooldown: 7 / 6 / 5 / 4 / 3 seconds
+Magic Damage: 40 / 85 / 130 / 175 / 220 (+0.6 per ability power)"
+"Counter Strike"	"Jax"	""	"(Active): Jax dodges all incoming basic attacks for 1.5 seconds. At the end of the duration, Jax deals damage and stuns nearby enemies for 1 second. This spell deals additional damage for each attack dodged.
+Radius of AoE: 400
+
+
+Cost: 70 / 75 / 80 / 85 / 90 mana
+Cooldown: 22 / 20 / 18 / 16 / 14 seconds
+Physical Damage: 40 / 70 / 100 / 120 / 160 (+0.8 per bonus attack damage)
+Additional Damage: 10 / 15 / 20 / 25 / 30"
+"Grandmaster's Might"	"Jax"	""	"(Passive): Jax deals additional magic damage on every third basic attack. The counter will be reset if he does not attack for 2.5 seconds.
+Cooldown: 100 / 90 / 80 seconds
+Magic Damage: 100 / 160 / 220 (+0.7 per ability power)"
+"Inner Flame"	"Karma"	"Champion Passive"	"(Innate): Karma gains up to 30 /  50 /  70 /  90 /  110 /  130 increased ability power corresponding to her percentage of missing health."
+"Heavenly Wave"	"Karma"	""	"(Active): Karma sends forth a wave of hidden blades from her fans, dealing magic damage to units in a cone in front of her.
+Mantra Bonus: In addition to dealing damage to enemies, Heavenly Wave will also heal Karma and her allies in the cone. An additional 5% (+1% per 50 ability power above 25) of health the targets are missing is added to the heal.
+
+Cooldown: 6 seconds
+Range: 600 (estimate)
+Cone Width: 60º
+
+
+Cost: 70 / 75 / 80 / 85 / 90 / 95 mana
+Magic Damage: 70 / 110 / 150 / 190 / 230 / 270 (+0.6 per ability power)
+Base Heal: 35 / 55 / 75 / 95 / 115 / 135"
+"Spirit Bond"	"Karma"	""	"(Active): Karma creates a beam between her and an ally or enemy unit for up to 5 seconds. Allied anchors move faster and enemy anchors are slowed. The beam deals magic damage to enemies and applies the same movement speed adjustment anchors receive to any champion it passes through for 3 seconds. The beam breaks if the bonded target is stealthed.
+Mantra Bonus: Karma strengthens the bond to double the effect of the movement speed modifier.
+
+Range: 800
+Leash range: 1000
+
+
+Cost: 65 / 75 / 85 / 95 / 105 / 115 mana
+Cooldown: 15 / 14 / 13 / 12 / 11 / 10 seconds
+Movement Speed Modifier: 10 / 12 / 14 / 16 / 18 / 20 %
+Magic Damage: 80 / 125 / 170 / 215 / 260 / 305 (+0.7 per ability power)"
+"Soul Shield"	"Karma"	""	"(Active): Karma summons a protective shield on an ally or herself that absorbs damage for 5 seconds.
+Mantra Bonus: In addition to casting the shield, a surge of energy bursts out from the shield dealing magic damage to enemy units around her target.
+
+Cooldown: 10 seconds
+Range: 650 (estimate)
+Radius of Damage AoE: 600 (estimate)
+
+
+Cost: 70 / 80 / 90 / 100 / 110 / 120 mana
+Shield Strength &amp; Magic Damage: 80 / 120 / 160 / 200 / 240 / 280 (+0.8 per ability power)"
+"Mantra"	"Karma"	""	"(Active): Karma empowers her next ability to do an additional effect. Karma gains a charge over time and stores up to 2 charges. The refresh rate is reduced by cooldown reduction and does not progress when having max charges. Both charges may be queued for application on the next 2 abilities. Reload begins when Mantra is activated, not when the charge is applied to another ability.
+No cost
+Cooldown: 0.25 seconds
+
+
+Mantra is available from level 1 and does not require skill points. The time needed to load a charge is reduced at level 7 and 13.
+Charge Reload Time: 30 / 25 / 20 seconds"
+"Determined Killer"	"Evelynn"	"Champion Passive"	"(Innate): Damage received from enemy minions (not jungle monsters) is reduced by 50%."
+"Hate Spike"	"Evelynn"	""	"(Active): Instantly spikes the closest enemy unit dealing magic damage and 50% of that damage to a secondary nearby target.
+Cooldown: 0.8 seconds
+Range: 200
+
+
+Cost: 12 / 15 / 18 / 21 / 24 mana
+Magic Damage To Main Target: 25 / 40 / 55 / 70 / 85 (+0.28 per ability power)
+Magic Damage To Secondary Target: 12.5 / 20 / 27.5 / 35 / 42.5 (+0.14 per ability power)"
+"Shadow Walk"	"Evelynn"	""	"(Active): After 1.5 second delay, that is increased further by taking damage, Evelynn enters stealth for some time. Evelynn's next attack or damage ability will slow her target for 3 seconds, instantly ending her stealth. Evelynn can cast Shadow Walk while stealthed to destealth.
+Cost: 60 mana
+
+
+Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+Stealth Maximum Duration: 10 / 20 / 30 / 40 / 50 seconds
+Slow: 30 / 35 / 40 / 45 / 50 %"
+"Ravage"	"Evelynn"	""	"(Active): Deals magic damage to target unit and reduces the target's armor and magic resistance for 5 seconds.
+Cooldown: 9 seconds
+Range: 400
+
+
+Cost: 90 / 105 / 120 / 135 / 150 mana
+Magic Damage: 80 / 135 / 190 / 255 / 320 (+1.0 per ability power)
+Armor &amp; Magic Resistance Reduced: 10 / 14 / 18 / 22 / 26"
+"Malice and Spite"	"Evelynn"	""	"(Passive): Each time Evelynn scores a kill or assist she regains health.
+Health Restored: 150 / 225 / 300"
+"Death Defied"	"Karthus"	"Champion Passive"	"(Innate): Upon dying, Karthus enters a spirit form, which allows him to continue casting spells for 7 seconds. During this time, his abilities cost no mana."
+"Lay Waste"	"Karthus"	""	"(Active): Creates a delayed blast at the cursor position. After a half a second delay, it will deal magic damage to each nearby enemy. The damage is doubled if it hits only a single unit.
+Cooldown: 1 second
+Range to Center of AoE: 875
+Radius of AoE: 100
+
+
+Cost: 20 / 26 / 32 / 38 / 44 mana
+Magic Damage (Multiple Target): 40 / 60 / 80 / 100 / 120 (+0.3 per ability power) 
+ Magic Damage (Single Target): 80 / 120 / 160 / 200 / 240 (+0.6 per ability power)"
+"Wall of Pain"	"Karthus"	""	"(Active): Karthus creates a wall between 2 obelisks at target position. Any enemy passing this wall have their armor, magic resistance, and movement speed reduced for 5 seconds. The wall lasts 5 seconds.
+Cost: 100 mana
+Cooldown: 18 seconds
+Range to Center of Wall: 1000
+
+
+Wall Length: 800 / 900 / 1000 / 1100 / 1200
+Maximum Wall Sight est.: 1300 / 1325 / 1350 / 1375 / 1400
+Armor and Magic Resist Reduction: 15 / 20 / 25 / 30 / 35
+Slow: 40 / 50 / 60 / 70 / 80 %"
+"Defile"	"Karthus"	""	"(Toggle) - Off: When Karthus kills a unit, he restores mana.
+Mana Restored: 20 / 27 / 34 / 41 / 48 per kill"
+"Requiem"	"Karthus"	""	"(Active):  After channeling for 3 seconds, Karthus deals magic damage to all enemy champions.
+Cost: 150 / 175 / 200 mana
+Cooldown: 180 / 150 / 120 seconds
+Magic Damage: 250 / 400 / 550 (+0.6 per ability power)"
+"Void Stone"	"Kassadin"	"Champion Passive"	"(Innate): Kassadin takes 15% reduced magic damage after magic resistance reductions have been applied. Kassadin converts each point of this ignored damage into 1% bonus attack speed. Each of these conversions last individually for 4 seconds and the attack speed will stack."
+"Null Sphere"	"Kassadin"	""	"(Active): Kassadin fires an ethereal bolt of void energy to a single target, dealing magic damage and silencing the target for a few seconds.
+Cooldown: 9 seconds
+Range: 650
+Projectile Speed: 1400
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Magic Damage: 80 / 130 / 180 / 230 / 280 (+0.7 per ability power)
+Silence Duration: 1 / 1.4 / 1.8 / 2.2 / 2.6 second(s)"
+"Nether Blade"	"Kassadin"	""	"(Passive): Kassadin's melee attacks restore mana. This effect returns triple the mana when striking champions.
+Mana Restored: 8 / 11 / 14 / 17 / 20"
+"Force Pulse"	"Kassadin"	""	"(Active): Kassadin draws energy from spells cast in his vicinity, gaining a charge whenever a spell is cast near him, including his own spells. Upon reaching 6 charges, Kassadin can use Force Pulse to deal magic damage and slow enemies in a cone in front of him for 3 seconds.
+Cost: 80 mana
+Cooldown: 6 seconds
+Range: 400
+Cone Width: 80º
+
+
+Magic Damage: 80 / 130 / 180 / 230 / 280 (+0.7 per ability power)
+Slow: 30 / 35 / 40 / 45 / 50 %"
+"Riftwalk"	"Kassadin"	""	"(Active): Kassadin blinks to a nearby location, dealing magic damage to enemy units surrounding the destination area. Each subsequent Riftwalk in the next 8 seconds will cost 100 additional mana and will deal additional damage. The cost and damage increase can stack up to 10 times.
+Base Cost: 100 mana
+Range: 700
+Radius of Damage AoE: 150
+
+
+Cooldown: 7 / 6 / 5 seconds
+Base Magic Damage: 60 / 90 / 120 (+0.5 per ability power)
+Additional Damage Per Stack: 60 / 90 / 120"
+"Mark of the Storm"	"Kennen"	"Champion Passive"	"(Innate): Kennen's abilities add Marks of the Storm to opponents which last for 8 seconds. An opponent is stunned for 1 second upon receiving 3 Marks of the Storm, and Kennen receives 25 energy. The stun has a diminished effect, and will only stun for approx 0.5 seconds if applied more than once within 7 seconds."
+"Thundering Shuriken"	"Kennen"	""	"(Active): Kennen throws a charged shuriken in a line in front of him, dealing magic damage and adding a Mark of the Storm to the first opponent that it hits.
+Range: 1050
+
+
+Cost: 65 / 60 / 55 / 50 / 45 energy
+Cooldown: 7 / 6 / 5 / 4 / 3 seconds
+Magic Damage: 75 / 115 / 155 / 195 / 235 (+0.75 per ability power)"
+"Electrical Surge"	"Kennen"	""	"(Passive): Every 5 attacks, Kennen will deal extra magic damage equal to a percentage of his attack damage and add a Mark of the Storm to his target.
+Magic Damage: 40 / 50 / 60 / 70 / 80% of his attack damage"
+"Lightning Rush"	"Kennen"	""	"(Active): For 3 seconds Kennen's base movement speed is doubled. He also gains the ability to pass through units, dealing magic damage to all enemy units in the process, and restoring 40 energy from the first enemy he hits. This ability only deal 50% damage to minions. Additionally, for 4 seconds Kennen's armor and magic resistance is increased,
+While Lightning Rush is active, he can activate it again, to cancel the first part of the ability.
+
+
+Cost: 100 / 95 / 90 / 85 / 80 energy
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Magic Damage: 85 / 125 / 165 / 205 / 245 (+0.6 per ability power)
+Armor and Magic Resist Bonus: 10 / 20 / 30 / 40 / 50"
+"Slicing Maelstrom"	"Kennen"	""	"(Active): Kennen summons a magical storm that deals magic damage to a random enemy champion near Kennen every 0.5/0.4/0.33 seconds. The storm hits several times, increasing with level, and cannot hit the same target more than 3 times. A Mark of the Storm is applied to enemies each time they are hit.
+Cooldown: 120 seconds
+Radius: 550 (estimate)
+
+
+Cost: 50 / 45 / 40 energy
+Magic Damage Per Bolt: 80 / 145 / 210 (+0.4 per ability power)
+Number of Bolts: 6 / 10 / 15
+Time Between Bolts: 0.5 / 0.4 / 0.33 seconds"
+"Tailwind"	"Janna"	"Champion Passive"	"(Innate): Increases the movement speed of all allied champions by 3%. This bonus is lost while Janna is dead."
+"Howling Gale"	"Janna"	""	"(Active): Janna summons a mighty whirlwind. She can activate the spell again to release the storm. On release the storm will fly in the direction it was cast, dealing magic damage to enemies and knocking them into the air for 0.8 seconds. The damage done and distance traveled by the whirlwind increase for each second it channels to a maximum of 3.
+Range: 1100-1700
+
+
+Cost: 90 / 105 / 120 / 135 / 150 mana
+Cooldown: 14 / 13 / 12 / 11 / 10 seconds
+Magic Damage: 60 / 85 / 110 / 135 / 160 (+0.75 per ability power)
+Additional Damage: 25 / 30 / 40 / 50 / 60 per second charging"
+"Zephyr"	"Janna"	""	"(Passive): Janna summons an air elemental that increases her movement speed and enables her to pass through units.
+Movement Speed Bonus: 8 / 10 / 12 / 14 / 16 %"
+"Eye Of The Storm"	"Janna"	""	"(Active): Janna conjures a defensive gale that shields her target from incoming damage for up to 5 seconds. The target will also gain an attack damage bonus for 5 seconds. This ability can target turrets.
+Cooldown: 10 seconds
+Range: 800
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Shield Strength: 80 / 120 / 160 / 200 / 240 (+0.9 per ability power) 
+Attack Damage Bonus: 14 / 23 / 32 / 41 / 50"
+"Monsoon"	"Janna"	""	"(Active): Janna knocks surrounding enemies back and channels healing winds, restoring health to nearby allies each half second, for 4 seconds.
+Cooldown: 120 seconds
+Radius: 725
+Max. knockback distance: 950 (estimate)
+
+
+Cost: 200 / 275 / 350 mana
+Heal Per Half Second: 35 / 55 / 75 (+0.175 per ability power)
+Max Amount of Healing: 280 / 440 / 600 (+1.4 per ability power)"
+"Martial Cadence"	"Jarvan IV"	"Champion Passive"	"(Innate): Jarvan IV's first attack on a target deals 6 /  8 /  10 % of their current health as bonus physical damage. This caps at 400 damage. This effect cannot occur on the same target for 6 seconds."
+"Dragon Strike"	"Jarvan IV"	""	"(Active): Jarvan IV extends his lance, dealing physical damage in a straight line and lowering the Armor of all enemies hit for 3 seconds. Additionally, if it encounters his Demacian Standard, it will pull Jarvan to it, knocking up enemies along his path.
+Range: 770
+
+
+Cost: 45 / 50 / 55 / 60 / 65 mana
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Physical Damage: 70 / 115 / 160 / 205 / 250 (+1.1 per bonus attack damage)
+Armor Reduction: 10 / 14 / 18 / 22 / 26 %"
+"Golden Aegis"	"Jarvan IV"	""	"(Active): Jarvan IV shields himself for 5 seconds, which, upon activation, also slows surrounding enemies for 2 seconds. The shield gains strength for every nearby enemy champion upon activation.
+Cost: 65 mana
+Radius of AoE: 600
+
+
+Cooldown: 20 / 18 / 16 / 14 / 12 seconds
+Shield Strength: 50 / 90 / 130 / 170 / 210
+Extra Shield Strength: 20 / 25 / 30 / 35 / 40 per nearby enemy champion
+Slow: 15 / 20 / 25 / 30 / 35 %"
+"Demacian Standard"	"Jarvan IV"	""	"(Passive): Permanently grants Jarvan IV bonus attack speed and armor.
+Attack Speed: 10 / 13 / 16 / 19 / 22%
+Armor: 10 / 13 / 16 / 19 / 22"
+"Cataclysm"	"Jarvan IV"	""	"(Active): Jarvan IV dashes to an enemy champion, dealing physical damage and creating a circle of impassable terrain around them for a 3.5 second duration. Jarvan IV can destroy the impassable terrain by activating this ability again.
+Range: 650
+Radius of Wall AoE: 300
+Radius of Sight: 1650
+
+
+Cost: 100 / 125 / 150 mana
+Cooldown: 120 / 105 / 90 seconds
+Physical Damage: 200 / 325 / 450 (+1.5 per bonus attack damage)"
+"Flurry"	"Lee Sin"	"Champion Passive"	"(Innate): After Lee Sin uses an ability, his next 2 autoattacks within 3 seconds gain 50% attack speed and return 15 energy each."
+"Sonic Wave"	"Lee Sin"	""	"(Active): Lee Sin shoots a wave of sound in a line, dealing physical damage to the first enemy it encounters and revealing his enemies for 3 seconds. If Sonic Wave hits, Lee Sin can cast Resonating Strike within the next 3 seconds.
+Cost: 50 energy
+Range: 975
+
+
+Cooldown: 11 / 10 / 9 / 8 / 7 seconds
+Physical Damage: 50 / 80 / 110 / 140 / 170 (+0.9 per bonus attack damage)"
+"Safeguard"	"Lee Sin"	""	"(Active): Lee Sin shields himself, or dashes towards a target ally unit, shielding them both from damage for the next 5 seconds. After using Safeguard, Lee Sin can cast Iron Will within the next 3 seconds.
+Cost: 50 energy
+Cooldown: 8 seconds
+Range: 700
+
+
+Shield Strength: 40 / 80 / 120 / 160 / 200 (+0.8 per ability power)"
+"Tempest"	"Lee Sin"	""	"(Active): Lee Sin smashes the ground dealing magic damage to all nearby enemies and revealing them for 4 seconds. If Tempest hits an enemy, Lee Sin can cast Cripple within the next 3 seconds.
+Cost: 50 energy
+Cooldown: 10 seconds
+Radius of AoE: 350
+
+
+Magic Damage: 60 / 95 / 130 / 165 / 200 (+1.0 per bonus attack damage)"
+"Dragon's Rage"	"Lee Sin"	""	"(Active): Lee Sin performs a powerful roundhouse kick knocking his target back, dealing physical damage to the target and any enemies they collide with. Enemies the target collides with are briefly knocked into the air.
+No cost
+Range: 375
+Knockback distance: 1,200 (estimate).
+
+
+Cooldown: 90 / 75 / 60 seconds
+Physical Damage: 200 / 400 / 600 (+2.0 per bonus attack damage)"
+"Granite Shield"	"Malphite"	"Champion Passive"	"(Innate): Malphite's skin innately produces a layer of rock as a shield which absorbs damage of up to 10% of his maximum health. The shield will recharge if Malphite has not received damage in the last 10 seconds."
+"Seismic Shard"	"Malphite"	""	"(Active): Malphite sends a shard of the earth through the ground at his target, dealing magic damage upon impact and slowing them for 4 seconds. Additionally, Malphite will increase his own movement speed for 4 seconds by the same amount of flat movement speed that the target lost.
+Cooldown: 8 seconds
+Range: 625
+
+
+Cost: 70 / 75 / 80 / 85 / 90 mana
+Magic Damage: 70 / 120 / 170 / 220 / 270 (+0.6 per ability power)
+Movement Speed Stolen: 14 / 17 / 20 / 23 / 26 %"
+"Brutal Strikes"	"Malphite"	""	"(Passive): Malphite's autoattacks will splash, dealing a percentage of his attack damage to nearby enemies.
+Splash radius from target: 200
+
+
+Splash Damage: 30 / 38 / 46 / 54 / 62 %"
+"Ground Slam"	"Malphite"	""	"(Active): Malphite slams the ground, dealing magic damage to all nearby enemies and reducing their attack speed for 4 seconds.
+Cooldown: 7 seconds
+Radius of AoE: 400
+
+
+Cost: 50 / 55 / 60 / 65 / 70 mana
+Magic Damage: 60 / 100 / 140 / 180 / 220 (+50% of total armor)
+Attack Speed Reduction: 30 / 35 / 40 / 45 / 50 %"
+"Unstoppable Force"	"Malphite"	""	"(Active): Malphite charges to the target location, dealing magic damage to all enemies in the area, knocking them into the air and stunning them for 1.5 seconds. Malphite cannot be interrupted during his charge by anything except his own death.
+Cost: 100 mana
+Range to center of AoE: 1000
+Radius of AoE: 250 (estimate)
+
+
+Cooldown: 130 / 115 / 100 seconds
+Magic Damage: 200 / 300 / 400 (+1.0 per ability power)"
+"Summon Voidling"	"Malzahar"	"Champion Passive"	"(Innate): After casting 4 spells, Malzahar summons a Voidling for 21 seconds. Voidlings have 200 + (50 x level) health and 20 + (5 x level) + (+1.0 per bonus attack damage)  attack damage (bonus autoattack damage isn't noticed in tooltip or voidling's stats, but it affects damage done by voidling). The voidlings benefit from Malzahar's armor penetration.
+Voidlings grow after 7 seconds (+50% base damage/armor), and Frenzy after 14 seconds (increased attack speed).
+
+Voidlings' Armor: 30 (45 after 7 seconds)
+Voidlings' Magic Resistance: 50
+Voidlings' Attack Speed: 0.831 (1.496 after 14 seconds)
+Voidlings' Movement Speed: 451 
+
+Voidlings will always attack the target affected by Malzahar's most recently cast Malefic Visions. If there are no targets affected  by Malefic Visions, it will attack random targets."
+"Call of the Void"	"Malzahar"	""	"(Active): Malzahar opens up two portals to the Void. After a short delay, power erupts from them, dealing magic damage and silencing all enemies caught between the portals.
+Cooldown: 9 seconds
+Range to center of wall: 900
+Wall width: 400 (estimate)
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Magic Damage: 80 / 135 / 190 / 245 / 300 (+0.8 per ability power)
+Silence Duration: 1.4 / 1.8 / 2.2 / 2.6 / 3 seconds"
+"Null Zone"	"Malzahar"	""	"(Active): Malzahar creates a zone of negative energy for 5 seconds. The zone deals magic damage to enemies that stand in it for percentage of their max health each second. (damage to monsters is capped)
+Cooldown: 14 seconds
+Range to center of AoE: 800
+Radius of AoE: 250 (estimate)
+Maximal damage vs. monsters: 130 (estimated)
+
+
+Cost: 90 / 100 / 110 / 120 / 130 mana
+Health To Magic Damage Per Second Ratio: 4 / 5 / 6 / 7 / 8% (+1% per 100 ability power)"
+"Malefic Visions"	"Malzahar"	""	"(Active): Malzahar infects his target's mind, dealing magic damage each second for 4 seconds. If the target dies while afflicted by the visions, they pass the curse on to a nearby enemy unit, refreshing the duration and restoring mana to Malzahar. Malzahar's Voidlings are attracted to affected units.
+Range: 650
+
+
+Cost: 60 / 75 / 90 / 105 / 120 mana
+Cooldown: 15 / 13 / 11 / 9 / 7 seconds
+Total Magic Damage: 80 / 140 / 200 / 260 / 320 (+0.8 per ability power)
+Magic Damage per Second: 20 / 35 / 50 / 65 / 80 (+0.2 per ability power)
+Mana Restored: 10 / 14 / 18 / 22 / 26"
+"Nether Grasp"	"Malzahar"	""	"(Active): Malzahar grips his target in an engulfing void of energy and begins channeling, dealing magic damage every half second while suppressing the target for up to 2.5 seconds.
+Cost: 150 mana
+Range: 700
+
+
+Cooldown: 120 / 100 / 80 seconds
+Magic Damage Per Half Second: 50 / 80 / 110 (+0.26 per ability power)
+Total Magic Damage: 250 / 400 / 550 (+1.3 per ability power)"
+"Sap Magic"	"Maokai"	"Champion Passive"	"(Innate): Each time a spell is cast near Maokai, he gains a charge of Sap Magic. When he has 5 charges, his next autoattack will heal him for 7% of his maximum health."
+"Arcane Smash"	"Maokai"	""	"(Active): Maokai smashes the ground, and sends an arcane shockwave forward, damaging and slowing his enemies for 2 seconds.  Enemies close to Maokai are knocked back briefly.
+Cost: 55 mana
+Cooldown: 6 seconds
+Radius of Knock-up AoE: 200 (estimate)
+Range of Shockwave: 700 (estimate)
+
+
+Magic Damage: 70 / 115 / 160 / 205 / 250 (+0.4 per ability power)
+Slow: 20 / 27 / 34 / 41 / 48 %"
+"Twisted Advance"	"Maokai"	""	"(Active): Maokai transforms into a cloud of arcane energy, quickly traveling to a target enemy and becoming untargetable while traveling. Once Maokai reaches the target, it takes magic damage and is rooted in place.
+Cooldown: 13 seconds
+Range: 650
+
+
+Cost: 75 / 80 / 85 / 90 / 95 mana
+Magic Damage: 80 / 115 / 150 / 185 / 220 (+0.8 per ability power)
+Root Duration: 1 / 1.25 / 1.5 / 1.75 / 2 second(s)"
+"Sapling Toss"	"Maokai"	""	"(Active): Maokai hurls a sapling to a target area, dealing magic damage on impact. The sapling becomes implanted in the ground, warding a nearby area for up to 35 seconds. After a 1 second delay after landing, the sapling will seek out nearby enemies. When an enemy approaches, the sapling will chase for up to 2.5 seconds and explode in an arcane blast that deals magic damage to enemies.
+Cooldown: 12 seconds
+Range: 1100
+Impact/Explosion Radius: 350 (estimate)
+Aggro Radius: 500 (estimate)
+Sight Radius: 700 (estimate)
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Impact Magic Damage: 40 / 75 / 110 / 145 / 180 (+0.4 per ability power)
+Explosion Magic Damage: 80 / 130 / 180 / 230 / 280 (+0.6 per ability power)"
+"Vengeful Maelstrom"	"Maokai"	""	"(Toggle): Maokai creates a great vortex of natural energy on a nearby area reducing non-tower damage done to allied champions in the area by 20%. Maokai can prolong the effect as long as he has mana to spend on it. When the effect ends, Maokai unleashes the absorbed energy to deal damage to enemies within the vortex.
+Initial Cost: 75 mana
+Upkeep Cost: 30 mana per second
+Range to Center of AoE: 575
+Radius of AoE:
+
+
+Cooldown: 40 / 30 / 20 seconds
+Magic Damage: 100 / 150 / 200 (+2 per point of damage absorbed) (+0.5 per ability power) 
+Maximum Bonus Damage: 200 / 250 / 300"
+"Strut"	"Miss Fortune"	"Champion Passive"	"(Innate): Miss Fortune gains an additional 25 movement speed after not taking any damage for 7 seconds, increasing thereafter by 4 every second up until reaching 70 bonus movement speed."
+"Double Up"	"Miss Fortune"	""	"(Active): Miss Fortune fires a shot at an enemy target, dealing physical damage and 115% of that damage to another enemy target behind the first. Both hits apply on-hit effects.
+Range: 625
+Bounce hit range: 500
+
+
+Cost: 70 / 75 / 80 / 85 / 90 mana
+Cooldown: 9 / 8 / 7 / 6 / 5 seconds
+Physical Damage: 25 / 60 / 95 / 130 / 165 (+0.75 per attack damage)"
+"Impure Shots"	"Miss Fortune"	""	"(Passive): Miss Fortune's autoattacks deal extra magic damage on-hit. This damage cumulatively stacks up to 4 times on the same target if no more than 5 seconds pass between each hit.
+Magic Damage: 6 / 8 / 10 / 12 / 14 (+0.05 per ability power)"
+"Make It Rain"	"Miss Fortune"	""	"(Active): Miss Fortune fires hundreds of bullets into the air which rain down at a location after 0.5 seconds delay. The area lasts for 2 seconds, slowing and dealing magic damage every quarter of a second to each enemy that is on the area. Slow lasts 1 second after leaving the area.
+Cooldown: 15 seconds
+Range: 800
+Radius: 400
+
+
+Cost: 80 / 85 / 90 / 95 / 100 mana
+Total Magic Damage: 90 / 145 / 195 / 255 / 310 (+0.8 per ability power)
+Slow: 20 / 25 / 30 / 35 / 40 %"
+"Bullet Time"	"Miss Fortune"	""	"(Active): Miss Fortune channels for 2 seconds to fire a wave of bullets in a cone in front of her every quarter of a second. She fires 8 waves in total and each wave will deal magic damage to all enemies caught in the area.
+Cost: 150 mana
+Range: 1400
+
+
+Cooldown: 120 / 110 / 100 seconds
+Magic Damage Per Wave: 65 / 95 / 125   (+0.45 per bonus attack damage) (+0.2 per ability power)
+Maximum Magic Damage: 520 / 760 / 1000   (+3.60 per bonus attack damage) (+1.6 per ability power)"
+"Iron Man"	"Mordekaiser"	"Champion Passive"	"(Innate): 35% of the damage dealt from abilities is converted into a temporary absorption shield. Shield generation is only half as effective against minions and monsters. Maximum shield strength is 90 + (30 x level). The shield decays by 3% per second."
+"Mace of Spades"	"Mordekaiser"	""	"(Active): On next hit, Mordekaiser swings his mace with such force that it echoes out, striking up to 3 additional nearby targets, dealing magic damage. If the target is alone, the ability deals 65% more damage.
+Additional target radius: 600
+
+
+Cost: 25 / 32 / 39 / 46 / 53 health
+Cooldown: 8 / 7 / 6 / 5 / 4 seconds
+Magic Damage: 80 / 110 / 140 / 170 / 200 (+1.0 per bonus attack damage) (+0.4 per ability power)
+Single Target Magic Damage: 132 / 181.5 / 231 / 280.5 / 330  (+1.65 per bonus attack damage) (+0.66 per ability power)"
+"Creeping Death"	"Mordekaiser"	""	"(Active): Unleashes a protective cloud of metal shards to surround an ally or himself, increasing their armor and magic resistance and dealing magic damage per second to enemies in the cloud for 6 seconds.
+Range: 750
+Cloud radius: 250
+
+
+Cost: 26 / 32 / 38 / 44 / 50 health
+Cooldown: 20 / 18 / 16 / 14 / 12 seconds
+Armor &amp; Magic Resist Bonus: 10 / 15 / 20 / 25 / 30
+Magic Damage Per Second: 24 / 38 / 52 / 66 / 80 (+0.2 per ability power)"
+"Siphon of Destruction"	"Mordekaiser"	""	"(Active): Mordekaiser damages all enemies in a cone in front of him, dealing magic damage.
+Cooldown: 6 seconds
+Range: 700
+
+
+Cost: 24 / 36 / 48 / 60 / 72 health
+Magic Damage: 70 / 115 / 160 / 205 / 250 (+0.6 per ability power)"
+"Children of the Grave"	"Mordekaiser"	""	"(Active): Mordekaiser deals magic damage to the target and curses it for 10 seconds with a damage-over-time effect. The damage is equal to a percentage of the target's maximum health. Mordekaiser heals himself for the damage done.
+In addition, if the target dies while under the effect of the curse, their soul is enslaved and will follow Mordekaiser for 30 seconds. During this time, Mordekaiser gains 20% of their ability power and attack damage. The spirit in turn gains 75% of Mordekaiser's adjusted damage, ability power, and health totals.
+
+No cost
+Range: 850
+Leash range 1125 (estimate)
+
+
+Cooldown: 120 / 105 / 90 seconds
+Initial Magic Damage: 12 / 14.5 / 17% (+0.02% per ability power) 
+Magic Damage Per Second: 1.2 / 1.45 / 1.7% (+0.002% per ability power)"
+"Soul Eater"	"Nasus"	"Champion Passive"	"(Innate): Nasus drains his foe's spiritual energy, giving him a natural 14 /  17 /  20% lifesteal."
+"Siphoning Strike"	"Nasus"	""	"(Active): Nasus's next attack will deal additional damage. Siphoning Strike permanently gains 3 stacked damage whenever it kills an enemy   champion, minion or neutral monster.
+Cost: 20 / 25 / 30 / 35 / 40 mana
+Cooldown: 8 / 7 / 6 / 5 / 4 seconds
+Physical Damage: 30 / 50 / 70 / 90 / 110 (+1.0 per attack damage) (+3.0 per enemy killed by Siphoning Strike)"
+"Wither"	"Nasus"	""	"(Active): Nasus ages his target, slowing their movement and attack speed by 35%. Additionally, they are reduced further to reach an extra slow at the end of 5 seconds. If the duration of the slow is reduced, the extra slow will be applied faster for it to reach its maximum at the end of the duration.
+Cost: 80 mana
+Range: 700
+
+
+Extra Slow: 12 / 24 / 36 / 48 / 60 %
+Cooldown: 15 / 14 / 13 / 12 / 11 seconds"
+"Spirit Fire"	"Nasus"	""	"(Active): Nasus unleashes a spirit flame at a location for 5 seconds. Enemies caught in the area are dealt a burst of magic damage. Additionally, enemies in the area are dealt magic damage each second and have their armor reduced while on there and for 1 extra second.
+Cooldown: 12 seconds
+Range to Center of AoE: 650
+Radius of AoE: 400
+
+
+Cost: 70 / 85 / 100 / 115 / 130 mana
+Initial Magic Damage: 55 / 95 / 135 / 175 / 215 (+0.6 per ability power)
+Magic Damage Per Second: 11 / 19 / 27 / 35 / 43 (+0.12 per ability power)
+Armor Reduction: 20 / 25 / 30 / 35 / 40"
+"Fury of the Sands"	"Nasus"	""	"(Active): Nasus becomes empowered in the sandstorm for 15 seconds, gaining extra health. While the storm rages, he drains a percentage of nearby enemies max health each second (max of 240 magic damage per second per enemy) and converts 6.375% of the damage done into bonus attack damage for himself until the sandstorm wears off.
+Cost: 150 mana
+Cooldown: 120 seconds
+Radius of AoE: 350
+
+
+Health Gained: 300 / 450 / 600
+Max Health to Magic Damage Ratio Per Second: 3 / 4 / 5% (+0.01 per ability power)"
+"Prowl"	"Nidalee"	"Champion Passive"	"(Innate): Moving through brush increases Nidalee's movement speed by 15%. The buff lasts for an additional 2 seconds after leaving brush."
+"Javelin Toss"	"Nidalee"	""	"(Active): Nidalee tosses her javelin, dealing magic damage on impact that increases depending on the distance between Nidalee and the target at the time it is hit. The multiplier caps at 2.5.
+Cooldown: 6 seconds
+Range: 1,500
+
+
+Cost: 50 / 60 / 70 / 80 / 90 mana
+Minimum Damage: 55 / 95 / 140 / 185 / 230 (+0.65 per ability power)
+Maximum Damage: 138 / 238 / 350 / 463 / 575 (+1.625 per ability power)"
+"Bushwhack"	"Nidalee"	""	"(Active): Nidalee lays a trap that deals magic damage over 2 seconds when sprung by an enemy, revealing them and reducing their armor and magic resistance for 12 seconds. Traps last for 4 minutes.
+Cooldown: 18 seconds
+Range: 900
+Radius of Activation AoE:
+
+
+Cost: 60 / 75 / 90 / 105 / 120 mana
+Total Magic Damage: 80 / 125 / 170 / 215 / 260 (+0.4 per ability power)
+Armor &amp; Magic Resist Reduction: 20 / 25 / 30 / 35 / 40 %"
+"Primal Surge"	"Nidalee"	""	"(Active): Nidalee heals an ally champion and grants them bonus attack speed for 7 seconds.
+Cooldown: 10 seconds
+Range: 600
+
+
+Cost: 60 / 80 / 100 / 120 / 140 mana
+Heal: 50 / 85 / 120 / 155 / 190 (+0.7 per ability power)
+Attack Speed: 20 / 30 / 40 / 50 / 60 %"
+"Aspect of the Cougar"	"Nidalee"	""	"(Toggle): Nidalee transforms herself into a cougar, and in the process gaining a new set of abilities, bonus armor, magic resistance and 20 movement speed.
+Nidalee loses 425 range while using this ability.
+
+No cost
+Cooldown: 4 seconds
+
+
+Bonus Armor &amp; Magic Resistance: 10 / 20 / 30
+Each additional rank increases the effectiveness of Nidalee's cougar abilities."
+"Umbra Blades"	"Nocturne"	"Champion Passive"	"(Innate): Every 10 seconds, Nocturne's next attack strikes surrounding enemies for 120% of his physical damage and heals himself for 15 /  20 /  25 per target hit. Nocturne's autoattacks reduce this cooldown by 1 second."
+"Duskbringer"	"Nocturne"	""	"(Active): Nocturne sends a shadow blade in a line that deals physical damage to all enemies it passes through, leaves a Dusk Trail on its path, and causes champions who are hit to also leave a Dusk Trail when they move for 5 seconds. While on the trail, Nocturne ignores unit collision and has increased movement speed and attack damage.
+Cooldown: 10 seconds
+Range: 1200
+
+
+Cost: 60 / 65 / 70 / 75 / 80 mana
+Physical Damage: 60 / 105 / 150 / 195 / 240 (+0.75 per bonus attack damage)
+Movement Speed Bonus: 15 / 20 / 25 / 30 / 35 %
+Attack Damage Bonus: 15 / 25 / 35 / 45 / 55"
+"Shroud of Darkness"	"Nocturne"	""	"(Passive): Nocturne empowers his blades, permanently gaining attack speed.
+Attack Speed Bonus: 20 / 25 / 30 / 35 / 40 %"
+"Unspeakable Horror"	"Nocturne"	""	"(Active): Nocturne plants a nightmare into his target's mind, dealing magic damage over 2 seconds and placing a leash on the target for the duration. If Nocturne stays within leash range of the target for the full duration, the target becomes feared.
+Range: 425
+Leash range: 465
+
+
+Cost: 60 / 65 / 70 / 75 / 80 mana
+Cooldown: 15 / 14 / 13 / 12 / 11 seconds
+Magic Damage: 50 / 100 / 150 / 200 / 250 (+1.0 per ability power)
+Fear Duration: 1 / 1.25 / 1.5 / 1.75 / 2 seconds"
+"Paranoia"	"Nocturne"	""	"(Active): Nocturne reduces the sight radius of all enemy champions and removes their ally vision for 4 seconds; this includes champions, minions, wards, towers, and clairvoyance.
+While Paranoia is active, Nocturne can launch himself at a visible enemy champion, dealing physical damage.
+
+Cost: 100 mana
+Sight reduction: 300
+
+
+Cooldown: 160 / 130 / 100 seconds
+Physical Damage: 150 / 250 / 350 (+1.2 per bonus attack damage)
+Jump Range: 2000 / 2750 / 3500"
+"Visionary"	"Nunu"	"Champion Passive"	"(Innate): After 7 autoattacks, Nunu's next spell will have no cost."
+"Consume"	"Nunu"	""	"(Active): Nunu's Yeti takes a bite out of target enemy minion or neutral monster, dealing true damage to it and restoring Nunu's health.
+Cost: 60 mana
+Range: 125
+
+
+Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+True Damage: 400 / 525 / 650 / 775 / 900
+Health Restored: 125 / 180 / 235 / 290 / 345 (+1.0 per ability power)"
+"Blood Boil"	"Nunu"	""	"(Active): Invigorates an allied unit by heating their blood, increasing their attack speed and movement speed for 15 seconds. If cast on an ally, Nunu also gains the effect of Blood Boil.
+Cost: 50 mana
+Cooldown: 15 seconds
+Range: 700
+
+
+Attack Speed: 25 / 35 / 45 / 55 / 65 %
+Movement Speed: 11 / 12 / 13 / 14 / 15 %"
+"Ice Blast"	"Nunu"	""	"(Active): Nunu throws a ball of ice at an enemy unit, dealing magic damage and slowing their movement speed by a percentage and attack speed by 25% for 4 seconds.
+Cooldown: 6 seconds
+Range: 550
+
+
+Cost: 75 / 85 / 95 / 105 / 115 mana
+Magic Damage: 85 / 130 / 175 / 225 / 275 (+1.0 per ability power)
+Slow: 20 / 30 / 40 / 50 / 60 %"
+"Absolute Zero"	"Nunu"	""	"(Active): Nunu starts channeling and begins to sap a large area around him of heat, slowing all nearby enemies movement speed by 50% and attack speed by 25%. After channeling for 3 seconds, he deals massive damage to all enemies caught in the area. It can be canceled early for less damage.
+Cost: 150 mana
+Radius of AoE: 575
+
+
+Cooldown: 150 / 120 / 90 seconds
+Magic Damage: 625 / 875 / 1125 (+2.5 per ability power)"
+"Berserker Rage"	"Olaf"	"Champion Passive"	"(Innate): For every 1% of his health missing, Olaf's attack speed increases by 1%."
+"Undertow"	"Olaf"	""	"(Active): Olaf throws an axe to a target location, dealing physical damage to units it passes through and slowing them for 2.5 seconds. If Olaf picks up the axe, the ability's cooldown is reduced by 6 seconds.
+Cooldown: 10 seconds
+Range: 1000
+
+
+Cost: 55 / 60 / 65 / 70 / 75 mana
+Physical Damage: 50 / 90 / 130 / 170 / 210 (+0.5 per attack damage)
+Slow: 24 / 28 / 32 / 36 / 40 %"
+"Vicious Strikes"	"Olaf"	""	"(Active): For 6 seconds, Olaf's attack damage is increased and he gains life steal and spell vamp.
+Cooldown: 12 seconds
+
+
+Cost: 40 / 45 / 50 / 55 / 60 mana
+Attack Damage: 7 / 14 / 21 / 28 / 35 (+1% of his maximum health)
+Lifesteal &amp; Spell Vamp: 9 / 12 / 15 / 18 / 21 %"
+"Reckless Swing"	"Olaf"	""	"(Active): Olaf attacks with such force that it deals true damage to his target and himself.
+Range: 325
+
+
+Cost: 40 / 64 / 88 / 112 / 136 health
+Cooldown: 8 / 7 / 6 / 5 / 4 seconds
+True Damage to Target: 100 / 160 / 220 / 280 / 340"
+"Ragnarok"	"Olaf"	""	"(Passive): Olaf has increased armor penetration.
+Armor Penetration: 10 / 20 / 30"
+"Clockwork Windup"	"Orianna"	"Champion Passive"	"(Innate): Orianna’s autoattacks deal an additional 5 /  10 /  15 /  20 /  25 /  30 (+0.2 per ability power) magic damage every hit. Additionally, subsequent attacks on the same target within 4 seconds deal an extra 15% magic damage per hit. This extra damage bonus stacks up to three times."
+"Command: Attack"	"Orianna"	""	"(Active): Orianna commands her ball to fly towards target location, dealing magic damage to all enemies that the ball passes through and that are on the destination area. However, the ball deals 10% less damage for each subsequent target hit down to a minimum of 40% damage done. Her ball remains behind at that location afterwards.
+Range: 825
+
+
+Cost: 50 / 55 / 60 / 65 / 70 mana
+Cooldown: 6 / 5.5 / 5 / 4.5 / 4 seconds  
+Magic Damage: 60 / 100 / 140 / 180 / 220 (+0.6 per ability power)"
+"Command: Dissonance"	"Orianna"	""	"(Active): Orianna commands the Ball to emit an electric pulse around its current location, dealing magic damage to all units around it and leaving an electric field on the area for 3 seconds. The field speeds up allies and slows enemies that walk over it. This effect diminishes to normal over 2 seconds after leaving the area.
+Cooldown: 9 seconds
+Radius of AoE: 250 (estimate)
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Magic Damage: 70 / 115 / 160 / 205 / 250 (+0.5 per ability power)
+Initial Movement Speed Modifier: 20 / 25 / 30 / 35 / 40 %"
+"Command: Protect"	"Orianna"	""	"(Passive): The allied champion the Ball is currently attached to is granted bonus armor and magic resistance.
+Bonus Armor &amp; Magic Resist: 10 / 15 / 20 / 25 / 30"
+"Command: Shockwave"	"Orianna"	""	"(Active): Orianna commands her ball to unleash a shockwave after a short delay, dealing magic damage to nearby enemies and flinging them into the air a set distance towards, and possibly over, the Ball. When the target(s) land they will be stunned for 1 second
+Radius of AoE: 400 (estimate)
+Fling distance: 250-350 (estimate)
+
+
+Cost: 100 / 125 / 150 mana
+Cooldown: 120 / 105 / 90 seconds  
+Magic Damage: 150 / 225 / 300 (+0.7 per ability power)"
+"Aegis Protection"	"Pantheon"	"Champion Passive"	"(Innate): After attacking or casting spells 4 times, Pantheon will gain a shield that will block the next normal or enhanced standard attack that deals more than 40 damage to him."
+"Spear Shot"	"Pantheon"	""	"(Active): Pantheon hurls his spear at an opponent dealing physical damage. If Heartseeker Strike has been leveled up once, Spear Shot will crit to deal 150% damage against opponents whose current health is below 15% of their max health.
+Cost: 45 mana
+Cooldown: 4 seconds
+Range: 600
+
+
+Physical Damage: 65 / 105 / 145 / 185 / 225 (+1.4 per bonus attack damage)"
+"Aegis of Zeonia"	"Pantheon"	""	"(Active): Pantheon leaps at an enemy and bashes the enemy with his shield, stunning them for 1 second. Pantheon will also instantly refresh his Aegis Protection.
+Cost: 55 mana
+Range: 600
+
+
+Cooldown: 13 / 12 / 11 / 10 / 9 seconds
+Magic Damage: 50 / 75 / 100 / 125 / 150 (+1.0 per ability power)"
+"Certain Death"	"Pantheon"	""	"(Passive): Pantheon's autoattacks gain 100% critical strike chance against targets whose current health is below 15% of their max health."
+"Grand Skyfall"	"Pantheon"	""	"(Active): Pantheon gathers his strength channeling for 2 seconds and then leaps high in to the air, crashing down at the target area 1.5 seconds later. Deals magic damage to units at the center (down to 50% at the edge) and slows them by 35% for 1 second. If the channeling is cancelled, the cooldown is reduced to 10 seconds.
+Cost: 125 mana
+Range to Center of AoE: 5500
+Radius of AoE: 1000 (estimate)
+
+
+Cooldown: 150 / 135 / 120 seconds
+Magic Damage: 400 / 700 / 1000 (+1.0 per ability power)"
+"Valiant Fighter"	"Poppy"	"Champion Passive"	"(Innate): Any damage dealt to Poppy that exceeds 10% of her current health is reduced by 50%. This does not reduce damage from structures."
+"Devastating Blow"	"Poppy"	""	"(Active): Poppy enhances her next auto attack so that it deals bonus magic damage and an additional 8% of the target's max health as magic damage. The magic damage based on 8% of the target's max health cannot exceed a threshold.
+Cost: 55 mana
+
+
+Cooldown: 8 / 7 / 6 / 5 / 4 seconds
+Extra Magic Damage: 20 / 40 / 60 / 80 / 100 (+0.6 per ability power)
+Threshold: 75 / 150 / 225 / 300 / 375"
+"Paragon of Demacia"	"Poppy"	""	"(Passive): Upon being hit or attacking an enemy, Poppy's armor and damage are increased for 5 seconds. This effect can stack 10 times.
+Armor &amp; Attack Damage: 1.5 / 2 / 2.5 / 3 / 3.5 per stack
+Max Armor &amp; Attack Damage: 15 / 20 / 25 / 30 / 35"
+"Heroic Charge"	"Poppy"	""	"(Active): Poppy charges at an enemy and carries them further. The initial impact deals a small amount of magic damage, and if they collide with terrain, her target will take a high amount of magic damage and be stunned for 1.5 seconds.
+Range: 525
+Carry distance: approx 300
+
+
+Cost: 60 / 65 / 70 / 75 / 80 mana
+Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+Magic Damage: 50 / 75 / 100 / 125 / 150 (+0.4 per ability power)
+Collision Magic Damage: 75 / 125 / 175 / 225 / 275 (+0.4 per ability power)"
+"Diplomatic Immunity"	"Poppy"	""	"(Active): Poppy focuses intensely on a single enemy champion, dealing increased damage to them, and becoming immune to any damage, disruptions and abilities from any enemies, other than her target, including tower damage. Damage increase applies to summoner spells and items used by Poppy.
+Cost: 100 mana
+Range: 900
+
+
+Cooldown: 140 / 120 / 100 seconds
+Duration: 6 / 7 / 8 seconds
+Increased Damage: 20 / 30 / 40 %"
+"Ki Strike"	"Shen"	"Champion Passive"	"(Innate): Every 8 seconds, Shen's next attack will deal bonus magic damage equal to 5 + (5 &times; level) + (8% of his bonus health). Whenever an enemy champion hits Shen with a basic attack, the cooldown is reduced by 2 seconds."
+"Vorpal Blade"	"Shen"	""	"(Active): Shen throws a sword to a target unit dealing magic damage. That unit becomes life-tapped for 5 seconds, and any champions who attack it are healed over 3 seconds. The attackers' healing duration is refreshed each time the life-tapped unit is struck again.
+Cooldown: 3 seconds
+Range: 475
+
+
+Cost: 70 / 65 / 60 / 55 / 50 energy
+Magic Damage: 70 / 115 / 140 / 175 / 210 (+0.75 per ability power)
+Heal: 18 / 26 / 34 / 42 / 50"
+"Feint"	"Shen"	""	"(Active): Shen enters a defensive stance, receiving a shield that lasts up to 2.5 seconds or until it is destroyed.
+Cost: 45 energy
+
+
+Cooldown: 9 / 8 / 7 / 6 / 5 seconds
+Shield Strength: 50 / 100 / 150 / 200 / 250 (+0.75 per ability power)"
+"Shadow Dash"	"Shen"	""	"(Active): Shen rapidly dashes to a target location, taunting enemies he collides with. If Shen collides with at least one champion while dashing, he will restore 50 energy.
+Cooldown: 10 seconds
+Range: 600 (estimate)
+
+
+Cost: 120 / 115 / 110 / 105 / 100 energy
+Taunt Duration: 1 / 1.25 / 1.5 / 1.75 / 2 second(s)"
+"Stand United"	"Shen"	""	"(Active): Places a shield on a target allied champion, which will absorb damage for 7.5 seconds. After channeling for 2.5 seconds, Shen teleports to the target's location.
+No Cost 
+Range: Global
+
+
+Cooldown: 180 / 150 / 120 seconds
+Shield Strength: 200 / 475 / 750 (+1.5 per ability power)"
+"Empowered Bulwark"	"Singed"	"Champion Passive"	"(Innate): Singed receives 25% of his mana as bonus health."
+"Poison Trail"	"Singed"	""	"(Toggle): Singed leaves a trail of poison behind him that lasts for 3.25 seconds. Enemies caught in the path will be dealt magic damage each second for 3 seconds. Continual exposure renews the poison.
+Cost per second: 13 mana
+Cloud radius: 20
+
+
+Magic Damage Per Second: 22 / 34 / 46 / 58 / 70 (+0.3 per ability power)
+Total Magic Damage: 66 / 102 / 138 / 174 / 210 (+0.9 per ability power)"
+"Mega Adhesive"	"Singed"	""	"(Active): Throws a vial of mega adhesive on the ground causing all enemies who touch it to be slowed as long as they are in the adhesive and for 1 second once they are out of it.
+Cooldown: 14 seconds
+Range: 1000
+Radius: 350 (estimate)
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Slow: 35 / 45 / 55 / 65 / 75 %"
+"Fling"	"Singed"	""	"(Active): Flings an enemy behind Singed, dealing magic damage to it.
+Cooldown: 10 seconds
+Range: 125
+Fling distance: 550 (estimate)
+
+
+Cost: 100 / 110 / 120 / 130 / 140 mana
+Magic Damage: 100 / 150 / 200 / 250 / 300 (+1.0 per ability power)"
+"Insanity Potion"	"Singed"	""	"(Active): Singed drinks a potent brew of chemicals, enhancing his  stats with increased ability power, armor, magic resistance, movement speed, health and mana regeneration per 5 seconds, and crowd control reduction for 25 seconds.
+Cost: 150 mana
+Cooldown: 100 seconds
+
+
+Enhanced Stats: 35 / 50 / 65
+Crowd Control Reduction: 10 / 15 / 20 %"
+"Feel No Pain"	"Sion"	"Champion Passive"	"(Innate): Sion has a 40% chance to ignore up to 30 /  40 /  50 damage each time he is hit by an autoattack. The damage reduction is calculated before armor and percentage damage reduction benefits are taken into account."
+"Cryptic Gaze"	"Sion"	""	"(Active): Sion's gaze terrifies a single enemy, dealing magic damage and stunning it for 1.5 seconds.
+Cost: 100 mana
+Range: 550
+Projectile speed: 1600
+
+
+Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+Magic Damage: 70 / 125 / 180 / 240 / 300 (+0.9 per ability power)"
+"Death's Caress"	"Sion"	""	"(Active): Sion surrounds himself with a shield which absorbs damage for up to 10 seconds. After 4 seconds, if the shield has not been destroyed, the ability can be cast again to explode and deal magic damage to surrounding enemies. It will explode automatically after the 10 seconds have passed.
+Cast again after 4 seconds to manually detonate.
+
+Cooldown: 8 seconds after shield expires
+Explosion area: 550
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Shield Strength/Magic Damage: 100 / 150 / 200 / 250 / 300 (+0.9 per ability power)"
+"Enrage"	"Sion"	""	"(Toggle): While active, each of Sion's autoattacks will deal extra physical damage at the cost of some health. Additionally he permanently increases his maximum health whenever he kills a unit, from either his attacks or abilities.
+Cost: 6 / 8 / 10 / 12 / 14 health per attack
+Extra Physical Damage: 25 / 35 / 45 / 55 / 65
+Health Gained: 1 / 1.5 / 2 / 2.5 / 3 per kill"
+"Cannibalism"	"Sion"	""	"(Active): Grants Sion lifesteal and 50% attack speed for 20 seconds. Additionally, Sion's autoattacks will heal surrounding allies for a percentage of the damage dealt.
+Cost: 100 mana
+Cooldown: 90 seconds
+Area of effect: 200
+
+
+Life Steal: 50 / 75 / 100 %
+Heal: 25 / 37.5 / 50 %"
+"Energize"	"Skarner"	"Champion Passive"	"(Innate): Using autoattacks against champions lowers the cooldowns of Skarner's abilities by 1 second and by 0.5 seconds when used against non-champion units. Autoattacks on towers won't reduce cooldowns at all."
+"Crystal Slash"	"Skarner"	""	"(Active): Skarner lashes out, dealing physical damage to all enemies in a small area around him. He charges himself with Crystal Energy for 5 seconds if a unit is struck.
+If he casts Crystal Slash again while empowered by Crystal Energy, the ability deals bonus magic damage and slows all targets hit for 2 seconds.
+
+Cooldown: 3.5 seconds
+Radius of AoE: 350
+
+
+Cost: 20 / 22 / 24 / 26 / 28 mana
+Physical Damage: 25 / 40 / 55 / 70 / 85 (+0.8 per bonus attack damage)
+Magic Damage: 24 / 36 / 48 / 60 / 72 (+0.4 per ability power)
+Slow: 20 / 25 / 30 / 35 / 40 %"
+"Crystalline Exoskeleton"	"Skarner"	""	"(Active): Skarner receives a shield for up to 6 seconds. While the shield is still active his movement speed and attack speed are boosted.
+Cost: 60 mana
+Cooldown: 14 seconds
+
+
+Shield Strength: 70 / 115 / 160 / 205 / 250 (+0.6 per ability power)
+Attack Speed Boost: 30 / 35 / 40 / 45 / 50 %
+Movement Speed Boost: 15 / 17 / 19 / 21 / 23 %"
+"Fracture"	"Skarner"	""	"(Active): Skarner summons a blast of crystalline energy in a line which deals magic damage to enemies struck and marks them for 6 seconds. If any marked targets receive further damage from Skarner, or if they die when struck by Fracture, Skarner will consume the mark to heal himself. Subsequent marks consumed and unit kills will heal for 50% of the last.
+Cooldown: 10 seconds
+Range: 600
+Missile Speed: 1800
+
+
+Cost: 50 / 55 / 60 / 65 / 70 mana
+Magic Damage: 80 / 120 / 160 / 200 / 240 (+0.7 per ability power)
+Heal: 30 / 45 / 60 / 75 / 90 (+0.3 per ability power)"
+"Impale"	"Skarner"	""	"(Active): Skarner suppresses an enemy champion for 1.75 seconds and deals magic damage to it. During this time, Skarner can move freely and will drag his victim around with him. When the effect ends, Skarner's target will be dealt the same amount of magic damage again.
+Range 350
+
+
+Cooldown: 130 / 120 / 110 seconds
+Cost: 100 / 125 / 150 mana
+Magic Damage: 100 / 150 / 200 (+0.5 per ability power)"
+"Fleet of Foot"	"Sivir"	"Champion Passive"	"(Innate): Sivir gains 50 movement speed for 2 seconds when she lands a basic attack on an enemy champion."
+"Boomerang Blade"	"Sivir"	""	"(Active): Sivir hurls her crossblade like a boomerang, dealing physical  damage to the first unit and 20% reduced damage to each subsequent target.
+Cooldown: 9 seconds
+Range: 1000
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Physical Damage: 70 / 115 / 160 / 205 / 250 (+1.1 per bonus attack damage) (+0.5 per ability power)"
+"Ricochet"	"Sivir"	""	"(Active): Sivir’s next autoattack deals additional physical damage and bounces to 5 additional targets, dealing 20% less damage with each bounce. Only the first hit procs item effects.
+Cost: 40 mana 
+Bounce range: 450
+
+
+Cooldown: 7 / 6 / 5 / 4 / 3 seconds
+Additional Physical Damage: 20 / 35 / 50 / 65 / 80"
+"Spell Shield"	"Sivir"	""	"(Active): Creates a magical barrier which blocks a single enemy ability used on Sivir. Lasts up to 3 seconds. If an ability is blocked by the shield, Sivir regains 150 mana.
+Cost: 75 mana
+
+
+Cooldown: 22 / 19 / 16 / 13 / 10 seconds"
+"On The Hunt"	"Sivir"	""	"(Active): Grants Sivir a boost of 25% movement speed for 15 seconds. In addition, for the next 15 seconds, Sivir receives bonus attack speed, and an aura that gives nearby allies half the attack speed bonus and the full movement speed bonus.
+Cost: 100 mana
+Range: 1000
+
+
+Self Attack Speed Bonus: 30 / 45 / 60 %
+Ally Attack Speed Bonus: 15 / 22.5 / 30 %
+Cooldown: 100 / 90 / 80 seconds"
+"Consecration"	"Soraka"	"Champion Passive"	"(Innate): Increases surrounding allies' magic resistance by 16.
+Radius: 1,000"
+"Starcall"	"Soraka"	""	"(Active): Soraka summons a shower of stars to fall from the sky, striking all nearby enemy units for magic damage and reducing their magic resistance for 8 seconds. This effect stacks up to 10 times.
+Cooldown: 2.5 seconds
+Radius of AoE: 530
+
+
+Cost: 35 / 40 / 45 / 50 / 55 mana
+Magic Damage: 60 / 85 / 110 / 135 / 160 (+0.4 per ability power)
+Magic Reduction: 8 / 9 / 10 / 11 / 12 per stack"
+"Astral Blessing"	"Soraka"	""	"(Active): Soraka blesses a friendly unit, restoring health and granting bonus armor for 5 seconds.
+Cooldown: 20 seconds
+Range: 750
+
+
+Cost: 90 / 110 / 130 / 150 / 170 mana
+Heal: 70 / 140 / 210 / 280 / 350 (+0.45 per ability power)
+Bonus Armor: 25 / 50 / 75 / 100 / 125"
+"Infuse"	"Soraka"	""	"(Active): On ally cast: Restores mana to the target and an equal amount to Soraka.
+On enemy cast: Silences the target and deals magic damage.
+
+No cost
+Cooldown: 10 seconds
+Range: 725
+
+
+Mana Restored: 25 / 50 / 75 / 100 / 125
+Magic Damage: 50 / 100 / 150 / 200 / 250 (+0.75 per ability power)
+Silence Duration: 1.5 / 1.75 / 2 / 2.25 / 2.5 second(s)"
+"Wish"	"Soraka"	""	"(Active): Soraka fills her allies with hope, instantly restoring health to all allied champions regardless of where they are.
+Cost: 100 / 175 / 250 mana
+Cooldown: 120 / 110 / 100 seconds
+Heal: 200 / 320 / 440 (+0.7 per ability power)"
+"Backstab"	"Shaco"	"Champion Passive"	"(Innate): Shaco deals 20% bonus damage when striking a unit from behind with his autoattacks or abilities."
+"Deceive"	"Shaco"	""	"(Active): Shaco instantly blinks to a target nearby location and enters stealth for up to 3.5 seconds. His next autoattack while stealthed will critically strike dealing bonus damage and will end his stealth. This is a special critical strike and will replace the bonus damage from a normal critical strike.
+Cooldown:  11 seconds after stealth fades
+Range: 500
+
+
+Cost: 90 / 80 / 70 / 60 / 50 mana
+Bonus Damage: 40 / 60 / 80 / 120 / 140 % of attack damage."
+"Jack In The Box"	"Shaco"	""	"(Active): Shaco creates a Jack in the Box at the target location with 150 health. It will stealth after 2 seconds and trigger when an enemy comes near, fearing nearby enemies for a few seconds and attacking them. It deals magic damage, and lasts 60 seconds stealthed or 5 seconds while firing. Casting Jack In The Box breaks stealth.
+Cooldown: 16 seconds
+Range: 425
+Trigger Range: 300
+Sight Range: 700 (estimate)
+Jack in the Box attack speed: 1.6(Attack 9 times in 5 seconds.)
+Jack in the Box armor: 50
+Jack in the Box magic resist: 100
+
+
+Cost: 50 / 55 / 60 / 65 / 70 mana
+Fear Duration: 0.5 / 0.75 / 1 / 1.25 / 1.5 seconds
+Magic Damage: 35 / 50 / 65 / 80 / 95 (+0.2 per ability power)"
+"Two-Shiv Poison"	"Shaco"	""	"(Passive): Shaco's attacks poison his targets, reducing their movement speed for 2 seconds. It also gives affected minions a chance to miss their attacks.
+Slow: 20 / 22.5 / 25 / 27.5 / 30 %
+Miss Chance to Minions: 20 / 22.5 / 25 / 27.5 / 30 %"
+"Hallucinate"	"Shaco"	""	"(Active): Shaco stealths for half a second and creates a clone of himself next to him that will last for up 18 seconds. The clone deals 75% of Shaco's damage and receives 50% extra damage. This clone deals 50% damage to towers and inhibitors. At the end of its duration or when dying the clone will explode dealing magic damage to nearby enemies.
+Cost: 100 mana
+Leash radius: 1125
+AoE radius: 250
+
+
+Cooldown: 100 / 90 / 80 seconds
+Magic Damage: 300 / 450 / 600 (+1.0 per ability power)"
+"Double Strike"	"Master Yi"	"Champion Passive"	"(Innate): Master Yi strikes twice every 7th attack."
+"Alpha Strike"	"Master Yi"	""	"(Active): Master Yi leaps across the battlefield striking up to 4 enemies, dealing magic damage to each enemy with a chance to deal 400 bonus magic damage to minions.
+Range to first target: 600
+
+
+Cost: 60 / 70 / 80 / 90 / 100 mana
+Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+Magic Damage: 100 / 150 / 200 / 250 / 300 (+1.0 per ability power)
+Bonus Damage Chance: 20 / 30 / 40 / 50 / 60 %"
+"Meditate"	"Master Yi"	""	"(Active): Master Yi channels, restoring health over 5 seconds. While channeling, Master Yi gains armor and magic resistance.
+Cooldown: 35 seconds
+
+
+Cost: 70 / 85 / 100 / 115 / 130 mana
+Heal Per Second: 28 / 56 / 84 / 112 / 140 (+0.33 per ability power)
+Maximum Heal: 140 / 280 / 420 / 560 / 700 (+1.65 per ability power) 
+Armor &amp; Magic Resistance: 100 / 150 / 200 / 250 / 300"
+"Wuju Style"	"Master Yi"	""	"(Passive): Increases attack damage for as long as Wuju Style is not on cooldown.
+(Active): Master Yi can activate this ability to receive bonus attack damage equal to double the passive bonus for 10 seconds.
+
+Cost: 40 mana
+Cooldown: 25 seconds
+
+
+Bonus Attack Damage: 15 / 20 / 25 / 30 / 35"
+"Highlander"	"Master Yi"	""	"(Active): Increases Master Yi's movement speed by 40% and attack speed for a few seconds, as well as making him immune to any slow effects for the duration. Additionally, killing a champion during the duration will refresh all of Master Yi's ability cooldowns, while assists will refresh them by half.
+Cost: 100 mana
+Cooldown: 75 seconds
+
+
+Attack Speed: 40 / 60 / 80 %
+Duration: 6 / 9 / 12 seconds"
+"Gemcraft"	"Taric"	"Champion Passive"	"(Innate): Taric's autoattacks replenish his mana for 7.5% of the damage dealt."
+"Imbue"	"Taric"	""	"(Active): Taric channels earthen energy to heal his target ally. As the magic flows through them he is healed for the same amount. If Taric heals only himself, the heal will be 40% more effective. His autoattacks on champions decrease this spell's cooldown by 3 seconds each or by 1 second if hitting non-champions.
+Range: 750
+
+
+Cost: 80 / 95 / 110 / 125 / 140 mana
+Cooldown: 20 / 19 / 18 / 17 / 16 seconds
+Heal: 60 / 100 / 140 / 180 / 220 (+0.6 per ability power)
+Self Heal: 84 / 140 / 196 / 252 / 308 (+0.84 per ability power)"
+"Shatter"	"Taric"	""	"(Passive Aura): Taric hardens crystals around him, providing a permanent armor bonus to himself and nearby allies.
+Aura Radius: 1000
+
+(Passive): Taric is granted double the armor bonus.
+
+
+Bonus Armor: 10 / 15 / 20 / 25 / 30"
+"Dazzle"	"Taric"	""	"(Active): Taric emits a brilliant ball of prismatic light at a target enemy, dealing magic damage (lower damage the farther the target is), and stunning them for 1.5 seconds.
+Cost: 95 mana
+Range: 625
+Missile Speed: 1400
+
+
+Cooldown: 14 / 13 / 12 / 11 / 10 seconds
+Minimum Magic Damage: 40 / 70 / 100 / 130 / 160 (+0.4 per ability power)
+Maximum Magic Damage: 80 / 140 / 200 / 260 / 320 (+0.8 per ability power)"
+"Radiance"	"Taric"	""	"(Active): Taric slams the ground dealing magic damage to nearby enemies. For the next 10 seconds, Taric gains attack damage and ability power and receives an aura that grants nearby allied champions half the bonuses.
+Cost: 100 mana
+Cooldown: 60 seconds
+Radius: 400
+Aura Radius: 1000
+
+
+Magic Damage: 150 / 250 / 350 (+0.7 per ability power)
+Attack Damage and Ability Power Self Bonus: 30 / 50 / 70"
+"Camouflage"	"Teemo"	"Champion Passive"	"(Innate): If Teemo stands still and takes no action for 2 seconds, he becomes stealthed. Moving or taking actions will break Teemo out of stealth and will boost his attack speed by 40% for 3 seconds."
+"Blinding Dart"	"Teemo"	""	"(Active): Teemo shoots a venom-coated dart at the target enemy, dealing magic damage and blinding them for a few seconds, causing all their autoattacks to miss for its duration.
+Cooldown: 8 seconds
+Range: 680
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Magic Damage: 80 / 125 / 170 / 215 / 260 (+0.8 per ability power)
+Blind Duration: 1.5 / 1.75 / 2 / 2.25 / 2.5 seconds"
+"Move Quick"	"Teemo"	""	"(Passive): Grants increased movement speed until struck by a champion or turret. This bonus is restored 5 seconds after last being struck by a champion or turret.
+(Active): For 3 seconds, Teemo gains double his passive movement speed and will not lose it regardless of whether he is hit or not. The passive is restored after the duration of the active. 
+
+Cost: 40 mana
+Cooldown: 22 seconds
+
+
+Passive Movement Speed: 10 / 14 / 18 / 22 / 26 %"
+"Toxic Shot"	"Teemo"	""	"(Passive): Teemo deals extra magic damage with his autoattacks. Additionally, his attacks will poison the target, dealing magic damage each second for 4 seconds. This poison will not stack but the duration will be refreshed with every subsequent attack.
+Magic Damage on Hit: 9 / 18 / 27 / 36 / 45 (+0.14 per ability power)
+Magic Damage per Second: 6 / 12 / 18 / 24 / 30 (+0.14 per ability power)
+Total Magic Damage: 33 / 66 / 99 / 132 / 165 (+0.7 per ability power)"
+"Noxious Trap"	"Teemo"	""	"(Active): Teemo places a trap which stealths and arms after 1.5 seconds. It detonates if an enemy steps on it, poisoning all enemies nearby to be dealt magic damage every second for 4 seconds plus slowing them and providing vision of them (doesn't reveal stealthed units) for 4 seconds. This poison will not stack but the duration will be refreshed with every subsequent detonation. Mushrooms have 100 health and can be destroyed by autoattacks if they are visible, but they are immune to spell damage.
+The traps last 10 minutes. Teemo will store one every several seconds, the charge time will be affected by cooldown reduction, and can have a maximum of three stocked up. Each cast requires and uses a trap. 
+
+Range: 230
+Cooldown: 1 second
+Activation Radius: 120 (estimate)
+Explosion Radius: 400 (estimate)
+Sight Radius: 425 (estimate)
+
+
+Cost: 75 / 100 / 125 mana
+Magic Damage Per Second: 50 / 100 / 150 (+0.2 per ability power)
+Total Magic Damage: 200 / 400 / 600 (+0.8 per ability power)
+Charge Receive Time: 35 / 31 / 27 seconds
+Slow: 30 / 40 / 50 %"
+"Decompose"	"Trundle"	"Champion Passive"	"(Innate): Whenever an enemy unit near Trundle dies, he heals for 2 /  3 /  4 /  5 /  6% of their maximum health.
+Range: 1000 (estimate)"
+"Rabid Bite"	"Trundle"	""	"(Active): Trundle enhances his next standard attack to instead bite his opponent, dealing physical damage equal to a base amount plus a percentage of his attack damage.
+This attack increases Trundle's attack damage for 8 seconds, with his opponent losing half of this amount for the same duration. 
+
+Cost: 40 mana
+Cooldown: 4 seconds
+
+
+Base Damage: 30 / 45 / 60 / 75 / 90
+Scaling: 80 / 90 / 100 / 110 / 120% of attack damage
+Attack Damage Bonus: 20 / 25 / 30 / 35 / 40"
+"Contaminate"	"Trundle"	""	"(Active): Trundle infects a target location with his curse for 8 seconds, gaining attack speed, movement speed, and crowd control reduction while standing on it.
+Cost: 60 mana
+Cooldown: 15 seconds
+Range to Center of AoE: 900
+Radius of AoE: 1000 (estimate)
+
+
+Movement Speed: 20 / 25 / 30 / 35 / 40 %
+Attack Speed: 20 / 30 / 40 / 50 / 60 %
+Crowd Control Reduction: 20 / 25 / 30 / 35 / 40 %"
+"Pillar of Filth"	"Trundle"	""	"(Active): Trundle creates a plagued beacon at a target location for 6.5 seconds, which becomes impassable terrain and slows all nearby enemy units while they are in the vicinity of it and for 1.25 seconds after they leave the area.
+Cost: 60 mana
+Range: 1000
+Pillar Radius: 125
+Slow Radius: 375 (estimate)
+Sight Radius: 1200 (estimate)
+
+
+Cooldown: 23 / 20 / 17 / 14 / 11 seconds
+Slow: 25 / 30 / 35 / 40 / 45 %"
+"Agony"	"Trundle"	""	"(Active): Trundle immediately steals health (by dealing magic damage) and a percentage of their armor and magic resistance from his target. Over the next 6 seconds the amount of health, armor, and magic resistance stolen is doubled.
+Cost: 75 mana
+Range: 700
+
+
+Cooldown: 80 / 70 / 60 seconds
+Initial Health Stolen: 100 / 175 / 250 (+0.6 per ability power)
+Initial Armor &amp; Magic Resist Stolen: 15 / 20 / 25 %"
+"Battle Fury"	"Tryndamere"	"Champion Passive"	"(Innate): Tryndamere receives 0.35% critical strike chance per Fury."
+"Bloodlust"	"Tryndamere"	""	"(Passive): Permanently grants attack damage. Additionally, it grants bonus attack damage per 1% of health he is missing.
+Base Attack Damage: 5 / 10 / 15 / 20 / 25
+Extra Attack Damage: 0.15 / 0.2 / 0.25 / 0.3 / 0.35 per 1% of health missing"
+"Mocking Shout"	"Tryndamere"	""	"(Active): Decreases surrounding enemy champions' attack damage, and enemies with their backs turned also have their movement speed reduced for 4 seconds.
+No cost
+Cooldown: 14 seconds
+Radius: 400
+
+
+Attack Damage Reduction: 20 / 35 / 50 / 65 / 80
+Slow: 30 / 37.5 / 45 / 52.5 / 60 %"
+"Spinning Slash"	"Tryndamere"	""	"(Active): Tryndamere spins through his enemies, dealing physical damage to enemies in his path. The cooldown is reduced by 2 seconds whenever Tryndamere critically strikes.
+No cost
+Range: 660
+Spin radius: 225
+
+
+Cooldown: 13 / 12 / 11 / 10 / 9 seconds
+Physical Damage: 70 / 100 / 130 / 160 / 190 (+1.0 per ability power) (+1.2 per bonus attack damage)"
+"Undying Rage"	"Tryndamere"	""	"(Active): Tryndamere instantly receives fury and becomes immune to death for 5 seconds during which his health cannot go below 1 health. This move is usable even when stunned, silenced or suppressed.
+No cost
+
+
+Cooldown: 110 / 100 / 90 seconds
+Fury Gained: 50 / 75 / 100 Fury"
+"Loaded Dice"	"Twisted Fate"	"Champion Passive"	"(Innate): Twisted Fate and his allies receive an additional 2 gold per unit kill. This bonus is lost while Twisted Fate is dead."
+"Wild Cards"	"Twisted Fate"	""	"(Active): Twisted Fate fires 3 cards forward in a cone, passing through targets and dealing magic damage to enemy units in their way.
+Cooldown: 6 seconds
+Range: 1,450
+
+
+Cost: 60 / 70 / 80 / 90 / 100 mana
+Magic Damage: 60 / 110 / 160 / 210 / 260 (+0.65 per ability power)"
+"Pick a Card"	"Twisted Fate"	""	"(Active): Cards flash over Twisted Fate's head in the following order: blue, then red, then gold, then blue again, starting randomly with any of the three and then continuing this pattern. When he uses the ability again, he picks the current card over his head, and the card picked gives a special effect to his next attack. This attack cannot miss or be dodged.
+Cooldown: 6 seconds after card is thrown
+Range: Equal to a 625 range spell.
+
+
+Cost: 40 / 55 / 70 / 85 / 100 mana"
+"Stacked Deck"	"Twisted Fate"	""	"(Passive): Twisted Fate gains bonus attack speed and cooldown reduction. In addition, every fourth autoattack will deal bonus magic damage.
+Bonus Magic Damage: 55 / 80 / 105 / 130 / 155 (+0.4 per ability power)
+Bonus Attack Speed: 3 / 6 / 9 / 12 / 15 %
+Cooldown Reduction: 3 / 6 / 9 / 12 / 15 %"
+"Destiny"	"Twisted Fate"	""	"(Active): Twisted Fate reveals all enemy champions, including stealthed champions, for a few seconds. While Destiny is active, Twisted Fate can use Gate once.
+Cost: 150 / 125 / 100 mana
+Cooldown: 150 / 135 / 120 seconds
+Duration: 6 / 8 / 10 seconds"
+"Deadly Venom"	"Twitch"	"Champion Passive"	"(Innate): Twitch's attacks infect the target with Deadly Venom, which deals 2.5 /  5 /  7.5 /  10 true damage each second, stacking up to 6 times, and lasting up to 6 seconds."
+"Ambush"	"Twitch"	""	"(Active): After 1.25 seconds, Twitch becomes stealthed. If Twitch attacks or casts a spell while stealthed, he loses stealth but gains bonus attack speed. This attack speed bonus has duration equal to double the amount of time Twitch was stealthed before attacking, to a maximum duration of 10 seconds.
+Cost: 60 mana
+Cooldown: 11 seconds
+
+
+Maximum Duration: 10 / 20 / 30 / 40 / 50 seconds
+Attack Speed: 30 / 40 / 50 / 60 / 70 %"
+"Debilitating Poison"	"Twitch"	""	"(Active): Slows nearby enemy champion by 30%, plus 6% per stack of Deadly Venom applied to them.
+Cost: 80 mana
+Cooldown: 10 seconds
+Radius: 1,200
+
+
+Duration: 2 / 2.6 / 3.2 / 3.8 / 4.4 seconds"
+"Expunge"	"Twitch"	""	"(Active): Deals magic damage to each nearby poisoned enemy, plus additional damage per stack of Deadly Venom applied to them. All stacks of Deadly Venom are removed from the targets.
+Cost: 90 mana
+Cooldown: 8 seconds
+Radius: 1,200
+
+
+Magic Damage: 30 / 60 / 90 / 120 / 150 (+1.0 per ability power)
+Additional Damage: 20 / 30 / 40 / 50 / 60 per stack"
+"Spray and Pray"	"Twitch"	""	"(Active): Twitch gains increased damage and his attacks become long range line missiles and splashes for 12 seconds, dealing 100% of his attack damage and poisoning all enemies hit. Will apply on-hit effects and critical strikes.
+Cost: 150 mana
+Range: 1,200
+
+
+Cooldown: 105 / 90 / 75 seconds
+Maximum Shots: 5 / 6 / 7
+Extra Damage: 15 / 25 / 35"
+"Monkey's Agility"	"Udyr"	"Champion Passive"	"(Innate): Udyr's attack speed is increased by 10% for 5 seconds each time he switches stances. This effect can stack up to 3 times. Switching stances sets off a 1.0 second global cooldown."
+"Tiger Stance"	"Udyr"	""	"(Stance) - Activation: Udyr's next attack will deal magic damage over 2 seconds. In addition, Udyr gains an attack speed buff for 5 seconds. This stacks additively with his persistent attack speed bonus.
+Persistent effect: Udyr's attack speed is increased.
+
+Cooldown: 6 seconds.
+
+
+Cost: 55 / 50 / 45 / 40 / 35 mana
+Magic Damage: 30 / 80 / 130 / 180 / 230 (+1.5 per attack damage)
+Persistent Attack Speed Bonus: 20 / 25 / 30 / 35 / 40 %
+Activation Attack Speed Bonus: 15 / 20 / 25 / 30 / 35 %"
+"Turtle Stance"	"Udyr"	""	"(Stance) - Activation: Udyr gains a shield that absorbs damage for 5 seconds or until it has absorbed the full amount of damage.
+Persistent effect: Udyr's attacks cannot crit, but they restore a percentage of his damage as health and mana.
+
+Cooldown: 6 seconds
+
+
+Cost: 55 / 50 / 45 / 40 / 35 mana
+Shield Strength: 60 / 100 / 140 / 180 / 220 (+0.5 per ability power)
+Damage to Health Restored Ratio: 10 / 12 / 14 / 16 / 18 %
+Damage to Mana Restored Ratio: 5 / 6 / 7 / 8 / 9 %"
+"Bear Stance"	"Udyr"	""	"(Stance) - Activation: Udyr gains increased movement speed for a few seconds.
+Persistent effect: Udyr mauls his enemies with such force that they are stunned for 1 second when they are hit. This effect can only occur once every 6 seconds on the same target.
+
+Cooldown: 6 seconds
+
+
+Cost: 55 / 50 / 45 / 40 / 35 mana
+Movement Speed Bonus: 15 / 18 / 21 / 24 / 27 %
+Movement Speed Duration: 2 / 2.5 / 3 / 3.5 / 4 seconds"
+"Phoenix Stance"	"Udyr"	""	"(Stance) - Activation: Udyr sends out pulsing waves of fire dealing magic damage each second to nearby enemies for 5 seconds. During this time Udyr's ability power and attack damage are increased.
+Persistent effect: Every third attack, Udyr engulfs the enemies in front of him in flames, dealing magic damage.
+
+Cooldown: 6 seconds
+Flame range: 
+Wave radius:
+
+
+Cost: 55 / 50 / 45 / 40 / 35 mana
+Activation's Magic Damage Per Wave: 15 / 25 / 35 / 45 / 55 (+0.25 per ability power)
+Bonus Ability Power: 16 / 24 / 32 / 40 / 48
+Bonus Attack Damage: 8 / 12 / 16 / 20 / 24
+Magic Damage Per Third Attack: 40 / 80 / 120 / 160 / 200 (+0.25 per ability power)"
+"Evolving Technology"	"Viktor"	"Champion Passive"	"(Innate): Viktor starts with an item that takes up one of his item slots, the Hex Core, that provides him with stats and can be upgraded in the store to augment one of his abilities and improve its stats. The Hex Core can only be upgraded once, for 1000 gold, and cannot be sold back to the store.
+Hex Core: Grants Viktor 3 ability power per level."
+"Power Transfer"	"Viktor"	""	"(Active): Viktor blasts an enemy unit for magic damage, returning 40% of the damage dealt before reduction as a shield for 3 seconds.
+Range: 600
+
+
+Cost: 45 / 50 / 55 / 60 / 65 mana
+Cooldown: 9 / 8 / 7 / 6 / 5 seconds 
+Magic Damage: 80 / 125 / 170 / 215 / 260 (+0.65 per ability power)
+Shield: 32 / 50 / 68 / 86 / 104 (+0.26 per ability power)"
+"Gravity Field"	"Viktor"	""	"(Active): Viktor conjures a gravitational imprisonment device in an area near him, slowing all enemies that pass above it. Whilst under its effect, enemies generate stacks every 0.5 seconds; at 3 stacks the target will be stunned for 1.5 seconds.
+Cost: 65 mana
+Range: 625
+
+
+Cooldown: 17 / 16 / 15 / 14 / 13 seconds
+Slow: 28 / 32 / 36 / 40 / 44 %"
+"Death Ray"	"Viktor"	""	"(Active): Viktor uses his robotic arm to fire a chaos beam that sweeps across the field in a chosen path, dealing magic damage to every enemy it hits.
+Range: 700
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Cooldown: 13 / 12 / 11 / 10 / 9 seconds 
+Magic Damage: 70 / 115 / 160 / 205 / 250 (+0.7 per ability power)"
+"Chaos Storm"	"Viktor"	""	"(Active): Viktor conjures a chaos storm at the target location, dealing magic damage and silencing enemies in the area for 0.5 seconds. As it churns, the storm deals  magic damage every second to nearby enemies for 7 seconds. Activating this ability again while the singularity is active will redirect it. The storm moves faster the closer it is to Viktor.
+Range: 700
+
+
+Cost: 125 / 175 / 225 mana
+Cooldown: 120 seconds
+Initial Magic Damage: 150 / 250 / 350 (+0.55 per ability power)
+Continuous Magic Damage: 40 / 60 / 80 (+0.2 per ability power)
+Total Magic Damage: 430 / 670 / 910 (+1.95 per ability power)"
+"Chosen of the Storm"	"Volibear"	"Champion Passive"	"(Innate): When Volibear's health drops below 30% of his maximum health, he will heal for 30% of his maximum health over the next 6 seconds. This passive effect has a 120 second cooldown."
+"Rolling Thunder"	"Volibear"	""	"(Active): For the next 4 seconds, Volibear will gain 15% movement speed. This bonus increases to 45% movement speed when moving toward a nearby visible enemy champion. Additionally, Volibear's next autoattack during this time will deal bonus physical damage and will fling the target behind him.
+Cost: 40 mana
+Range: 300
+
+
+Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+Bonus Physical Damage: 30 / 60 / 90 / 120 / 150"
+"Frenzy"	"Volibear"	""	"(Passive): Volibear temporarily gains bonus attack speed after an autoattack. This bonus stacks up to 3 times and lasts for 4 seconds.
+Passive Attack Speed: 8 / 11 / 14 / 17 / 20 % per stack"
+"Majestic Roar"	"Volibear"	""	"(Active): Volibear lets out a powerful roar that deals magic damage and slows nearby enemies for 3 seconds. Minions, monsters and pets are feared for the duration as well.
+Cooldown: 11 seconds
+Range: 425
+
+
+Cost: 60 / 65 / 70 / 75 / 80 mana
+Magic Damage: 60 / 105 / 150 / 195 / 240 (+0.6 per ability power)
+Slow: 30 / 35 / 40 / 45 / 50 %"
+"Thunder Claws"	"Volibear"	""	"(Active): For the next 12 seconds, Volibear's autoattacks will blast his targets with lightning that will bounce to up to 3 nearby enemies. Each bolt of lighting will deal magic damage and will only hit each target once.
+Cost: 100 mana
+Bounce Range: 300
+
+
+Cooldown: 100 / 90 / 80 seconds
+Magic Damage Per Bolt: 75 / 115 / 155 (+0.3 per ability power)"
+"Crimson Pact"	"Vladimir"	"Champion Passive"	"(Innate): Every 40 points of bonus health grants Vladimir 1 ability power and every 1 point of ability power grants Vladimir 1.4 bonus health. These bonuses do not stack with themselves."
+"Transfusion"	"Vladimir"	""	"(Active): Vladimir drains the lifeforce of his target, dealing magic damage and healing himself.
+No cost
+Range: 600
+
+
+Cooldown: 10 / 8.5 / 7 / 5.5 / 4 seconds
+Magic Damage: 90 / 125 / 160 / 195 / 230 (+0.6 per ability power)
+Health Regained: 15 / 25 / 35 / 45 / 55 (+0.25 per ability power)"
+"Sanguine Pool"	"Vladimir"	""	"(Active): Vladimir sinks into a pool of blood becoming untargetable for 2 second and slowing enemies above him by 40% for 1 second. Additionally, he deals magic damage every half second to them and heals himself for 15% of the damage done.
+Cost: 20% of current health
+Radius of AoE: 300
+
+
+Cooldown: 26 / 23 / 20 / 17 / 14 seconds
+Magic Damage Per Half-Second: 20 / 33.75 / 47.5 / 61.25 / 75 (+3.75% of bonus health)"
+"Tides of Blood"	"Vladimir"	""	"(Active): Vladimir unleashes a torrent of blood dealing magic damage to all nearby enemies.Each cast gives him an Empowered stack which increases his healing and regeneration by 8% per stack for 10 seconds. This stacks up to four times. Additionally, his next Tides of Blood deals 25% more base damage and costs 25% more health per stack.
+Cooldown: 4.5 seconds
+Radius of AoE: 620
+
+
+Cost: 30 / 40 / 50 / 60 / 70 health
+Magic Damage: 60 / 90 / 120 / 150 / 180 (+0.45 per ability power)"
+"Hemoplague"	"Vladimir"	""	"(Active): Vladimir infects all enemies in the target area with a virulent plague which increases the damage they take from all sources by 14% for 5 seconds. After these 5 seconds, infected enemies take magic damage.
+No cost
+Range to center of AoE: 700
+Radius of AoE: 350
+
+
+Cooldown: 150 / 135 / 120 seconds
+Magic Damage: 150 / 250 / 350 (+0.7 per ability power)"
+"Eternal Thirst"	"Warwick"	"Champion Passive"	"(Innate): Each of Warwick's autoattacks will heal him for 6 /  12 /  18 health. Each successive attack against the same target will stack this amount of healing up to a maximum of 3 stacks per strike. The stacks remain for 4 seconds."
+"Hungering Strike"	"Warwick"	""	"(Active): Strikes an enemy for the higher value between the flat magic damage and a percentage of the target's maximum health, and heals Warwick for 80% of the damage dealt. Minions and monsters will only be dealt the flat magic damage.
+Range: 400
+
+
+Cost: 70 / 80 / 90 / 100 / 110 mana
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Flat Magic Damage: 75 / 125 / 175 / 225 / 275 (+1.0 per ability power) 
+Maximum Health Percentage: 8 / 11 / 14 / 17 / 20 %"
+"Hunters Call"	"Warwick"	""	"(Active): Warwick lets out a howl that inspires all nearby allied champions, increasing Warwick's attack speed and all affected friendly champions' attack speed by half of the amount for 10 seconds.
+Cost: 35 mana
+Radius: 1200
+
+
+Cooldown: 24 / 22 / 20 / 18 / 16 seconds
+Self Attack Speed Bonus: 40 / 50 / 60 / 70 / 80 %"
+"Blood Scent"	"Warwick"	""	"(Toggle): Warwick senses enemy champions under 50% life within a certain distance of him, revealing them until they heal, leave the area or Blood Scent is deactivated. While sensing an enemy, he gains extra movement speed.
+Cooldown: 4 seconds
+
+
+Distance: 1,500 / 2,300 / 3,100 / 3,900 / 4,700
+Movement Speed Bonus: 20 / 25 / 30 / 35 / 40 %"
+"Infinite Duress"	"Warwick"	""	"(Active): Warwick lunges at an enemy champion, suppressing the target for 1.8 seconds and striking for magic damage five times in 0.33-second intervals. Warwick gains 30% life steal for the duration, and is considered to have fully stacked Eternal Thirst against the target, which is removed at the end of the duration. Each of his strikes triggers on-hit effects and benefits from life steal and Eternal Thirst.
+Range: 700
+
+
+Cost: 100 / 125 / 150 mana
+Cooldown: 90 / 80 / 70 seconds
+Magic Damage Per Strike: 40 / 60 / 80 (+0.33 per attack damage)
+Total Magic Damage: 200 / 300 / 400 (+1.66 per attack damage)"
+"Stone Skin"	"Wukong"	"Champion Passive"	"(Innate): Wukong's armor and magic resistance are increased by 4 /  6 /  8 for each nearby enemy champion.
+Range: 1400"
+"Crushing Blow"	"Wukong"	""	"(Active): Wukong's next attack, within 5 seconds, will deal additional physical damage and will reduce the enemy's armor by 30% for 3 seconds.
+Cost: 40 mana
+
+
+Cooldown: 9 / 8 / 7 / 6 / 5 seconds
+Total Physical Damage: 30 / 60 / 90 / 120 / 150 (+1.1 per attack damage)"
+"Decoy"	"Wukong"	""	"(Active): Wukong becomes stealthed for 1.5 seconds and leaves an uncontrollable decoy that doesn't attack or move from the place he activated it. The decoy will deal magic damage to nearby enemies after 1.5 seconds.
+AoE: 350 (estimate)
+
+
+Cost: 50 / 55 / 60 / 65 / 70 mana
+Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+Magic Damage: 70 / 115 / 160 / 205 / 250 (+0.6 per ability power)"
+"Nimbus Strike"	"Wukong"	""	"(Active): Wukong dashes on a cloud toward a target enemy and sends out images to attack up to 2 additional enemies near his target, dealing physical damage to each enemy struck. He also gains an attack speed bonus for 4 seconds after hitting a target with this skill.
+Cooldown: 8 seconds
+Range: 625 (estimate)
+Max. AoE: 325 (estimate)
+
+
+Cost: 45 / 50 / 55 / 60 / 65 mana
+Physical Damage: 60 / 105 / 150 / 195 / 240 (+0.8 per bonus attack damage)
+Attack Speed Bonus: 30 / 35 / 40 / 45 / 50 %"
+"Cyclone"	"Wukong"	""	"(Active): Wukong's staff grows outward and he spins it around for up to 4 seconds, dealing damage every second and knocking up enemies once per cast. Wukong gains 5% movement speed bonus every half second for the duration of the spell, with the bonus disappearing once he stops spinning. Wukong cannot attack or use other abilities while Cyclone is on, but he can deactivate it at any time.
+Cost: 100 mana
+AoE: 325 (estimate)
+
+
+Cooldown: 120 / 105 / 90 seconds
+Physical Damage Per Second: 20 / 110 / 200 (+1.2 per attack damage)
+Total Physical Damage: 80 / 440 / 800 (+4.8 per attack damage)"
+"Unholy Covenant"	"Yorick"	"Champion Passive"	"(Innate): Yorick takes 5% less damage and his autoattacks deal 5% more damage for each summon that is active."
+"Omen of War"	"Yorick"	""	"(Active): Yorick enhances his next autoattack, in the next 10 seconds, to deal bonus physical damage. This enhanced attack summons a Spectral Ghoul once it hits.
+The Spectral Ghoul deals more damage and moves faster than the rest of the ghouls. While the ghoul is active, Yorick moves faster as well.
+
+Cost: 40 mana
+
+
+Cooldown: 9 / 8 / 7 / 6 / 5 seconds
+Bonus Physical Damage: 30 / 60 / 90 / 120 / 150 (+0.2 per attack damage) 
+Ghoul Extra Attack Damage: 8 / 16 / 24 / 32 / 40
+Bonus Movement Speed: 15 / 20 / 25 / 30 / 35 %"
+"Omen of Pestilence"	"Yorick"	""	"(Active): Yorick summons a Decaying Ghoul at a target location, dealing magic damage and slowing  enemies on the area for 1.5 seconds. While the Decaying Ghoul remains alive enemies near it are slowed.
+Cooldown: 12 seconds
+Range: 600 (estimate)
+AoE Radius: 200 (estimate)
+
+
+Cost: 40 / 45 / 50 / 55 / 60 mana
+Magic Damage: 60 / 95 / 130 / 165 / 200 (+1.0 per ability power)
+Initial Slow: 20 / 25 / 30 / 35 / 40 %
+Ghoul Ongoing Slow: 10 / 12.5 / 15 / 17.5 / 20 %"
+"Omen of Famine"	"Yorick"	""	"(Active): Yorick deals magic damage to the target and heals for 40% of the damage dealt. A Ravenous Ghoul is summoned behind the target and it will heal Yorick for the damage it deals.
+Range: 550
+
+
+Cost: 55 / 60 / 65 / 70 / 75 mana
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Magic Damage: 55 / 85 / 115 / 145 / 175 (+1.0 per bonus attack damage)"
+"Omen of Death"	"Yorick"	""	"(Active): Yorick conjures a revenant in the image of one of his allies that will have a percentage of their max health and attack damage. The revenant lasts for up to 10 seconds. If his ally dies while its revenant is alive, the revenant sacrifices itself to reanimate them temporarily by restoring them to full health and give them time to enact vengeance. The reanimation will last for up to 10 seconds. During this time, the ally can use all of his abilities.
+Cost: 100 mana
+Range: 900 (estimate)
+
+
+Cooldown: 120 / 105 / 90 seconds
+Health Percentage: 50% / 75% / 100%
+Damage Percentage: 45% / 60% / 75%"
+"Heightened Learning"	"Zilean"	"Champion Passive"	"(Innate): Increases the experience himself and all allied champions gain by 8%. This is not in effect while Zilean is dead."
+"Time Bomb"	"Zilean"	""	"(Active): Zilean places a time-delayed bomb on a target, whether ally or enemy. The bomb will detonate after 4 seconds, dealing magic damage to all surrounding enemies. The bomb will detonate immediately if the holder dies or if another bomb is placed on them. Enemy holders will take 3, 2, 1 extra true damage gradually before the detonation.
+Cooldown: 10 seconds
+Range: 700
+Explosion radius: 330 (estimated)
+
+
+Cost: 70 / 85 / 100 / 115 / 130 mana
+Magic Damage: 90 / 145 / 200 / 260 / 320 (+0.9 per ability power)"
+"Rewind"	"Zilean"	""	"(Active): Upon activation, all of Zilean's other abilities' cooldowns are refreshed by 10 seconds. Rewind does not affect itself or summoner spells.
+Cost: 50 mana
+
+
+Cooldown: 18 / 15 / 12 / 9 / 6 seconds"
+"Time Warp"	"Zilean"	""	"(Active): Zilean slows an enemy champion's movement speed or increases an allied champion's movement speed by 55% for a few seconds.
+Cost: 100 mana
+Cooldown: 20 seconds
+Range: 700
+
+
+Duration: 2.5 / 3.25 / 4 / 4.75 / 5.5 seconds"
+"Chrono Shift"	"Zilean"	""	"(Active): Marks a target ally champion or himself with a protective time rune for 7 seconds. If the target takes lethal damage during this time, instead of dying, they will be untargettable and remain in stasis for 2 seconds, then return to life, regaining health.
+Cooldown: 180 seconds
+Cost: 200 mana
+Range: 780 (estimated)
+
+
+Health Gained: 600 / 850 / 1100 (+2.0 per ability power)"
+"Mana Barrier"	"Blitzcrank"	"Champion Passive"	"(Innate): When Blitzcrank's life is brought below 20% health he activates Mana Barrier, creating a shield that lasts 10 seconds. The shield strength is equal to 50% of Blitzcrank's current mana. There is a one minute cooldown before Blitzcrank can activate this effect again."
+"Rocket Grab"	"Blitzcrank"	""	"(Active): Blitzcrank fires his right hand at a straight line to the target area. If his hand encounters an enemy unit it will stun them, deal magic damage, and pull the enemy unit to him.
+Cost: 140 mana
+Range: 1,000
+
+
+Cooldown: 20 / 19 / 18 / 17 / 16 seconds
+Magic Damage: 60 / 120 / 180 / 240 / 300 (+0.8 per ability power)"
+"Overdrive"	"Blitzcrank"	""	"(Active): Blitzcrank super charges himself to gain dramatically increased movement and attack speed for 8 seconds.
+Cost: 75 mana
+Cooldown: 15 seconds
+
+
+Movement Speed: 16 / 20 / 24 / 28 / 32 %
+Attack Speed: 30 / 38 / 46 / 54 / 62 %"
+"Power Fist"	"Blitzcrank"	""	"(Active): Blitzcrank charges up his fist to make his next attack deal double his total attack damage and pop his target up in the air.
+Cost: 25 mana
+
+
+Cooldown: 9 / 8 / 7 / 6 / 5 seconds"
+"Static Field"	"Blitzcrank"	""	"(Passive): Blitzcrank causes lightning bolts to deal a small amount of magic damage to one nearby enemy unit every 2.5 seconds (not affected by cooldown reduction). This will not damage enemies in stealth.
+Passive Magic Damage: 100 / 200 / 300 (+0.25 per ability power)"
+"Tireless Warrior"	"Xin Zhao"	"Champion Passive"	"(Innate): Xin Zhao is healed for 25 /  30 /  35 /  40 /  45 /  50 /  55 /  60 /  65 for every 3 attacks that he lands."
+"Three Talon Strike"	"Xin Zhao"	""	"(Active): Xin Zhao prepares to unleash a fearsome combo, causing his next 3 standard attacks to deal bonus damage with the final attack knocking his opponent into the air.
+Cost: 30 mana.
+Cooldown: 10 seconds
+
+
+Physical Damage: 15 / 30 / 45 / 60 / 75 (+1.0 per attack damage)"
+"Battle Cry"	"Xin Zhao"	""	"(Passive): Xin Zhao passively increases his attack speed.
+(Active): Xin Zhao unleashes a battle cry, increasing his attack speed by passive amount again for 5 seconds and causing his standard attacks during this time to reduce all of his other abilities' cooldowns by 1 second.
+
+Cost: 35 mana
+
+
+Cooldown: 24 / 22 / 20 / 18 / 16 seconds
+Attack Speed: 20 / 25 / 30 / 35 / 40 %"
+"Audacious Charge"	"Xin Zhao"	""	"(Active):  Xin Zhao charges an enemy, dealing magic damage and slowing them and all other enemies in the area for 1.5 seconds.
+Cost: 70 mana
+Range: 650
+Radius: 225
+
+
+Cooldown: 16 / 15 / 14 / 13 / 12 seconds
+Magic Damage: 70 / 110 / 150 / 190 / 230 (+0.4 per ability power)
+Slow: 20 / 25 / 30 / 35 / 40 %"
+"Crescent Sweep"	"Xin Zhao"	""	"(Active): Xin Zhao executes a fierce spear sweep on targets around him, dealing base damage + 15% of their current health in physical damage. His armor and magic resistance are boosted for 6 seconds by 25 plus a bonus per enemy champion hit.
+Cost: 100 mana
+Cooldown: 75 seconds
+Radius: 375
+
+
+Base Damage: 125 / 225 / 325
+Extra Armor &amp; Magic Resistance: 7 / 10 / 13 per champion hit"
+"Rising Spell Force"	"Ezreal"	"Champion Passive"	"(Innate): Hitting a target with any of Ezreal's abilities increases his attack speed by 10% for 6 seconds, this effect stacks up to 5 times."
+"Mystic Shot"	"Ezreal"	""	"(Active): Ezreal fires a bolt of energy in a line that will deal physical damage and apply on-hit effects to the first enemy it hits. If it strikes an enemy unit, all of Ezreal's cooldowns will be reduced by 1 second.
+Range: 1100
+
+
+Cost: 30 / 35 / 40 / 45 / 50 mana
+Cooldown: 6 / 5.5 / 5 / 4.5 / 4 seconds
+Physical Damage: 35 / 55 / 75 / 95 / 115 (+1.0 per attack damage) (+0.2 per ability power)"
+"Essence Flux"	"Ezreal"	""	"(Active): Ezreal fires a wave of energy in a line. Any enemy champions it passes through are dealt magic damage and have their attack speed slowed for 5 seconds, while any allied champions it travels through have their attack speed increased for 5 seconds.
+Cooldown: 9 seconds
+Range: 900
+
+
+Cost: 60 / 70 / 80 / 90 / 100 mana
+Magic Damage: 80 / 130 / 180 / 230 / 280 (+0.7 per ability power)
+Attack Speed Buff/Debuff: 20 / 25 / 30 / 35 / 40 %"
+"Arcane Shift"	"Ezreal"	""	"(Active): Ezreal instantly teleports to a nearby target location and fires a homing arrow at the nearest enemy unit, dealing magic damage to it.
+Cost: 90 mana
+Teleport Range: 475
+Arrow Range: 750
+
+
+Cooldown: 19 / 17 / 15 / 13 / 11 seconds
+Magic Damage: 75 / 125 / 175 / 225 / 275 (+0.75 per ability power)"
+"Trueshot Barrage"	"Ezreal"	""	"(Active): Ezreal channels for 1 second to fire a powerful broad energy missile that will travel in a line by the whole map and will deal magic damage to each enemy unit they pass through. It will deal 8% less damage for each subsequent target hit, down to a minimum of 30% damage dealt.
+Cost: 150 mana
+Cooldown: 80 seconds
+Range: Global
+
+
+Magic Damage: 350 / 500 / 650   (+1.0 per bonus attack damage) (+0.9 per ability power)"
+"Happy Hour"	"Gragas"	"Champion Passive"	"(Innate): Gragas takes a drink from his cask every time he uses an ability, restoring 2% of his maximum health over 4 seconds."
+"Barrel Roll"	"Gragas"	""	"(Active): Gragas rolls his cask to a location, which can be activated again to explode or will explode on its own after 5 seconds. Enemies struck by the blast have their attack speed reduced for 3 seconds.
+Range to center of AoE: 1100
+Radius of AoE: 375 (estimate)
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Cooldown: 11 / 10 / 9 / 8 / 7 seconds
+Magic Damage: 85 / 135 / 185 / 235 / 285 (+0.9 per ability power)
+Attack Speed Reduction: 20% / 25% / 30% / 35% / 40%"
+"Drunken Rage"	"Gragas"	""	"(Active): Gragas guzzles down brew from his cask, channeling for 1 second. He gains mana while channeling, and becomes empowered after finishing, increasing attack damage, and reducing damage taken for 20 seconds.
+No cost
+Cooldown: 25 seconds
+
+
+Mana Restored: 30 / 45 / 60 / 75 / 90
+Bonus Attack Damage: 30 / 40 / 50 / 60 / 70
+Damage Reduction: 10 / 12 / 14 / 16 / 18 %"
+"Body Slam"	"Gragas"	""	"(Active): Gragas charges forward, colliding with the first enemy unit he hits, dealing magic damage to enemies in the area. Damage is split amongst targets hit. Units hit by Body Slam are slowed by 35% for 2.5 seconds.
+Cooldown: 7 seconds
+Range: 650 (estimate)
+Collision radius:
+
+
+Cost: 50 / 55 / 60 / 65 / 70 mana
+Total Magic Damage: 80 / 120 / 160 / 200 / 240 (+0.5 per ability power) (+0.66 per attack damage)
+
+Minimal Damage: 50 / 75 / 100 / 125 / 150
+Charge Speed: 650 / 750 / 850 / 950 / 1050 units/sec"
+"Explosive Cask"	"Gragas"	""	"(Active): Gragas throws his cask to a location, which explodes on impact, dealing magic damage to enemy units in the area and knocking them back.
+Range to Center: 1050
+Radius: 400 (estimate)
+Sight Radius: 1000 (estimate)
+Max. knockback distance: 800 (estimate)
+
+
+Cost: 100 / 125 / 150 mana
+Cooldown: 90 / 75 / 60 seconds
+Magic Damage: 200 / 325 / 450 (+1.0 per ability power)"
+"Voracity"	"Katarina"	"Champion Passive"	"(Innate): After a kill or an assist, Katarina gains 25 gold and her cooldowns are reduced by 15 seconds."
+"Bouncing Blade"	"Katarina"	""	"(Active): Katarina throws a dagger that will bounce from enemy to enemy, dealing magic damage. Each subsequent hit deals 10% less damage. The blade won't bounce to hit the same enemy more than once on the same cast.
+Range: 600
+
+
+Cooldown: 9 / 8.5 / 8 / 7.5 / 7 seconds
+Magic Damage: 60 / 95 / 130 / 165 / 200 (+0.8 per bonus attack damage) (+0.35 per ability power)
+
+Maximum Enemies Hit: 2 / 3 / 4 / 5 / 6"
+"Killer Instincts"	"Katarina"	""	"(Passive): Each of Katarina's autoattacks and abilities will deal extra damage per hit. This gives extra damage to each Bouncing Blade bounce and each Death Lotus dagger.
+Extra Damage: 8 / 12 / 16 / 20 / 24"
+"Shunpo"	"Katarina"	""	"(Active): Katarina moves to her target's location, appearing behind it. If the target is an enemy, she deals magic damage to the target.
+Range: 700
+
+
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Magic Damage: 80 / 120 / 160 / 200 / 240 (+0.75 per ability power)"
+"Death Lotus"	"Katarina"	""	"(Active): Katarina channels for 3 seconds, throwing 30 daggers over the duration to the 3 closest enemy champions in a nearby area around her. Each enemy champion can be hit by a maximum of 10 daggers.
+Radius of AoE: 550
+
+
+Cooldown: 60 / 55 / 50 seconds
+Magic Damage Per Dagger: 50 / 65 / 80   (+0.5 per bonus attack damage) (+0.25 per ability power)
+Maximum Magic Damage: 500 / 650 / 800   (+5 per bonus attack damage) (+2.5 per ability power)"
+"Holy Fervor"	"Kayle"	"Champion Passive"	"(Innate): Kayle's autoattacks against enemy champions reduces their armor and magic resistance by 3% for 5 seconds. This debuff stacks up to 5 times."
+"Reckoning"	"Kayle"	""	"(Active): Blasts a target, dealing magic damage and slowing its movement speed by 35% for 4 seconds. While the target is slowed, Kayle inflicts more damage to the target. Damage increase applies to summoner spells and items used by Kayle.
+Cooldown: 8 seconds
+Range: 650
+Missile Speed: 1300
+
+
+Cost: 70 / 75 / 80 / 85 / 90 mana
+Magic Damage: 60 / 110 / 160 / 210 / 260 (+1.0 per ability power) (+1.0 per bonus attack damage)
+
+Damage Amplification: 6 / 7 / 8 / 9 / 10 %"
+"Divine Blessing"	"Kayle"	""	"(Active): Blesses a target allied champion, healing them and increasing their movement speed for 2.5 seconds.
+Cooldown: 15 seconds
+Range: 1200
+
+
+Cost: 60 / 65 / 70 / 75 / 80 mana
+Heal: 45 / 85 / 125 / 165 / 205 (+0.35 per ability power)
+Movement Speed: 15 / 17 / 19 / 21 / 23 %"
+"Righteous Fury"	"Kayle"	""	"(Active): Kayle harnesses her righteous fury to increase her attack range by 400 (to 525) for 10 seconds. These attacks splash, dealing additional magic damage to her target and nearby units take a percent of her attack damage plus magic damage. This splash damage does not affect turrets.
+Cost: 45 mana
+Cooldown: 16 seconds
+Radius of Splash AoE: 300
+
+
+Magic Damage: 20 / 30 / 40 / 50 / 60 (+0.2 per ability power)
+Splash Damage: 20 / 25 / 30 / 35 / 40% of attack damage"
+"Intervention"	"Kayle"	""	"(Active): Kayle bathes a target ally champion (or herself) in holy light, rendering them immune to all damage for a few seconds.
+Range: 1200
+
+
+Cost: 100 / 75 / 50 mana
+Cooldown: 90 / 75 / 60 seconds
+Duration: 2 / 2.5 / 3 seconds"
+"Ionian Fervor"	"Irelia"	"Champion Passive"	"(Innate): Reduces the duration of stuns, slows, taunts, fears, snares, immobilizes, blinds and silences for each nearby enemy champion.
+1 Champion: 10%
+2 Champions: 25%
+3 Champions: 40%
+Radius: 1200 (sight range)"
+"Bladesurge"	"Irelia"	""	"(Active): Irelia dashes forward to strike her target, dealing physical damage. This applies on-hit effects. If it kills the target, Bladesurge's cooldown refreshes and refunds 35 mana.
+Range: 650
+
+
+Cost: 60 / 65 / 70 / 75 / 80 mana
+Cooldown: 14 / 12 / 10 / 8 / 6 seconds 
+Physical Damage: 20 / 50 / 80 / 110 / 140 (+1.0 per attack damage)"
+"Hiten Style: Passive"	"Irelia"	""	"(Passive): Irelia's autoattacks restore health to her.
+Health Restored: 10 / 14 / 18 / 22 / 26"
+"Equilibrium Strike"	"Irelia"	""	"(Active): Irelia pierces her target, dealing magic damage and slowing the target by 60% for few seconds. If the target has a higher health % than Irelia, she stuns the target for the duration instead.
+Cooldown: 8 seconds
+Range: 425
+
+
+Cost: 50 / 55 / 60 / 65 / 70 mana
+Magic Damage: 80 / 130 / 180 / 230 / 280 (+0.5 per ability power) 
+Duration: 1 / 1.25 / 1.5 / 1.75 / 2 second(s)"
+"Transcendent Blades"	"Irelia"	""	"(Active): Irelia summons 4 spirit blades which she can fire individually in a straight line to deal physical damage to enemies they pass through, and she heals for 25% of that damage vs champions and 10% vs minions.
+Cost: 100 mana
+Range: 1200
+
+
+Cooldown: 60 / 50 / 40 seconds
+Physical Damage Per Blade: 80 / 120 / 160   (+0.5 per ability power) (+0.6 per bonus attack damage)"
+"Mirror Image"	"LeBlanc"	"Champion Passive"	"(Innate): When LeBlanc is brought below 40% health, she instantly becomes stealthed for half a second. When the stealth fades, she creates a Mirror Image of herself that can move, deals no attack damage, has 53 + (17 x level) less health, and lasts for up to 8 seconds. This can only occur once per minute, regardless of cooldown reduction. The illusion's autoattacks will proc on-hit effects (including damage).
+Leash Range: 1125 (estimate)"
+"Sigil of Silence"	"LeBlanc"	""	"(Active): LeBlanc projects an orb towards her target, dealing magic damage and marking the target for 3.5 seconds. If the target takes damage from one of LeBlanc's abilities, the mark will trigger, dealing magic damage and silencing the target for 2 seconds.
+Cooldown: 6 seconds
+Range: 700
+
+
+Cost: 70 / 75 / 80 / 85 / 90 mana
+Initial Magic Damage: 70 / 110 / 150 / 190 / 230 (+0.6 per ability power)
+Secondary Magic Damage: 20 / 40 / 60 / 80 / 100 (+0.3 per ability power)"
+"Distortion"	"LeBlanc"	""	"(Active): LeBlanc rapidly dashes to a target location, dealing magic damage to units near the location. In the following 3 seconds, she can activate Distortion again to blink back to her starting location.
+Range to Center of AoE: 600
+Radius of AoE: 250
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Cooldown: 20 / 18 / 16 / 14 / 12 seconds
+Magic Damage: 85 / 125 / 165 / 205 / 245 (+0.6 per ability power)"
+"Ethereal Chains"	"LeBlanc"	""	"(Active): LeBlanc flings illusionary chains in a line towards a target location. If it hits an enemy unit, it will deal initial magic damage and leash to it, slowing their movement speed by 25% while the leash remains. If the target remains leashed after 2 seconds, the target takes additional magic damage and is snared for a few seconds.
+Cost: 80 mana
+Cooldown: 10 seconds
+Range: 950
+Leash Range: 1000
+
+
+Initial Magic Damage: 40 / 65 / 90 / 115 / 140 (+0.5 per ability power)
+Delayed Magic Damage: 40 / 65 / 90 / 115 / 140 (+0.5 per ability power)
+Snare Duration: 1 / 1.3 / 1.6 / 1.9 / 2.2 second(s)"
+"Mimic"	"LeBlanc"	""	"(Active): LeBlanc casts the previous spell she cast. The mimicked spell deals significantly increased damage.
+Cost: 100 / 50 / 0 mana
+Cooldown: 40 / 32 / 24 seconds
+Damage Increase: 10 / 25 / 40 %"
+"Sunlight"	"Leona"	"Champion Passive"	"(Innate): Leona's spells charge any enemy unit damaged with Sunlight for 3.5 seconds. When allied champions deal any damage to those targets they consume the Sunlight debuff to deal 20 /  35 /  50 /  65 /  80 / 95 /  110 /  125 /  140 additional magic damage. This additional damage is counted as the ally's damage and it will benefit from their magic penetration. Leona is unable to activate the additional damage herself."
+"Shield of Daybreak"	"Leona"	""	"(Active): Leona's next autoattack will deal additional magic damage and stun the target for 1.25 seconds.
+Cost: 45 / 50 / 55 / 60 / 65 mana
+Cooldown: 11 / 10 / 9 / 8 / 7 seconds
+Magic Damage: 40 / 70 / 100 / 130 / 160 (+0.3 per ability power)"
+"Eclipse"	"Leona"	""	"(Active): Leona raises her shield to gain bonus armor and magic resistance for 3 seconds.  When the effect ends she deals magic damage to nearby enemies. If any enemy was damaged by Eclipse, the defense buff is prolonged for an additional 3 seconds.
+Cost: 60 mana
+Cooldown: 14 seconds
+Radius:
+
+
+Armor &amp; Magic Resist Bonus: 30 / 40 / 50 / 60 / 70
+Magic Damage: 60 / 110 / 160 / 210 / 260 (+0.4 per ability power)"
+"Zenith Blade"	"Leona"	""	"(Active): Leona projects a solar image of her sword, which deals magic damage to all enemies in a line. When the image fades, the last enemy champion struck will be immobilized for 0.5 seconds and Leona will dash to them.
+Cost: 60 mana
+Range: 700
+
+
+Cooldown: 13 / 12 / 11 / 10 / 9 seconds
+Magic Damage: 60 / 100 / 140 / 180 / 220 (+0.4 per ability power)"
+"Solar Flare"	"Leona"	""	"(Active): Leona calls down a beam of solar energy to a target location. After a brief delay, it deals magic damage to all enemies in it and slows them by 80% for 1.5 seconds. Enemies in the center of the area are stunned instead of slowed.
+Range to Center of AoE: 1200
+Radius of Damaging AoE: 250
+Radius of Stun AoE: 100
+Radius of Sight AoE: 700
+
+
+Cost: 100 / 150 / 200 mana
+Cooldown: 90 / 75 / 60 seconds
+Magic Damage: 150 / 250 / 350 (+0.8 per ability power)"
+"Illumination"	"Lux"	"Champion Passive"	"(Innate): Lux's damaging spells charge the enemies hit with energy for 6 seconds. Lux's next attack will ignite the energy, dealing 10 + (10 x level) magic damage to the target."
+"Light Binding"	"Lux"	""	"(Active): Lux releases a sphere of light in a line, dealing magic damage to the first enemy it touches and half that damage to a second nearby unit. Additionally, the first unit struck is immobilized for 2 seconds, and the second unit for 1 second.
+Range: 1000
+
+
+Cost: 60 / 75 / 90 / 105 / 120 mana
+Cooldown: 15 / 14 / 13 / 12 / 11 seconds
+Magic Damage: 60 / 110 / 160 / 210 / 260 (+0.7 per ability power)"
+"Prismatic Barrier"	"Lux"	""	"(Active): Lux throws her wand to a target location and back, bending the light around herself and any friendly champions it touches, shielding them from damage for 3 seconds.
+Cost: 60 mana
+Range: 1000
+Missile speed: 1400
+
+
+Cooldown: 14 / 13 / 12 / 11 / 10 seconds
+Shield Strength: 80 / 105 / 130 / 155 / 180 (+0.35 per ability power)"
+"Lucent Singularity"	"Lux"	""	"(Active): Lux sends an anomaly of twisted light to a target area, which slows enemies on the zone. The zone will deal magic damage to the enemies on the area upon detonation. The zone will detonate itself after 5 seconds or it can be detonated early by Lux.
+Cooldown: 9 seconds after the area has been detonated
+Range to Center of AoE: 1100
+Radius of Damage AoE: 350
+Radius of Sight AoE: 575 (estimate)
+
+
+Cost: 70 / 85 / 100 / 115 / 130 mana
+Slow: 20 / 24 / 28 / 32 / 36 %
+Magic Damage: 60 / 105 / 150 / 195 / 240 (+0.6 per ability power)"
+"Finales Funkeln"	"Lux"	""	"(Active): After gathering energy for half a second, Lux will fire a broad and long-range beam of light in a line that  will instantly deal magic damage to all enemies in the area. In addition, the beam will trigger Lux's innate ability and re-apply the Illumination debuff again.
+Range: 3000
+
+
+Cost: 100 / 150 / 200 mana
+Cooldown: 80 / 60 / 40 seconds
+Magic Damage: 300 / 400 / 500 (+0.75 per ability power)"
+"Soul Siphon"	"Morgana"	"Champion Passive"	"(Innate): Morgana is granted 10 /  20 /  30% spell vamp."
+"Dark Binding"	"Morgana"	""	"(Active): Morgana releases a sphere of dark magic. Upon contact with an enemy unit, the sphere will deal damage and force the unit to the ground, making it unable to move.
+Cooldown: 11 seconds
+Range: 1300
+
+
+Cost: 60 / 75 / 90 / 105 / 120 mana
+Magic Damage: 80 / 135 / 190 / 245 / 300 (+0.9 per ability power)
+Duration: 2 / 2.25 / 2.5 / 2.75 / 3 seconds"
+"Tormented Soil"	"Morgana"	""	"(Active): Infects an area with desecrated soil for 5 seconds, causing enemy units who stand on the location to take magic damage and lose magic resistance every second they are standing on the area.
+Cooldown: 10 seconds
+Range to Center of AoE: 900
+Radius of AoE: 350
+
+
+Cost: 70 / 85 / 100 / 115 / 130 mana
+Magic Damage Per Second: 25 / 40 / 55 / 70 / 85 (+0.2 per ability power)
+Magic Resistance Reduction: 4 / 5 / 6 / 7 / 8 per second"
+"Black Shield"	"Morgana"	""	"(Active): Places a shield around target friendly champion, absorbing magic damage and preventing disables while the shield holds.
+Lasts 5 seconds or until the shield is broken.
+
+Cost: 50 mana
+Cooldown: 15 seconds
+Range: 600
+
+
+Shield Strength: 95 / 160 / 225 / 290 / 355 (+0.7 per ability power)"
+"Soul Shackles"	"Morgana"	""	"(Active): Morgana Latches chains of energy onto nearby enemy champions, dealing initial damage to them after a brief delay of 0.5 seconds, and slowing their movement speed by 20% for up to 3 seconds. If the target(s) stay in range for the full duration of the slow, they are dealt the same magic damage again and are stunned for 1.5 seconds.
+Range for activating: 600
+Max range after activation: 1000
+
+
+Cost: 100 / 150 / 200 mana
+Cooldown: 120 / 110 / 100 seconds
+Magic Damage: 175 / 250 / 325 (+0.8 per ability power)"
+"Spiked Shell"	"Rammus"	"Champion Passive"	"(Innate): Rammus receives 25% of his total armor as bonus attack damage."
+"Powerball"	"Rammus"	""	"(Active): Rammus enters a rolling ball state for up to 7 seconds, increasing his movement speed by 30% and then continues accelerating. Upon impacting with an enemy, all nearby enemies will be knocked back for an instant and be dealt magic damage. Additionally, targets affected by the impact will be slowed for 3 seconds.
+Cooldown: 10 seconds
+Impact radius: 200 (estimate)
+Knock back distance: 100 (estimate)
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Magic Damage: 100 / 150 / 200 / 250 / 300 (+1.0 per ability power)
+Slow: 20 / 25 / 30 / 35 / 40 %"
+"Defensive Ball Curl"	"Rammus"	""	"(Active): Rammus enter a defensive stance for 6 seconds, vastly increasing his armor and magic resistance and returning magic damage for each autoattack that enemies use on him.
+Cost: 50 mana.
+Cooldown: 14 seconds.
+
+
+Armor &amp; Magic Resist Bonus: 50 / 75 / 100 / 125 / 150
+Magic Damage Returned: 15 / 25 / 35 / 45 / 55 (+10% of total armor)"
+"Puncturing Taunt"	"Rammus"	""	"(Active): Rammus taunts a target enemy, reducing their armor and forcing them to attack Rammus for a few seconds.
+Cooldown: 12 seconds
+Range: 325
+
+
+Cost: 50 / 60 / 70 / 80 / 90 mana
+Armor Reduction: 10 / 15 / 20 / 25 / 30
+Duration: 1 / 1.5 / 2 / 2.5 / 3 seconds"
+"Tremors"	"Rammus"	""	"(Active): Rammus creates tremors beneath him for 8 seconds dealing magic damage to nearby units and structures each second. Rammus can move, attack and use other abilities while Tremors is in effect.
+Cost: 120 mana
+Cooldown: 60 seconds
+Radius of AoE: 300
+
+
+Magic Damage Per Second: 65 / 130 / 195 (+0.30 per ability power)
+Maximum Magic Damage: 520 / 1040 / 1560 (+2.40 per ability power)"
+"Reign of Anger"	"Renekton"	"Champion Passive"	"(Innate): When Renekton is below 50% health he generates 50% more fury from all sources."
+"Cull the Meek"	"Renekton"	""	"(Active): Renekton swings his blade dealing physical damage to nearby enemies and healing for 5% of the damage dealt up to a cap. Heal amount is quadrupled against champions. Each target hit grants 5 Fury.
+When Renekton has 50 or more Fury he deals 50% additional damage and heals for 10% of the damage dealt, the healing cap is tripled. Consumes 50 Fury. 
+
+Cooldown: 8 seconds
+Radius: 450 (estimate)
+
+
+Physical Damage: 60 / 90 / 120 / 150 / 180 (+0.8 per bonus attack damage)
+Healing Cap: 50 / 75 / 100 / 125 / 150
+Fury Empowered Physical Damage: 90 / 135 / 180 / 225 / 270 (+1.2 per bonus attack damage)
+Fury Empowered Healing Cap: 150 / 225 / 300 / 375 / 450"
+"Ruthless Predator"	"Renekton"	""	"(Active): Renekton’s next attack will swing twice dealing physical damage and stunning his target for 0.75 seconds. Each hit applies on-hit effects.
+When Renekton has 50 or more Fury his next attack will swing three times dealing physical damage and stunning his target for 1.5 seconds. Consumes 50 Fury.
+
+
+Cooldown: 13 / 12 / 11 / 10 / 9 seconds
+Physical Damage Per Swing: 5 / 15 / 25 / 35 / 45 (+0.75 per attack damage)"
+"Slice and Dice"	"Renekton"	""	"Slice (Active): Renekton dashes forward, dealing physical damage to targets along the way. If he hits a target he gains the ability to use Dice for 4 seconds.
+Range: 550 (estimate)
+
+
+Cooldown: 18 / 17 / 16 / 15 / 14 seconds
+Physical Damage: 30 / 60 / 90 / 120 / 150 (+0.9 per bonus attack damage)"
+"Dominus"	"Renekton"	""	"(Active): Renekton empowers himself with dark energies, gaining increased size and health for 15 seconds. While empowered, he deals magic damage to nearby enemies and generates 5 Fury per second.
+Cooldown: 120 seconds
+Radius of AoE: 350
+
+
+Health Gain: 300 / 450 / 600
+Magic Damage Per Second: 40 / 70 / 100 (+0.1 per ability power)"
+"Icathian Surprise"	"Kog'Maw"	"Champion Passive"	"(Innate): Upon dying, Kog'Maw starts a chain reaction in his body which allows him to move faster for 4 seconds and detonate at the end of the duration, dealing 100 + (25 x level) true damage to surrounding enemies."
+"Caustic Spittle"	"Kog'Maw"	""	"(Passive): Permanently increases Kog'Maw's attack speed.
+Attack Speed Bonus: 10 / 15 / 20 / 25 / 30 %"
+"Bio-Arcane Barrage"	"Kog'Maw"	""	"(Active): For 8 seconds, Kog'Maw's autoattacks gain range and deal additional magic damage which is equal to a percentage of the target's max health. The damage caps at 100 against minions and monsters.
+Cost: 50 mana
+Cooldown: 17 seconds
+
+
+Bonus Range: 130 / 150 / 170 / 190 / 210
+Max Health to Damage Ratio: 2 / 3 / 4 / 5 / 6% (+1% per 100 ability power)"
+"Void Ooze"	"Kog'Maw"	""	"(Active): Kog'Maw launches a projectile in a line in front of him which deals magic damage to all enemies it passes through and leaves a trail for 4 seconds which slows enemies who stand on it.
+Cooldown: 12 seconds
+Range: 1,000
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Magic Damage: 60 / 110 / 160 / 210 / 260 (+0.7 per ability power)
+Slow: 28 / 36 / 44 / 52 / 60 %"
+"Living Artillery"	"Kog'Maw"	""	"(Active): Kog'Maw launches a living artillery shell to a target location at a great distance which falls after a 0.6 second delay, dealing magic damage to all enemies hit and revealing them for 4 seconds. It deals 2.5 times as much base damage to champions.
+Each subsequent Living Artillery in the next 6 seconds after a cast will cost 40 additional mana, capping at 200 per cast.
+
+Cost: 40 mana
+Radius of AoE: 200
+
+
+Cooldown: 2 / 1.5 / 1 second(s)
+Magic Damage: 80 / 120 / 160   (+0.3 per ability power) (+0.5 per bonus attack damage)
+Magic Damage to Champions: 200 / 300 / 400   (+0.3 per ability power) (+0.5 per bonus attack damage)
+
+Range to Center of AoE: 1,400 / 1,800 / 2,200"
+"Arcane Mastery"	"Ryze"	"Champion Passive"	"(Innate): When Ryze casts a spell, all other spells have their cooldown reduced by 1 second."
+"Overload"	"Ryze"	""	"(Passive): Ryze gains cooldown reduction.
+Cooldown Reduction: 2 / 4 / 6 / 8 / 10 %"
+"Rune Prison"	"Ryze"	""	"(Active): Ryze snares an enemy unit, preventing movement. Upon casting, this spell also deals magic damage plus additional damage equal to 5% of Ryze's maximum mana.
+Cooldown: 14 seconds
+Range: 625
+
+
+Cost: 80 / 95 / 110 / 125 / 140 mana
+Magic Damage: 60 / 95 / 130 / 165 / 200 (+0.6 per ability power) (+5% of max mana)
+
+Duration: 1 / 1.25 / 1.5 / 1.75 / 2 seconds"
+"Spell Flux"	"Ryze"	""	"(Active): Ryze unleashes a bouncing orb of magical power which bounces to enemy units or himself, up to 5 times (for total of 6 hits). Each bounce deals magic damage and reduces the target's magic resistance for 5 seconds. If the orb bounces to Ryze himself, it will not decrease his magic resistance or deal damage.
+Cooldown: 14 seconds
+Range: 675
+
+
+Cost: 60 / 75 / 90 / 105 / 120 mana
+Magic Damage: 50 / 70 / 90 / 110 / 130 (+0.35 per ability power)
+Magic Resist Reduction: 12 / 15 / 18 / 21 / 24"
+"Desperate Power"	"Ryze"	""	"(Passive): Ryze gains bonus mana.
+Bonus Mana: 75 / 150 / 225"
+"Fury of the Dragonborn"	"Shyvana"	"Champion Passive"	"(Innate): Shyvana's autoattacks enhance her abilities."
+"Twin Bite"	"Shyvana"	""	"(Active): Shyvana next autoattack will strike twice in one swift movement. The second attack will deal physical damage equal to a percentage of her total attack damage. Both attacks will trigger on-hit effects and Fury of the Dragonborn effects.
+Dragon Form: Twin Bite will damage all units in front of Shyvana when she uses her next autottack instead of just her target. Each unit hit will be dealt on-hit effects and grant Fury twice.
+Fury of the Dragonborn: Each auto attack reduces the cooldown by 0.5 seconds. This doesn't work on structures.
+
+
+Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+Second Strike Damage: 80 / 85 / 90 / 95 / 100 % of attack damage"
+"Burnout"	"Shyvana"	""	"(Active): During the next 3 seconds, Shyvana will deal magic damage each second to nearby enemies and her movement speed will be greatly increased. Shyvana's movement speed bonus itself will be reduced multiplicatively by 15% for every second that passes.
+Dragon Form: Shyvana now scorches the earth where she walks, leaving a trail of fire for 5 seconds that will continually deal magic damage to enemies that pass over it.
+
+ Cooldown: 12 seconds
+ Radius of AoE: 325
+
+Fury of the Dragonborn: Each auto attack extends the duration of Burnout by 1 second to a maximum of 6 extra seconds. This works on structures.
+
+
+Magic Damage Per Second: 25 / 40 / 55 / 70 / 85 (+0.2 per bonus attack damage)
+Initial Movement Speed Bonus: 30 / 35 / 40 / 45 / 50 %"
+"Flame Breath"	"Shyvana"	""	"(Active): Shyvana unleashes a fireball forward in a line that affects the first enemy it hits, dealing magic damage to it and reducing its armor by 15% for 4 seconds.
+Dragon Form: Flame Breath engulfs all units in a cone in front of Shyvana.
+
+ Range: 925
+
+Fury of the Dragonborn: Each autoattack that hits debuffed targets will deal 15% of the ability's damage as additional magic damage.
+
+
+Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+Magic Damage: 80 / 125 / 170 / 215 / 260 (+0.6 per ability power)
+Additional On-hit Magic Damage: 12 / 18.75 / 25.5 / 32.25 / 39 (+0.09 per ability power)"
+"Dragon's Descent"	"Shyvana"	""	"(Passive): Shyvana reinforces her scales, increasing her armor and magic resistance. These defensive bonuses are doubled while in Dragon Form.
+(Active): Shyvana transforms into a dragon and dashes to a target location. Enemies along her path take magic damage and are pushed toward her target location.
+
+ Range: 1000 
+
+This ability has no cooldown but to use it Shyvana needs 100 Fury. Shyvana generates 1 Fury every 1.5 seconds while in Human Form. While in Dragon Form, she will lose 6 fury every second and once the Fury bar is empty she will return to her normal state.
+Fury of the Dragonborn: Each of her autottacks will generate 2 Fury. This will allow for Shyvana to prolong the duration of Dragon Form by attacking. This ability works on structures.
+
+
+Passive Armor and Magic Resistance Bonus: 15 / 20 / 25
+Magic Damage: 200 / 300 / 400 (+0.7 per ability power)"
+"Carrion Renewal"	"Swain"	"Champion Passive"	"(Innate): Whenever Swain kills an enemy unit, he restores 9 (+1 per level) mana."
+"Decrepify"	"Swain"	""	"(Active): Swain sends his raven to cripple an enemy, creating a tether between the enemy and the raven, which stays in the position Swain was upon cast. Over the next 3 seconds, the target takes damage each second and is slowed. If enemies walk out of the tether, the effect ends immediately.
+Cooldown: 8 seconds
+Range: 550
+Leash range: 900 (estimate)
+
+
+Cost: 60 / 70 / 80 / 90 / 100 mana
+Magic Damage Per Second: 25 / 40 / 55 / 70 / 85 (+0.3 per ability power) 
+Maximum Magic Damage: 75 / 120 / 165 / 210 / 255 (+0.9 per ability power)
+Slow: 20 / 23 / 26 / 29 / 32 %"
+"Nevermove"	"Swain"	""	"(Active): Swain marks a target area. After a short delay, mighty talons grab hold of enemy units, dealing damage and rooting them for 2 seconds.
+Range: 900
+Radius: 250 - 275 (estimate)
+
+
+Cost: 80 / 90 / 100 / 110 / 120 mana
+Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+Magic Damage: 80 / 120 / 160 / 200 / 240 (+0.7 per ability power)"
+"Torment"	"Swain"	""	"(Active): Swain afflicts his target with debilitating pain dealing damage to them over 4 seconds, and causing any further damage dealt by Swain during this period to be increased by a percentage. This includes summoner spells and items used by Swain.
+Cooldown: 10 seconds
+Range: 625
+
+
+Cost: 65 / 70 / 75 / 80 / 85 mana
+Total Magic Damage: 75 / 115 / 155 / 195 / 235 (+0.8 per ability power)
+Extra Damage Taken: 8 / 11 / 14 / 17 / 20 %"
+"Ravenous Flock"	"Swain"	""	"(Toggle): Swain transforms into the form of a raven, during this time up to 3 lesser ravens strike out at nearby enemies each second, one raven per enemy and prioritizing champions. Swain is healed for 75% the damage dealt to champions and by 25% of the damage dealt to minions and monsters. The cost to sustain Ravenous Flock increases every second.
+Initial cost: 25 mana
+Cooldown: 10 seconds
+Range: 700 (estimate)
+
+
+Upkeep Cost: 5 / 7 / 9 additional mana each second
+Magic Damage per Target: 50 / 70 / 90 (+0.2 per ability power)"
+"Mercy"	"Talon"	"Champion Passive"	"(Innate): Talon's autoattacks deal 10% additional damage to any target that is slowed, stunned, immobilized or suppressed."
+"Noxian Diplomacy"	"Talon"	""	"(Active): Talon's next autoattack within the next 6 seconds deals additional physical damage. If the target is a champion they will also bleed for 6 seconds, taking additional physical damage each second and revealing their location for the duration.
+Cost: 40 / 45 / 50 / 55 / 60 mana
+Cooldown: 8 / 7 / 6 / 5 / 4 seconds
+Additional Physical Damage: 30 / 60 / 90 / 120 / 150 (+0.3 per bonus attack damage) 
+Total DoT Damage: 18 / 36 / 54 / 72 / 90 (+1.2 per bonus attack damage)"
+"Rake"	"Talon"	""	"(Active): Talon sends out a volley of daggers in a cone that then quickly return back to him, dealing physical damage to any enemies it passes through. Each enemy can only be damaged once at the start of the ability and once at the end. Additionally the enemy is slowed for 2 seconds, refreshing the duration of the slow if they are hit twice.
+Cooldown: 10 seconds
+Range: 600
+
+
+Cost: 60 / 65 / 70 / 75 / 80 mana
+Physical Damage Per Hit: 30 / 55 / 80 / 105 / 130 (+0.6 per bonus attack damage) 
+Slow: 20 / 25 / 30 / 35 / 40 %"
+"Cutthroat"	"Talon"	""	"(Active): Talon instantly appears behind his target, silencing them for 1 second and amplifying his damage against that target for 3 seconds.
+Range: 700
+
+
+Cost: 35 / 40 / 45 / 50 / 55 mana
+Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+Damage Amplification: 3 / 6 / 9 / 12 / 15 %"
+"Shadow Assault"	"Talon"	""	"(Active): Talon disperses a ring of blades outwards and gains stealth for up to 2.5 seconds while gaining 40% movement speed. When Talon emerges from stealth, the blades converge on his location. When the ring of blades expands and contracts, enemies hit receive physical damage. Each enemy can only be damaged once at the start of the ability and once at the end.
+Radius of AoE: 500
+
+
+Cost: 80 / 90 / 100 mana
+Cooldown: 75 / 65 / 55 seconds
+Physical Damage Per Hit: 120 / 190 / 260 (+0.9 per bonus attack damage)"
+"Draw a Bead"	"Tristana"	"Champion Passive"	"(Innate): Tristana increases her autoattack range by 9 every time she levels up (does not include level one). At level 18, the bonus is 153 (703 total range)."
+"Rapid Fire"	"Tristana"	""	"(Active): Increases Tristana's attack speed for 7 seconds.
+Cost: 80 mana
+Cooldown: 20 seconds
+
+
+Attack Speed Boost: 30 / 45 / 60 / 75 / 90 %"
+"Rocket Jump"	"Tristana"	""	"(Active): Tristana fires at the ground to propel herself to a target location, dealing magic damage and slowing surrounding units by 60% for 2.5 seconds when she lands. On kills or assists, Rocket Jump's cooldown resets.
+Cost: 80 mana
+Range to Center of AoE: 900
+Radius of AoE:
+
+
+Cooldown: 22 / 20 / 18 / 16 / 14 seconds
+Magic Damage: 70 / 115 / 160 / 205 / 250 (+0.8 per ability power)"
+"Explosive Shot"	"Tristana"	""	"(Passive):  Enemies explode when slain by Tristana's attacks, dealing magic damage to nearby enemies.
+Radius:
+
+
+Magic Damage: 50 / 75 / 100 / 125 / 150 (+0.25 per ability power)"
+"Buster Shot"	"Tristana"	""	"(Active): Tristana fires a massive cannonball at an enemy unit, dealing magic damage and knocking them and surrounding units back.
+Cost: 140 mana
+Cooldown: 60 seconds
+Range: 700
+Knockback Force Width: 200
+
+
+Magic Damage: 300 / 400 / 500 (+1.5 per ability power)
+Knockback Distance: 600 / 800 / 1,000"
+"Equilibrium"	"Veigar"	"Champion Passive"	"(Innate): Veigar's mana regen is increased by 0.75% for each 1% of mana he's missing."
+"Baleful Strike"	"Veigar"	""	"(Passive): Veigar gains bonus ability power for each champion kill from any damage source.
+Ability Power Gain Per Champion Kill: 1 / 2 / 3 / 4 / 5"
+"Dark Matter"	"Veigar"	""	"(Active): Veigar calls a great mass of dark matter to fall from the sky to the target location, which lands after a 1.2 second delay, dealing magic damage.
+Cooldown: 10 seconds
+Range: 900
+Radius: 225 (estimate)
+
+
+Cost: 70 / 80 / 90 / 100 / 110 Mana
+Magic Damage: 120 / 170 / 220 / 270 / 320 (+1.0 per ability power)"
+"Event Horizon"	"Veigar"	""	"(Active): Veigar twists the edges of space around the target location for 3 seconds, stunning enemies who pass through the perimeter for a few seconds.
+Range: 600
+Radius: 425 (estimate)
+
+
+Cost: 80 / 90 / 100 / 110 / 120 Mana
+Cooldown: 20 / 19 / 18 / 17 / 16 seconds
+Stun Duration: 1.5 / 1.75 / 2 / 2.25 / 2.5 seconds"
+"Primordial Burst"	"Veigar"	""	"(Active): Blasts an enemy champion, dealing magic damage plus 80% of his target's ability power.
+Range: 650
+
+
+Cost: 125 / 175 / 225 Mana
+Cooldown: 130 / 110 / 90 seconds
+Magic Damage: 250 / 375 / 500 (+1.2 per ability power)"
+"Night Hunter"	"Vayne"	"Champion Passive"	"(Innate): Vayne gains 30 flat movement speed when moving towards a nearby visible enemy champion.
+Range: 2000"
+"Tumble"	"Vayne"	""	"(Active): Vayne quickly rolls toward the cursor and enhances her next autoattack within 6 seconds to deal a percentage of her attack damage as bonus physical damage. This enhanced attack will not proc against structures.
+Cost: 40 mana
+Range: 250
+
+
+Cooldown: 6 / 5 / 4 / 3 / 2 seconds
+Bonus Physical Damage: 30 / 35 / 40 / 45 / 50 % of attack damage"
+"Silver Bolts"	"Vayne"	""	"(Passive): Vayne's consecutive attacks and spell hits on a target will mark them with a silver ring. The third consecutive attack or spell hits against the same target will consume the rings, dealing true damage plus a percentage of the target's maximum health as additional true damage. Damage against monsters is capped at 200. The rings on a target are lost after 3 seconds of not attacking them or upon attacking a different target.
+Base True Damage: 20 / 30 / 40 / 50 / 60
+Max Health to Damage Ratio: 4 / 5 / 6 / 7 / 8 %"
+"Condemn"	"Vayne"	""	"(Active): Vayne fires a huge bolt at her target, dealing physical damage and knocking them back. If they collide with terrain after being knocked back, they are dealt the same amount of physical damage again and are stunned  for 1.5 seconds. This ability also applies one ring of Silver Bolts.
+Cost: 90 mana
+Range: 450
+Maximum Knockback distance: 470 (estimate)
+
+
+Cooldown: 20 / 18 / 16 / 14 / 12 seconds
+Physical Damage: 45 / 80 / 115 / 150 / 185 (+0.5 per bonus attack damage)"
+"Final Hour"	"Vayne"	""	"(Active): Vayne increases her combat skills and improves her abilities for a few seconds. For the duration, Vayne is granted bonus attack damage and the bonus movement speed from Night Hunter is tripled. Additionally, she will stealth for 1 second after using Tumble.
+Cooldown: 70 seconds
+Cost: 80 mana
+
+
+Duration: 8 / 10 / 12 seconds
+Bonus Attack Damage: 25 / 40 / 55"
+"Zaun-Touched Bolt Augmenter"	"Urgot"	"Champion Passive"	"(Innate): Urgot's autoattacks and Acid Hunter reduce all damage that his target deals by 15% for 2.5 seconds."
+"Acid Hunter"	"Urgot"	""	"(Active): Urgot fires a missile in a line towards the cursor, dealing physical damage and applying his passive, although it does not apply other on-hit effects, to the first enemy it hits.
+Missile-lock can be achieved by holding the cursor over target afflicted by Noxian Corrosive Charge. It will lock onto invisible units afflicted by Noxian Corrosive Charge including mushrooms, but it will not reveal targets hit.
+
+Cost: 40 mana
+Cooldown: 2 seconds
+Range: 1000
+
+
+Physical Damage: 10 / 40 / 70 / 100 / 130 (+0.85 per attack damage)"
+"Terror Capacitor"	"Urgot"	""	"(Active): Urgot charges up his capacitor to gain a shield that absorbs damage for 7 seconds. While the shield is active, Urgot's autoattacks and Acid Hunter missiles will slow targets for 1.5 seconds.
+Cost: 55 / 60 / 65 / 70 / 75 mana
+Cooldown: 16 / 15 / 14 / 13 / 12 seconds
+Shield Strength: 80 / 140 / 200 / 260 / 320 (+0.8 per ability power)
+Slow: 20 / 25 / 30 / 35 / 40 %"
+"Noxian Corrosive Charge"	"Urgot"	""	"(Active): Urgot launches a corrosive charge at a target location, afflicting all targets hit. Enemies afflicted by the charge have reduced armor and will take physical damage over 5 seconds.
+Cooldown: 11 seconds
+Range To Center Of AoE: 950
+Radius:
+
+
+Cost: 50 / 55 / 60 / 65 / 70 mana
+Total Physical Damage: 75 / 130 / 185 / 240 / 295 (+0.6 per bonus attack damage)
+Armor Reduction: 12 / 14 / 16 / 18 / 20 %"
+"Hyper-Kinetic Position Reverser"	"Urgot"	""	"(Active): Urgot targets an enemy champion and channels for 1 second, suppressing the target for the duration. After the channel, Urgot and the target will swap positions and the target will be slowed by 40% for 3 seconds. Urgot will gain bonus armor and magic resistance for 5 seconds starting from the beginning of the channel time.
+Cost: 120 mana
+Cooldown: 120 seconds
+
+
+Range: 700 / 775 / 850
+Bonus Armor &amp; Magic Resist: 80 / 105 / 130"
+"Ascended Form"	"Xerath"	"Champion Passive"	"(Innate): Xerath receives 15% of his ability power as bonus armor."
+"Arcanopulse"	"Xerath"	""	"(Active): Fires a long-range beam of energy in a line after a short delay, dealing magic damage to all targets hit.
+Range: 900/1300
+Width: 100
+
+
+Cost: 65 / 70 / 75 / 80 / 85 mana
+Damage: 75 / 115 / 155 / 195 / 235 (+0.6 per ability power)
+Cooldown: 7 / 6.5 / 6 / 5.5 / 5 seconds"
+"Locus of Power"	"Xerath"	""	"(Active): Xerath anchors himself to the ground he is standing on for up to 8 seconds, increasing the range of all his spells and granting him bonus magic penetration. Upon disabling this ability, Xerath gains 35% movement speed for 2 seconds. He can deactivate the ability at any time after 0.5 seconds of casting it.
+ No cost
+
+
+Cooldown: 20 / 16 / 12 / 8 / 4 seconds
+Bonus Magic Penetration: 10 / 15 / 20 / 25 / 30 %"
+"Mage Chains"	"Xerath"	""	"(Active): Deals magic damage to an enemy and marks them with Unstable Magic for 3 seconds. The next spell Xerath strikes this enemy with in these 3 seconds will stun them for 1.5 seconds.
+ Range: 600/1000
+
+
+Cost: 70 / 75 / 80 / 85 / 90 mana
+Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+Magic Damage: 70 / 120 / 170 / 220 / 270 (+0.7 per ability power)"
+"Arcane Barrage"	"Xerath"	""	"(Active): Calls down a blast of arcane energy, dealing magic damage to all enemies in an area. May be cast another two times, with no cost, within the next 12 seconds before going on cooldown.
+ Range: 900/1300
+ Effect radius: 200
+ Sight radius: 300
+
+
+Cost: 150 / 180 / 210 mana
+Cooldown: 80 / 70 / 60 seconds
+Magic Damage Per Cast: 125 / 200 / 275 (+0.6 per ability power)"
+"Junkyard Titan"	"Rumble"	"Champion Passive"	"(Innate): When Rumble reaches 100 heat he overheats, silencing himself for 6 seconds to cooldown completely and causing his basic attacks to deal an additional 20 + (5 x level) + (0.3 per ability power) magic damage for the duration."
+"Flamespitter"	"Rumble"	""	"(Active): Rumble activates his flamethrower for three seconds dealing magic damage to all units in a cone in front of him every half-second. Flamespitter only deals half damage to minions. He can move, attack and use other abilities while the flamethrower is on.
+While in the ""Danger Zone"", this spell deals 30% additional damage.
+
+Cooldown: 6 seconds
+Range: 600
+
+
+Magic Damage Per Second: 30 / 60 / 90 / 120 / 150 (+0.45 per ability power)"
+"Scrap Shield"	"Rumble"	""	"(Active): Rumble creates a shield blocking incoming damage for 2 seconds, in addition Rumble receives a movement speed boost for 1 second.
+While in the ""Danger Zone"", the shield’s strength and movement speed boost are increased by 30%.
+
+Cooldown: 6 seconds
+
+
+Shield Strength: 50 / 80 / 110 / 140 / 170 (+0.4 per ability power)
+Movement Speed: 10 / 15 / 20 / 25 / 30 %"
+"Electro-Harpoon"	"Rumble"	""	"(Active): Rumble shoots a taser that deals magic damage and applies a slow on the first enemy it hit for 3 seconds. A second shot can be fired for no additional cost within the next three seconds, even if Rumble overheats. If the second taser slows an enemy that has been slowed by the first, the slow is refreshed and its movement speed reduction is doubled.
+While in the ""Danger Zone"", the damage and slow percentage are increased by 30%.
+
+Cooldown: 10 seconds
+Range: 1000
+
+
+Magic Damage: 55 / 85 / 115 / 145 / 175 (+0.5 per ability power)
+Initial Slow: 15 / 20 / 25 / 30 / 35 %"
+"The Equalizer"	"Rumble"	""	"(Active): Rumble calls down a line of rockets over the target linear location, using a click and drag targeting system. The rockets deal initial magic damage to all enemies hit on arrival, and also leave a trail of destruction for 5 seconds that slows by 35% and deals magic damage every second to all enemies standing on the area.
+Range: 1700
+Wall length: 1000 (estimate)
+
+
+Cooldown: 105 / 90 / 75 seconds
+Initial Magic Damage: 150 / 225 / 300 (+0.5 per ability power)
+Area Magic Damage Per Second: 100 / 140 / 180 (+0.2 per ability power)"

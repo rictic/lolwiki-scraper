@@ -55,11 +55,11 @@ function writeToTsvFile(path, fields, items) {
 }
 
 function encodeCell(str) {
-  return '"' + str.replace(/"/, '""')+'"';
+  return '"' + str.replace(/"/g, '""')+'"';
 }
 
 function htmlEntityExpansion(str) {
-  return str.replace(/&#39;/g, "'").replace(/&gt;/g, ">").replace(/&minus;/g, "-").replace(/&nbsp;/g, " ").replace(/&ndash;/g, "–").replace(/&#91;/g, "[").replace(/&#93;/g, "]");
+  return str.replace(/&#39;/g, "'").replace(/&gt;/g, ">").replace(/&minus;/g, "-").replace(/&nbsp;/g, " ").replace(/&ndash;/g, "–").replace(/&#91;/g, "[").replace(/&#93;/g, "]").replace(/&#32;/g, " ");
 }
 
 exports.htmlEntityExpansion = htmlEntityExpansion;
